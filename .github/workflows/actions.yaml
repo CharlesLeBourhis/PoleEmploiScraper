@@ -1,8 +1,10 @@
 name: run scrap.py
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 10 * * *'
+    - cron: '0 10 * * 1'
 
 jobs:
   build:
@@ -24,43 +26,10 @@ jobs:
     - name: execute main.py
       run: python main.py
 
-    - name: Commit and push
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
-
-
-
-name: run merge.py
-
-on:
-  schedule:
-    - cron: '0 0 * * 1'
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-
-    - name: checkout repo content
-      uses: actions/checkout@v2
-
-    - name: setup python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-        cache: 'pip'
+    - name: execute concat.py
+      if: github.event.shedule == '0 0 * * 1'
+      run: python concat.py
     
-    - name: install python packages
-      run: pip install -r requirements.txt
-
-    - name: execute merge.py
-      run: python merge.py
-
     - name: Commit and push
       run: |-
         git config user.name "Automated"
