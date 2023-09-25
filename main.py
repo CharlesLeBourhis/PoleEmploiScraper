@@ -6,7 +6,8 @@ from datetime import date
 if __name__ == "__main__":
 
     # URL = "https://candidat.pole-emploi.fr/offres/recherche?motsCles=Data+scientist&offresPartenaires=true&range=0-19&rayon=40&tri=0"
-    URL = "https://candidat.pole-emploi.fr/offres/emploi/data-scientist/s28m15"
+    # URL = "https://candidat.pole-emploi.fr/offres/emploi/data-scientist/s28m15"
+    URL = "https://candidat.pole-emploi.fr/offres/recherche?motsCles=Data+scientist&offresPartenaires=true&range=0-100&rayon=100&tri=1"
 
     r = requests.get(URL)
     soup = BeautifulSoup(r.content, "lxml")
