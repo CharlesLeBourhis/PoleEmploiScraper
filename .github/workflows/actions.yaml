@@ -27,7 +27,7 @@ jobs:
       run: python main.py
 
     - name: execute concat.py
-      if: github.event.shedule == '0 0 * * 1'
+      if: github.event.shedule == '0 10 * * 1'
       run: python concat.py
     
     - name: Commit and push
