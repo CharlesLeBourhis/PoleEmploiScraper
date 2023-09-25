@@ -1,0 +1,662 @@
+id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
+161XKKR,https://candidat.pole-emploi.fr/offres/recherche/detail/161XKKR,2023-09-24,Offre d'emploi Data Scientist - IA / Vision (H/F) - 51 - EPERNAY - 161XKKR | Pôle emploi,51 - EPERNAY,"-Prendre en charge la modélisation et l'analyse des données en vue de développer des modèles Deep Learning/Machine Learning adaptés à différents contextes agronomiques;
+Mener les phases de l'apprentissage et de la démonstration de performances des modèles développés;
+Identifier et procéder aux adaptations des modèles de manière pragmatique, pour assurer les niveaux de performance produits;
+Collaborer avec les équipes pour définir les besoins requis pour la data 2D/3D;
+Participer activement aux partenariats technologiques et scientifiques et aux discussions avec l'équipe interne;
+Assurer la veille technologique et scientifique.
+
+Profil recherché
+Vous avez une formation supérieure Doctorat/Post-Doc/ Ingénieur-Master Informatique, de très bonnes compétences en Data Science, traitement d'image et IA (ML/DL).
+Vous avez la rigueur scientifique pour évaluer la performance d'un modèle scientifique.
+Vous comprenez les enjeux de l'intelligence artificielle, et les mécanismes d'apprentissage.
+Vous maitrisez des langages de développement variés, et à minima Python et les principales librairies scientifiques.
+Vous savez être garant(e) d'un engagement qualité.
+Vous maîtrisez l'anglais à l'oral et l'écrit.","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,35000.0,40000.0,Exxact robotics,Débutant accepté,Contrat à durée indéterminée,True
+161VQBN,https://candidat.pole-emploi.fr/offres/recherche/detail/161VQBN,2023-09-24,Offre d'emploi Data Scientist F/H (H/F) - 91 - PALAISEAU - 161VQBN | Pôle emploi,91 - PALAISEAU,"Leader dans son secteur, SOCOTEC est le seul groupe international 100% dédié, depuis 70  ans, à la gestion des risques et au conseil technique dans la construction, l'immobilier et  les infrastructures. Pour accompagner sa croissance, SOCOTEC recrute 1500 nouveaux collaborateurs en 2023.
+
+Travailler chez SOCOTEC, c'est partager un métier au service d'une vision positive : inventer ensemble la ville de demain, plus sûre, durable et inclusive. Notre politique RSE faisant partie intégrante de notre stratégie d'entreprise, nous nous sommes fixés des objectifs concrets à horizon 2024 :
+
+Faire partie des entreprises ayant obtenu la certification Great Place to Work.
+33% de notre chiffre d'affaires issu de missions contribuant à réduire l'impact environnemental de nos clients (GreenTrust).
+La réduction de 15% de notre empreinte carbone.
+Rejoignez notre communauté d'experts !
+
+Socotec Monitoring France, filiale du groupe Socotec (un des leaders mondiaux des TIC) et basée sur le Plateau de Saclay, est une PME spécialisée dans l'instrumentation et la surveillance de tous types d'infrastructures (Centrales nucléaires, barrages, ponts, tunnels, réseaux,).  
+
+Ayant connu une très forte croissance depuis sa création en 2008, son objectif est aujourd'hui de devenir un leader mondial sur le marché du monitoring. Cohésion, performance, engagement et excellence sont des valeurs essentielles à toute personne souhaitant intégrer Socotec Monitoring France.
+
+Depuis 2020, SOCOTEC développe une activité Data auprès de ses clients historiques comme Ariane Groupe, RTE, SNCF, ministère de la Défense, Shell, Dassault,   Cette activité vise à déployer les services data (data mining, data engineering, Machine Learning) au près d'acteurs émergeant sur ces besoins en les accompagnant depuis la définition du besoin jusqu'à l'industrialisation des projets.
+
+Socotec Monitoring France recherche un(e) Data Scientist au sein de son département Data.
+
+Intégré à l'équipe du pôle Data de Socotec Monitoring France, vous rejoindrez une jeune équipe composée de Data Scientists, Data Engineers et ML Engineers.
+
+Vous travaillerez sur trois missions principales :
+
+- En interne (20%), vous participerez à la définition de la stratégie optimale de données pour Socotec Monitoring (structuration, processus, open data, achats de données externes)
+- Auprès des clients (60%), vous participerez au pilotage de A à Z de projets finaux : collecte des données, pipeline de prétraitement, modélisation et déploiement.
+- Vous choisirez un sujet de R&D (20%) pour vous confronter à l'état de l'art du domaine avec des possibilités de publication scientifique. Les sujets sont présentés et détaillés ci-après:
+          - Inspection 4.0 : Machine learning appliqué à l'inspection des ouvrages
+          - Détection de presque accident sur chantier assitée par IA
+          - Développement d'algorithmes d'aide à la décision appliqués aux données d'inspection et de monitoring des structures
+          - Maintenance prédictive appliquée aux capteurs
+          - Classification et spatialisation des essais géotechniques par des techniques de Machine Learning
+          - Estimation de l'emplacement optimal des forages par Machine Learning
+          - Mise à jour automatisée d'un modèle éléments finis (Model Updating)
+
+Le travail sera fait en collaboration avec une équipe de développeurs pour développer les modèles et héberger les livrables sur une plateforme web AWS.Vous ferez preuve d'autonomie, de sagacité et de qualités certaines dans la rédaction et la communication de son code. 
+
+Chez SOCOTEC Monitoring, les carrières sont construites avec vous vers ce qui vous correspond le mieux : expertise technique, management d'une équipe (lead data), etc.","
+Contrat à durée indéterminée
+
+Contrat travail
+",38H59 Travail en journée,35000.0,42000.0,Socotec monitoring france,Débutant accepté,Contrat à durée indéterminée,True
+161TCJQ,https://candidat.pole-emploi.fr/offres/recherche/detail/161TCJQ,2023-09-24,Offre d'emploi Data scientist - 94 - VINCENNES - 161TCJQ | Pôle emploi,94 - VINCENNES,"Entreprise
+WISP Solutions, incubée à Station F, réduit l'impact écologique des mobilités !
+Les données des véhicules connectés traitées par notre intelligence artificielle (Deep Reinforcement Learning) permettent de :
+- Optimiser, pour les villes, les coûts liés au trafic.
+- Réduire, pour les usagers, le temps d'attente.
+- Diminuer, pour tous, les émissions de CO2.
+Aujourd'hui nous sommes trois ingénieurs entrepreneurs et souhaitons agrandir l'équipe pour accélérer le développement de cette startup en France et bientôt à l'international !
+WISP Solutions rend la circulation intelligente.
+
+
+Missions :
+Nous avons des enjeux d'optimisation de notre modèle, aussi bien au niveau des résultats que des ressources nécessaires à l'entraînement.
+Nous souhaitons que le/la futur(e) data scientist :
+- améliore les performances du modèle et optimise le temps et les ressources nécessaires à l'entraînement.
+- étudie le State Of The Art (SOTA) du Multi Agent Reinforcement Learning (MARL), propose une étude des papiers les plus intéressants pour notre problématique et implémente ce choix !
+
+Dans un second temps, le/la futur(e) data scientist se concentrera sur différentes tâches de Data Analyse avancées en utilisant nos données, en vue d'obtenir des statistiques précises, des comptages significatifs et une segmentation stratégique.
+Dans cette phase de démarrage, chaque membre de l'équipe a vocation à avoir un impact important sur le projet. Nous recherchons un(e) coéquipier(e) qui fasse preuve d'autonomie et d'initiative, partageant notre envie de travailler pour notre planète !","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,unspecified,unspecified,Unspecified,6 mois,Contrat à durée indéterminée,False
+161SJMH,https://candidat.pole-emploi.fr/offres/recherche/detail/161SJMH,2023-09-24,Offre d'emploi Data scientist - 75 - PARIS 09 - 161SJMH | Pôle emploi,75 - PARIS 09,"Descriptif du poste
+*
+
+Alors que la transition technologique s'accélère, un grand nombre de données est perdu ou n'est pas exploité, faute de gestion ou de moyens humains.
+
+C'est pourquoi l'expertise de Dataleon et ses technologies sont mises à profit pour répondre à 3 objectifs :
+
+Améliorer l'exploitation des données pour servir la productivité et la performance des entreprises.
+Générer des modèles (algorithmes) précis et flexibles qui visent à pallier les potentielles erreurs humaines.
+Mettre à disposition des produits déployables rapidement par tous grâce à un système No-code.
+
+L'équipe cherche à innover afin de fournir une plateforme API performante et simple à utiliser, en mobilisant des technologies en Deep Learning ou le Computer Vision.
+
+Plus de 30 entreprises à travers le monde font confiance à Dataleon, issues de secteurs très variés comme la finance/ comptabilité, l'assurance, la logistique, le transport, la télécommunication, l'immobilier mais aussi l'univers musical, etc.
+
+Leurs collaborateurs contribuent à cette croissance en intégrant un environnement dynamique, formateur et à la pointe de la technologie.
+
+Notre Stack Technique !
+
+Python, NodeJS, PostgreSQL, OpenCV, Pillow, Pytorch, React
+
+Intégration continue et déploiement continue avec Github actions
+
+Test unitaire avec Pytest
+
+Notion & Github & Sentry
+
+Agile & Scrum
+
+GPU, Serverless AWS, S3, IoT, PubNub
+
+Tous les tools sont connectés à notre Slack
+
+Profil recherché
+*
+
+Pour continuer d'enrichir nos offres et en créer d'autres, nous recherchons des développeurs passionnés, ambitieux et rigoureux qui aiment relever des défis avec créativité et pragmatisme.
+Pour intégrer Dataleon :
+
+Une grande sensibilité aux algorithmes de traitement d'image en Python.
+
+Créer des programmes robustes, distribuer et simples d'utilisation sous Python, Pillow, OpenCV, SVG pour la computer vision
+
+De très bonnes connaissances en DevOps, Programmation web appréciée
+
+Ta personnalité
+
+Rigoureux(se), autonome, organisé(e) et passionné(e).
+
+Tu as un attrait pour les produits innovants et les nouveautés technologiques.","
+Contrat à durée déterminée - 13 Mois
+
+Contrat apprentissage
+",35H Travail en journée,1300.0,1500.0,Unspecified,Débutant accepté,Contrat à durée déterminée - 13 Mois,True
+161PCTC,https://candidat.pole-emploi.fr/offres/recherche/detail/161PCTC,2023-09-23,Offre d'emploi Data Scientist en Assurance Collective (H/F) - 10 - ROSIERES PRES TROYES - 161PCTC | Pôle emploi,10 - ROSIERES PRES TROYES,"En tant que Data Scientist en Assurance Collective, vos responsabilités principales incluront :
+
+- Analyser les données clients et partenaires pour identifier les tendances, les opportunités et 
+les domaines d'amélioration au sein de nos offres d'assurance collective.
+- Développer des modèles de machine learning et de deep learning afin de prédire les besoins
+futurs des clients et d'optimiser nos produits d'assurance.
+- Mettre en œuvre des techniques de traitement du langage naturel (NLP) pour améliorer 
+l'efficacité de notre service client et de notre gestion des réclamations.
+- Utiliser des outils tels que Docker, Git et Kedro pour créer un environnement de 
+développement efficace et reproductible.
+- Collaborer étroitement avec les équipes techniques et commerciales afin de fournir des 
+insights basés sur les données et de soutenir les initiatives de croissance de l'entreprise","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,unspecified,unspecified,Actisolutions,2 ans,Contrat à durée indéterminée,False
+161MQGD,https://candidat.pole-emploi.fr/offres/recherche/detail/161MQGD,2023-09-15,Offre d'emploi SENIOR DATA SCIENTIST PRODUCT OWNER H/F INSTRUMENTATION (H/F) - 75 - Paris (Dept.) - 161MQGD | Pôle emploi,75 - Paris (Dept.),"SENIOR DATA SCIENTIST - PRODUCT OWNER H/F
+INSTRUMENTATIONS SCIENTIFIQUES
+CDI - Basé.e IdF Sud
+
+Notre client est une société française spécialisée dans le développement d'instruments et dans la mise en œuvre de services pour des équipements d'analyse de la matière à base d'interrogation neutronique.
+
+Vous rejoignez une équipe professionnelle, dynamique et agréable que vous accompagnez et faite monter en compétences  au sein du groupe « systèmes neutroniques » en mettant en place les méthodologies, des outils, des guides et des formations. Vous gérez les moyens techniques et humains du groupe en charge des solutions algorithmiques développées, pour répondre aux besoins des clients. Vous assurez l'adéquation des compétences et des outils aux besoins des projets ainsi que des produits en cohérence avec la stratégie de l'entreprise. 
+
+VOS MISSIONS :
+ 	Assurer le pilotage, le cadrage des algorithmes et des logiciels scientifiques nécessaires au bon fonctionnement des solutions client et ce en phase de développement, de déploiement ou de maintenance. Vous assurez un rôle de Responsable Produit pour les algorithmes et les logiciels à produire.
+ 	Coordonner et organiser l'activité de l'équipe en charge de la partie Algorithmie des « Solutions » lors des différentes étapes de vie des applications. À ce titre vous assurez une bonne coordination avec l'équipe système mais aussi avec les clients internes (projets, SAV, etc.) avec lesquels vous êtes en interface.
+ 	Assurer le rôle d'Expert Fonctionnel en Data Sciences aux niveaux stratégique, tactique et opérationnel :
+
+o	Fixer et être garant des méthodologies de science des données et de développement logiciel de l'équipe facilitant la qualification des sous-projets, les développements itératifs, l'industrialisation des solutions, leur maintenabilité, la mesure et le suivi de leur performance
+o	Maintenir l'expertise sur les produits en opération, et les outils algorithmiques existants
+o	Assurer la veille dans son domaine métier, participer à des réseaux de partenaires et benchmarker
+o	Conseiller, guider et assurer la montée en compétences des ingénieurs de l'équipe
+o	Contribuer à l'amélioration et à la gestion du patrimoine de données de l'entreprise
+o	Promouvoir des solutions innovantes pour les algorithmes de traitement
+
+VOS ATOUTS POUR CE POSTE :
+-	Formation de niveau Bac+5 Ingénieur ou Master à dominante mathématiques/statistiques. Une spécialisation en instrumentation ou un sujet connexe (data science appliquée à la mesure physique, notamment nucléaire, etc.) est souhaitée
+-	Vous justifiez d'une expérience impérative de plus de 15 ans en tant que Data Scientist, Lead Data Scientist dans un secteur ou périmètre technique proche ou similaire (projet multidisciplinaire) 
+-	Une solide expérience du rôle de Product Owner pour des applications logiciels est recherchée 
+-	Une expérience dans un poste de management d'équipe et/ou candidat possédant une appétence.
+-	Maîtrise des langages & technologies : MATLAB, Python, machine learning
+-	Expérience significative dans l'architecture d'application ou de logiciel scientifique
+-	Expérience significative de gestion des développements dans un environnement Agile, dans l'utilisation de solution ALM (Tuleap), et en data management
+-	Capacité à communiquer de manière pédagogique sur des sujets complexes. 
+-	Vous savez parfaitement vous exprimer en anglais.
+
+
+Envoyez rapidement votre candidature (CV et lettre de motivation) sous référence MS290622-088 .","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,55000.0,65000.0,Acavi,15 ans,Contrat à durée indéterminée,False
+161MDNQ,https://candidat.pole-emploi.fr/offres/recherche/detail/161MDNQ,2023-09-23,Offre d'emploi Data scientist (H/F) - 75 - PARIS 09 - 161MDNQ | Pôle emploi,75 - PARIS 09,"Equancy est un cabinet de conseil international, basé à Paris et Dubaï, spécialisé dans la transformation data des entreprises.
+
+Nous planifions, concevons et mettons en œuvre des solutions Big Data, Data Science et Intelligence Artificielle pour nos clients. 
+Nos projets vont de la mise en œuvre d'infrastructures spécialisées dans le traitement de la donnée de nos clients, de lacs de données jusqu'au développement de systèmes opérationnels intégrant des algorithmes de machine learning ou de deep learning.
+Nous sommes experts dans l'industrialisation de ces plates-formes, en appliquant les principes du devops à nos infrastructures data.
+Nos clients sont de grands groupes français et internationaux (LVMH, Picard, Chanel VINCI, Volkswagen). Ils nous font confiance autant dans l'accompagnement au cadrage de leurs besoins que dans la réalisation des solutions data innovantes.
+
+Descriptif du poste :
+-	Vous participez à la compréhension du besoin métier et à la définition de l'approche de data science, encadré par un data scientist senior ou expert : données à utiliser, préparations nécessaires, approche algorithmique et de modélisation, évaluation des performances, optimisation des paramètres, itérations pour améliorer ;
+-	Vous réalisez les analyses nécessaires à une bonne prise en charge des données à disposition, contrôlez la cohérence, validez leur lecture ;
+-	Vous développez les traitements en Python (essentiellement) pour préparer les données, entraîner et optimiser les modèles de data science (statistiques, machine learning, deep learning), évaluer et valider leur performance ;
+-	Le cas échéant, en cas de fortes volumétries, vous travaillez en pyspark ;
+-	Vous pourriez avoir à développer des interfaces de visualisation et d'interaction avec les modèles développés (dash) ;
+-	Vous participez à l'industrialisation (MLOps) des modèles qui sont mis en production et interagissez avec l'équipe de data engineering ; 
+-	Vous évoluez dans des équipes fonctionnant en méthode Agile ;
+-	Vous documentez vos travaux et vos analyses ;
+-	Vous participez à la rédaction des restitutions et présentations des travaux réalisés auprès des commanditaires (internes ou clients).","
+Contrat à durée indéterminée
+
+Contrat travail
+",39H Travail en journée,unspecified,unspecified,Equancy snc,6 mois,Contrat à durée indéterminée,False
+161HFRG,https://candidat.pole-emploi.fr/offres/recherche/detail/161HFRG,2023-09-23,Offre d'emploi DataScientist Engineer - H/F - CDI (H/F) - 75 - Paris (Dept.) - 161HFRG | Pôle emploi,75 - Paris (Dept.),"Notre client souhaite renforcer son équipe Data avec un consultant ""DataScientist  Engineer confirmé"". Au sein d'une équipe dynamique vous aurez l'occasion d'apporter votre savoir faire dans des projets critiques pour l'entreprise  et de monter en compétence.
+
+2 postes à pourvoir
+Compétences techniques :
+- Langages de programmation : Python, SQL, R
+- Frameworks : Spark, Panda, Numpy, Scikit-learn, TensorFlow
+- Data Lake / Lakehouse : Databricks, DeltaLake, Azure Purview
+- Orchestration / DevOps : Git, AzureDevOps, Docker
+- Machine Learning :  MLFlow, AutoML, XGBoost, Keras
+- Cloud : Azure, AWS
+- Certification Databricks souhaitée ""Data Engineering Associate""
+ 
+Votre Rôle :
+ En tant que consultant DataScientist / ML-Engineer, vous serez amené à intervenir chez notre clients sur les sujets suivant : 
+- Analyse et définition des besoins business sur les problématiques IA / ML
+- Rétro ingénierie des modèles de Machine Learning développé par les équipes de Data Scientists pour optimisation et portabilité
+- Industrialisation des modèles de ML développés par les équipes de Data Scientists
+- Gestion du cycle de vie des modèles de Machine Learning : entraînement, détection de drift, model serving..
+- Utilisation de plateformes et outils Cloud : Microsoft Azure et Amazon AWS
+
+
+Profil recherché
+Diplôme d'ingénieur ou équivalent spécialisé en développement informatique et data, vous possédez minimum 2 années d'expérience en Data Engineering Une expérience en tant que consultant est aussi souhaitable.","
+Contrat à durée indéterminée
+
+Contrat travail
+",39H Travail en journée,39000.0,43000.0,Accure it,24 mois,Contrat à durée indéterminée,False
+161FSKS,https://candidat.pole-emploi.fr/offres/recherche/detail/161FSKS,2023-09-20,Offre d'emploi Lead Data Scientist (H/F) - 75 - PARIS 08 - 161FSKS | Pôle emploi,75 - PARIS 08,"Nous recrutons des personnes  ayant une appétence forte pour la Data, n'ayant pas peur d'apprendre et d'innover, pouvant participer à des débats enflammés sur l'IA et étant capable d'assumer une double casquette de consultant(e) et d'expert(e) technique à la fois et ayant des connaissances métier dans un domaine de prédilection du Big Data (banque, assurance, pharmaceutique, grande distribution, énergie, industrie, distribution, transport, marketing ou santé).
+
+Votre rôle relèvera de celui de pilier au sein de Quantmetry à travers la gestion d'équipes et de projets, et vous permettra de faire valoir votre expertise sur des sujets à forte composante quantitative dans des secteurs variés ou/et technique.
+
+Pour vous aider à vous projeter sereinement au sein de Quantmetry, nous vous proposons comme plan de carrière deux chemins possible :
+
+Celui de manager, à l'image d'un stratège menant ses équipes vers un but commun et ainsi vers la réussite à travers des projets Data d'envergures ;
+Celui d'expert(e) technique en IA pouvant être considéré comme une référence technique dans le monde de la Data Science.
+
+Pré-requis du poste
+- Aussi, vous l'aurez compris, une expérience dans le monde passionnant de la Data Science et un positionnement d'expert est recommandé  pour prendre part à l'aventure Quantmetry en tant que Lead data scientist senior (5 ans d'expérience minimum.).
+
+- Une expérience significative en cabinet conseil ou ESN.
+
+- Etre en capacité d'animer et de manager une équipe en interne, ainsi qu'en externe en tant que lead sur des missions (avoir 1 an d'expérience ou une 1ère expérience dans ces domaines).
+
+Qui plus est, si vous savez coder les yeux fermés en Python ou/et R, avez des connaissances solides comme le roc en machine learning, statistiques et analyse quantitative.
+Vous êtes aussi autonome qu'une Google Car sur l'environnement UNIX/LINUX (et plus prudent qu'une voiture autonome d'Uber) et ne pouvez vous endormir sans avoir relu une énième fois « The Elements of Statistical Learning »
+Qu'attendez-vous pour postuler ?","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,3666.0,5166.0,Quantmetry,5 ans,Contrat à durée indéterminée,False
+161BGYX,https://candidat.pole-emploi.fr/offres/recherche/detail/161BGYX,2023-09-24,Offre d'emploi Chargé d'analyse et d'expertise /Data Engineer /Data Scientist (H/F) - 94 - ST MAURICE - 161BGYX | Pôle emploi,94 - ST MAURICE,"Affectation : Direction Appui, Traitements et Analyses des données (DATA) / Unité Applications, big data et surveillance syndromique (ABISS)
+
+Missions : 
+Les grands rassemblements sportifs (Coupe du monde de rugby 2023 et JOP 2024) sont une opportunité pour déployer de nouveaux outils et de nouveaux dispositifs de surveillance, qui visent à compléter et renforcer le dispositif global de surveillance épidémiologique de l'agence. 
+Dans ce cadre, un système de surveillance sanitaire basé sur la remontée des données des SAMU est en cours de mise en place. Les équipes de la DATA travaillent également à renforcer leurs outils d'analyse et de reporting réactifs, basés sur les systèmes de surveillance existants : surveillance syndromique SurSaUD (passages aux urgences OSCOUR, actes médicaux SOS Médecins, mortalité Insee et via la certification électronique), surveillance des eaux usées SUM'EAU. 
+La personne recrutée aura pour missions principales d'assurer la constitution et la gestion de la base de données des SAMU (optimisation du traitement des données, construction et restitution automatisée d'indicateurs épidémiologiques...). En parallèle, la personne recrutée interviendra également en soutien aux équipes pour l'exploitation des autres systèmes d'information nationaux mobilisés pour la surveillance des JOP 2024, en particulier SurSaUD et SUM'EAU. 
+
+Activités : 
+Assurer le traitement, l'analyse et la restitution des données SAMU : 
+-	Accompagner le système de gestion des données et des pipelines 
+-	Organiser et préparer les données (dont data cleaning et feature engineering)
+-	Explorer et proposer les moyens technologiques pour améliorer la qualité et la fiabilité des données 
+-	Construire les indicateurs de surveillance (définition, implémentation, interprétation) en R et/ou Python 
+-	Réaliser des analyses statistiques 
+-	Développer des outils pour la restitution des indicateurs : mise à disposition en interne et en externe (exports, API), outils de visualisation (applications R-Shiny - Dash ) et de reporting (RMarkdown) 
+-	Rédiger des notes méthodologiques pour décrire les traitements réalisés
+Intervenir en soutien sur la gestion, le traitement, l'analyse et la restitution d'autres bases de données gérées par la DATA et utilisées notamment pour la surveillance des JOP 2024 (application de détection d'évènements inhabituels à partir des données SurSaUD, développements autour du SI SUM'EAU ).
+Contribuer à la réflexion sur la modernisation des outils et des méthodes pour la préparation, l'exploration, le stockage, l'analyse et la restitution des données.
+Contribuer à la valorisation des résultats en lien avec les épidémiologistes et les statisticiens :  communiquer des résultats, rédiger des bulletins, rapports d'études et d'articles scientifiques. 
+Participer aux permanences et astreintes qui seront mises en place spécifiquement pendant les périodes des grands rassemblements sportifs 2023 et 2024.
+
+Profil recherché : 
+- Bac +5 dans le domaine du traitement des données, de l'informatique ou des statistiques/data sciences exigé / Bac +8 souhaité.
+- Une expérience dans les outils de data visualisation serait un plus.
+- Disponibilité requise pendant la période de surveillance des JOP 2024 définie de mi-juin à mi-septembre 2024.
+- Maîtrise de la programmation sous R et Python dans des environnements virtuels (conda).
+- Connaissances en bases de données relationnelles et en programmation SQL (Postrgre). 
+- Connaissance d'outils d'ordonnancement (Air Flow), utilisation de la plateforme Gitlab.
+- Grandes compétences numériques et analytiques.
+
+Type de contrat : CDD jusqu'au 30 septembre 2024 de droit public à plein temps.","
+Contrat à durée déterminée - 12 Mois
+
+Contrat travail
+",35H Travail en journée,33814.43,68443.67,Sante publique france,3 ans,Contrat à durée déterminée - 12 Mois,False
+160WNCC,https://candidat.pole-emploi.fr/offres/recherche/detail/160WNCC,2023-09-22,Offre d'emploi Data Scientist - H/F - CDI (H/F) - 75 - PARIS 09 - 160WNCC | Pôle emploi,75 - PARIS 09,"Votre mission
+
+Intégré(e) au sein de l'équipe Data, vous participerez à toutes les phases de nos missions clients : cadrage des besoins, data management, modélisation (choix et tests des algorithmes les plus pertinents), implémentation et déploiement des solutions retenues.
+
+Entouré(e) de nos experts, vous monterez rapidement en compétence sur les technologies suivantes : Python (Scikit-learn, pandas, ...), MongoDB, ElasticSearch   et participerez au développement de nouveaux produits innovants dans le cadre de notre Datalab.
+
+Quelques exemples de missions :
+
+- Stratégie ""anti-churn"" d'un grand média français et mise en œuvre des solutions techniques pour retenir ses clients
+- Développement et commercialisation en SaaS d'un système de gestion intelligente de la politique de stationnement pour une centaine de villes en France
+- Solution d'optimisation du pricing des produits vendus via une plateforme de ventes aux enchères en ligne
+- Maximisation du taux d'ouverture de mails pour les clients d'une start-up spécialiste de l'e-mailing en Saas
+- Algorithmes de détection de fraude auprès d'assureurs
+
+Votre profil
+
+Issu(e) d'une Grande école d'ingénieurs, vous justifiez d'une première expérience professionnelle sur des problématiques data (stage ou premier emploi). Passionné(e) par les nouvelles technologies et friand de code, vous êtes familier avec un langage de programmation à vocation analytique (Python, R, Scala ...). Une expérience en développement logiciel est un plus. Avoir suivi un MOOC (ex : Udemy) spécialisé en Big data est également apprécié. 
+
+Enfin, vous êtes conscient que la modélisation ne représente que 10 à 15% maximum du temps passé sur nos projets et ne sera pas au cœur de vos missions. 
+
+A votre arrivée, vous bénéficiez d'un parcours guidé de formation propre à l'équipe Data. Nous finançons entre autres des formations AWS. Via notre PolyAcademy, nous vous donnons également accès à un large panel de formations, aussi bien techniques que business, en vue de faciliter votre montée en compétences et de créer des ponts entre nos différents métiers.
+
+La maîtrise de la langue française à l'écrit et à l'oral est indispensable","
+Contrat à durée indéterminée
+
+Contrat travail
+",39H Travail en journée,37000.0,45000.0,Polyconseil,1 an,Contrat à durée indéterminée,False
+160WMSS,https://candidat.pole-emploi.fr/offres/recherche/detail/160WMSS,2023-09-21,Offre d'emploi Data Scientist (H/F) - 74 - CLUSES - 160WMSS | Pôle emploi,74 - CLUSES,"Description du poste
+
+Contexte : 
+
+Afin de soutenir son ambition de croissance, Somfy investit dans le renforcement de ses capacités digitales afin d'extraire de la valeur du digital et des données.
+
+Une Digital Factory est en place pour construire un avantage concurrentiel fort en développant nos capacités data et digitales.
+-	La Digital Factory rassemble des talents du numérique pour accompagner le développement de solutions innovantes basées sur l'algorithme et l'analytique avancée, augmenter les capacités digitales au sein de nos équipes, adopter de nouvelles méthodes de travail (par exemple, agiles) et globalement fournir un environnement efficace et attractif pour les talents et projets digitaux chez SOMFY.
+-	La Digital Factory conçoit, construit, exploite et met à niveau les solutions numériques propriétaires de SOMFY et déploie des solutions dans les entreprises / pays garantissant le bon niveau de localisation et d'adoption.
+
+Poste : 
+
+Dans le cadre d'une création de poste, vous rejoindrez une nouvelle équipe mettant en place les bases techniques de la Digital Factory. Vous travaillerez sur un projet digital stratégique pour le Groupe Somfy.
+
+Au sein d'une équipe Data/IA créée from scratch, en tant que Data Scientist, vous développez des modèles et des solutions sur mesure basés sur des ensembles de données complexes, en utilisant des mathématiques avancées et des techniques de visualisation afin de générer de la valeur ajoutée pour l'entreprise, en étroite collaboration avec les différents business.
+
+Missions principales :
+-	proposer de nouveaux modèles qui répondent aux besoins business en faisant preuve de créativité ;
+-	concevoir et mettre en œuvre un code modulaire et maintenable ;
+-	coordonner et être le référent des activités techniques en lien avec les équipes IT, Data et autres afin de répondre aux demandes du Business ;
+-	participer à la diffusion de la culture/des compétences Data/IA auprès de l'ensemble des équipes techniques ;
+-	challenger et améliorer la stack technique existante et les processus de déploiement ;
+-	accompagner, assister et faire progresser les profils juniors présents dans l'équipe.
+
+Nous sommes au début de cette - grande - aventure, et les perspectives sont très belles.
+
+L'équipe se construit, s'agrandit, les échanges sont riches, et des moyens conséquents sont déployés pour parvenir à notre résultat.
+
+Envie de rejoindre l'aventure ?
+
+
+Qualifications
+
+Formation et expérience :
+-	Diplôme de Master ou PHD dans un domaine quantitatif (maths, physique, data science, computer science).
+-	5+ années d'expérience en tant que Data Scientist :
+o	en industrialisation technique de solutions.
+o	en collaboration avec un grand nombre d'interlocuteurs, notamment le business.
+-	Expérience dans des méthodologies agiles
+-	Idéalement : expérience dans le pilotage d'activités fonctionnelles
+
+Connaissances et savoir-faire :
+-	Mathématiques appliquées (ML, optimisation, simulation...).
+-	Python (niveau expert)
+-	Azure A.I. (ou équivalent)
+-	Git
+-	Très bonne capacité à comprendre et intégrer des enjeux business
+-	Anglais + français : niveau professionnel (B2 minimum)
+
+Soft Skills
+-	Entrepreneur(euse) dans l'âme
+-	Pro actif(ve) et créatif(ve)
+-	Aisance relationnelle et esprit d'équipe
+-	Ecoute active
+-	Gestion de stress
+
+
+
+Démarrage : dès que possible
+
+Avantages : CSE, conciergerie, paniers fruits/légumes, activités wellness, douches, vestiaires, restaurant d'entreprise, intéressement / participation, maison d'assistantes maternelles, indemnité kilométrique vélo, 90j de télétravail/ an dont 4 semaines possibles hors domicile, 3 journées solidaires/an avec notre Fondation","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,unspecified,unspecified,Somfy activites sa,5 ans,Contrat à durée indéterminée,False
+160QLKC,https://candidat.pole-emploi.fr/offres/recherche/detail/160QLKC,2023-09-16,Offre d'emploi Data Scientist (H/F) - 74 - CLUSES - 160QLKC | Pôle emploi,74 - CLUSES,"Description du poste
+
+Contexte : 
+Afin de soutenir son ambition de croissance, Somfy investit dans le renforcement de ses capacités digitales afin d'extraire de la valeur du digital et des données.
+Une Digital Factory est en place pour construire un avantage concurrentiel fort en développant nos capacités data et digitales.
+-	La Digital Factory rassemble des talents du numérique pour accompagner le développement de solutions innovantes basées sur l'algorithme et l'analytique avancée, augmenter les capacités digitales au sein de nos équipes, adopter de nouvelles méthodes de travail (par exemple, agiles) et globalement fournir un environnement efficace et attractif pour les talents et projets digitaux chez SOMFY.
+-	La Digital Factory conçoit, construit, exploite et met à niveau les solutions numériques propriétaires de SOMFY et déploie des solutions dans les entreprises / pays garantissant le bon niveau de localisation et d'adoption.
+
+Poste : 
+Dans le cadre d'une création de poste, vous rejoindrez une nouvelle équipe mettant en place les bases techniques de la Digital Factory. Vous travaillerez sur un projet digital stratégique pour le Groupe Somfy.
+Au sein d'une équipe Data/IA créée from scratch, en tant que Data Scientist, vous développez des modèles et des solutions sur mesure basés sur des ensembles de données complexes, en utilisant des mathématiques avancées et des techniques de visualisation afin de générer de la valeur ajoutée pour l'entreprise, en étroite collaboration avec les différents business.
+
+Missions principales :
+-	proposer de nouveaux modèles qui répondent aux besoins business en faisant preuve de créativité ;
+-	concevoir et mettre en œuvre un code modulaire et maintenable ;
+-	coordonner et être le référent des activités techniques en lien avec les équipes IT, Data et autres afin de répondre aux demandes du Business ;
+-	participer à la diffusion de la culture/des compétences Data/IA auprès de l'ensemble des équipes techniques ;
+-	challenger et améliorer la stack technique existante et les processus de déploiement ;
+-	accompagner, assister et faire progresser les profils juniors présents dans l'équipe.
+
+Nous sommes au début de cette - grande - aventure, et les perspectives sont très belles.
+L'équipe se construit, s'agrandit, les échanges sont riches, et des moyens conséquents sont déployés pour parvenir à notre résultat.
+Envie de rejoindre l'aventure ?
+
+
+Qualifications
+
+Formation et expérience :
+-	Diplôme de Master ou PHD dans un domaine quantitatif (maths, physique, data science, computer science).
+-	5+ années d'expérience en tant que Data Scientist :
+o	en industrialisation technique de solutions.
+o	en collaboration avec un grand nombre d'interlocuteurs, notamment le business.
+-	Expérience dans des méthodologies agiles
+-	Idéalement : expérience dans le pilotage d'activités fonctionnelles
+
+Connaissances et savoir-faire :
+-	Mathématiques appliquées (ML, optimisation, simulation...).
+-	Python (niveau expert)
+-	Azure A.I. (ou équivalent)
+-	Git
+-	Très bonne capacité à comprendre et intégrer des enjeux business
+-	Anglais + français : niveau professionnel (B2 minimum)
+
+Soft Skills
+-	Entrepreneur(euse) dans l'âme
+-	Pro actif(ve) et créatif(ve)
+-	Aisance relationnelle et esprit d'équipe
+-	Ecoute active
+-	Gestion de stress","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,unspecified,unspecified,Somfy activites sa,5 ans,Contrat à durée indéterminée,False
+160PPYJ,https://candidat.pole-emploi.fr/offres/recherche/detail/160PPYJ,2023-09-24,Offre d'emploi Data scientist (H/F) - 38 - GRENOBLE - 160PPYJ | Pôle emploi,38 - GRENOBLE,"Afin de compléter notre équipe, nous sommes à la recherche d'un-e docteur-e Data Scientist. 
+Débutant accepté
+Anglais courant souhaité
+
+Merci de nous faire parvenir CV + Lettre de motivation","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,36000.0,42000.0,Aphelio,Débutant accepté,Contrat à durée indéterminée,True
+160MVCD,https://candidat.pole-emploi.fr/offres/recherche/detail/160MVCD,2023-08-29,Offre d'emploi SENIOR DATA SCIENTIST - PRODUCT OWNER (H/F) - 75 - Paris (Dept.) - 160MVCD | Pôle emploi,75 - Paris (Dept.),"Notre client est une société française spécialisée dans le développement d'instruments et dans la mise en œuvre de services pour des équipements d'analyse de la matière à base d'interrogation neutronique.
+
+Vous rejoignez une équipe professionnelle, dynamique et agréable que vous accompagnez et faite monter en compétences  au sein du groupe « systèmes neutroniques » en mettant en place les méthodologies, des outils, des guides et des formations. Vous gérez les moyens techniques et humains du groupe en charge des solutions algorithmiques développées, pour répondre aux besoins des clients. Vous assurez l'adéquation des compétences et des outils aux besoins des projets ainsi que des produits en cohérence avec la stratégie de l'entreprise. 
+
+VOS MISSIONS :
+ 	Assurer le pilotage, le cadrage des algorithmes et des logiciels scientifiques nécessaires au bon fonctionnement des solutions client et ce en phase de développement, de déploiement ou de maintenance. Vous assurez un rôle de Responsable Produit pour les algorithmes et les logiciels à produire.
+ 	Coordonner et organiser l'activité de l'équipe en charge de la partie Algorithmie des « Solutions » lors des différentes étapes de vie des applications. À ce titre vous assurez une bonne coordination avec l'équipe système mais aussi avec les clients internes (projets, SAV, etc.) avec lesquels vous êtes en interface.
+ 	Assurer le rôle d'Expert Fonctionnel en Data Sciences aux niveaux stratégique, tactique et opérationnel :
+
+o	Fixer et être garant des méthodologies de science des données et de développement logiciel de l'équipe facilitant la qualification des sous-projets, les développements itératifs, l'industrialisation des solutions, leur maintenabilité, la mesure et le suivi de leur performance
+o	Maintenir l'expertise sur les produits en opération, et les outils algorithmiques existants
+o	Assurer la veille dans son domaine métier, participer à des réseaux de partenaires et benchmarker
+o	Conseiller, guider et assurer la montée en compétences des ingénieurs de l'équipe
+o	Contribuer à l'amélioration et à la gestion du patrimoine de données de l'entreprise
+o	Promouvoir des solutions innovantes pour les algorithmes de traitement
+
+VOS ATOUTS POUR CE POSTE :
+-	Formation de niveau Bac+5 Ingénieur ou Master à dominante mathématiques/statistiques. Une spécialisation en instrumentation ou un sujet connexe (data science appliquée à la mesure physique, notamment nucléaire, etc.) est souhaité
+-	Vous justifiez d'une expérience impérative de plus de 15 ans en tant que Data Scientist, Lead Data Scientist dans un secteur ou périmètre technique proche ou similaire (projet multidisciplinaires) 
+-	Une solide expérience du rôle de Product Owner pour des applications logiciels est recherchée 
+-	Une expérience dans un poste de management d'équipe et/ou candidat possédant une appétence.
+-	Maîtrise des langages & technologies : MATLAB, Python, SVN, machine learning
+-	Expérience significative dans l'architecture d'application ou de logiciel scientifique
+-	Expérience significative de gestion des développements dans un environnement Agile, dans l'utilisation de solution ALM (Tuleap), et en data management
+-	Capacité à communiquer de manière pédagogique sur des sujets complexes. 
+-	Vous savez parfaitement vous exprimer en anglais.
+
+
+Envoyez rapidement votre candidature (CV et lettre de motivation) sous référence MS290622-088","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,55000.0,65000.0,Acavi,15 ans,Contrat à durée indéterminée,False
+160HHCM,https://candidat.pole-emploi.fr/offres/recherche/detail/160HHCM,2023-09-22,Offre d'emploi Data Scientist / Développeur.se Dataiku (H/F) - 84 - AVIGNON - 160HHCM | Pôle emploi,84 - AVIGNON,"Tes missions seront :
+Le développement et l'automatisation :
+- Développer des macros personnalisées sur Dataiku pour faciliter le nettoyage et la validation de conformité des projets du métier.
+- Automatiser les tâches récurrentes liées au nettoyage des données et à la validation des projets.
+La gestion des bonnes pratiques :
+- Instaurer des bonnes pratiques sur Dataiku en matière de gestion de projets et de manipulation des données.
+- Créer des guides et des documents de référence pour l'utilisation efficace de Dataiku.
+Le support et l'assistance :
+- Fournir un support technique sur Dataiku et les macros développées, en répondant aux questions des utilisateurs et en résolvant les problèmes rencontrés.
+- Assister les utilisateurs dans l'utilisation des macros et les aider à optimiser leurs workflows.
+Le développement de dashboards et l'analyses de données :
+- Concevoir et développer des dashboards interactifs sur Tableau pour visualiser les données et les résultats des analyses.
+- Effectuer des analyses de données sur les logs de Dataiku afin de segmenter les utilisateurs et de réduire les coûts de licence.
+Le Challenge et l'évaluation :
+- Évaluer les solutions existantes en matière de données à La Poste et challenger les processus et les outils en place.
+- Participer aux appels d'offres liés aux données en proposant des améliorations et des solutions innovantes.
+La migration du Data Lake :
+- Assurer le suivi et la gestion de la migration du Data Lake, en garantissant une transition sans heurts des données critiques vers la nouvelle infrastructure.
+- S'assurer de l'intégrité et de l'accessibilité des données tout au long du processus de migration.
+La communication et la présentation :
+- Présenter et communiquer les résultats des analyses de données, les macros développées et les bonnes pratiques aux équipes métier.
+- Organiser des sessions de formation et des réunions pour partager les connaissances et favoriser l'adoption des meilleures pratiques.
+
+Ton profil :
+- Exigence : Ton objectif principal est de comprendre les objectifs du projet et les besoins des parties prenantes. Tu accordes une grande importance à la communication et poses des questions pour garantir une compréhension mutuelle claire. Tu excelles à l'oral comme à l'écrit, t'exprimant de manière claire et efficace. Grâce à ta capacité d'analyse et de synthèse, tu simplifies les informations complexes pour les transmettre facilement à l'équipe. Tu es un collaborateur harmonieux, attentif aux besoins des clients et prêt à soutenir tes collègues. Enfin, tu es rigoureux dans la gestion du projet et as une réelle motivation pour atteindre les objectifs fixés. Pour toi, la réussite se traduit par une livraison de qualité.
+- Passion : Geek est un compliment, tu aimes l'univers digital et notamment dans sa dimension technique. Cette passion de la tech te permet d'être naturellement à l'aise dans les projets qui peuvent parfois s'avérer complexes et pointus. Tu ne peux pas te sentir largué, donc ce n'est pas un effort que de te mettre à jour régulièrement sur les sujets de technologie, c'est un plaisir nourrissant.
+- Ouverture : Comme nous, tu regardes le monde entier avec intérêt : tu aimes rencontrer des gens d'origines diverses, tu parles ou apprends plusieurs langues, les autres cultures sont des sources d'inspiration, tu peux ou souhaiterais voyager  Tu es ouvert aux richesses de l'autre.
+
+#Avignon #AgenceWeb #Digital","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,unspecified,unspecified,Glanum,3 ans,Contrat à durée indéterminée,False
+153JNMJ,https://candidat.pole-emploi.fr/offres/recherche/detail/153JNMJ,2023-09-22,Offre d'emploi Data scientist     (H/F) - 06 - BIOT - 153JNMJ | Pôle emploi,06 - BIOT,"Au sein de nos équipes de data science, nous recherchons notre futur data scientist pour nous accompagner dans différents projets mettant en oeuvre les techniques fondamentales de statistiques prédictives (Machine Learning).
+
+Vous aurez de nombreuses missions telles que : 
+- Analyse et synthèses des attentes fonctionnelles et techniques 
+- Analyse du patrimoine de données 
+- Définition d'une modélisation statistique qui permette de répondre aux attentes
+- Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse
+- Etude et comparaison des méthodes statistiques (ACP, régression logistique, random forest )
+- Mise en oeuvre et exploitation des méthodes et modèles (R, SAS, Python, SPSS )
+- Recherche d'optimisation des performances des algorithmes 
+- Analyse et synthèse des informations et des résultats
+- Veille technologique autour du Big Data, machine learning et de la statistique décisionnelle
+- Participer à la qualification de la solution 
+
+Vous êtes diplômé(e) d'une école d'ingénieur ou universitaire. 
+La pratique quotidienne de l'anglais ne vous fait pas peur. 
+
+Alors venez vivre l'expérience au sein d'une société dynamique et innovante !","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,25000.0,40000.0,Cleeven se,Débutant accepté,Contrat à durée indéterminée,True
+162BTHZ,https://candidat.pole-emploi.fr/offres/recherche/detail/162BTHZ,2023-09-24,Offre d'emploi MACHINE LEARNING ENGINEER F/H (H/F) - 75 - PARIS 14 - 162BTHZ | Pôle emploi,75 - PARIS 14,"La mission du DATALAB consiste à permettre l'exploitation des données à l'échelle du groupe pour améliorer l'efficacité opérationnelle et créer de nouvelles opportunités de business.
+
+Rattaché(e) à la DSID, au sein du DATALAB d'AG2R LA MONDIALE, le ML Engineer aura pour mission de contribuer à l'industrialisation des programmes de Machine Learning et d'intelligence artificielle dans le cadre des expérimentations menées par le DATALAB, les Métiers et les directions du groupe. 
+
+Sa mission consistera également à acculturer et accompagner les collaborateurs en partageant les bonnes pratiques en Machine Learning ainsi que dans la mise en œuvre concrètes des algorithmes et jusqu'à la mise en œuvre du produit final.
+
+Les sujets en cours dans le DATALAB du groupe sont extrêmement variés et rendent compte de la richesse et de la diversité des métiers du groupe dans un contexte de transformation numérique et de plateformisation.
+Contribuer à l'industrialisation des programmes de Machine Learning (MLOps)
+
+Accompagner à la réalisation des expérimentations ML pour le compte des Métiers en appliquant des techniques d'intelligence artificielle : Machine Learning, Deep Learning, RLHF, API services cognitifs...
+
+Accompagner les Métiers dans leurs expérimentations en :
+
+Partageant les bonnes pratiques dans les projets de Data Science
+
+Collaborer avec les membres des équipes DataLab et « Ai & Data Factory » : Data Manager, Data Scientist, Data Engineer afin d'optimiser le passage à l'échelle des algorithmes notamment dans un contexte d'industrialisation des expérimentations (MLOps).
+
+Compétences en Machine learning, MLOps, Data Science 
+
+Connaissances de type DevOps : CI/CD, Git 
+
+Langages : Python, R ... 
+
+Connaissances concernant un environnement Cloud ou Big Data 
+
+Connaissances plateforme Databricks
+
+Des compétences en bases de données
+
+Votre parcours vous a permis de développer les qualités et aptitudes suivantes : 
+
+Autonomie 
+
+Curiosité 
+
+Forte appétence pour les nouvelles technologies 
+
+Capacité de communication (analyse et synthèse)","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,40000.0,45000.0,La mondiale groupe,4 ans,Contrat à durée indéterminée,False
+161ZRTJ,https://candidat.pole-emploi.fr/offres/recherche/detail/161ZRTJ,2023-09-22,Offre d'emploi Data engineer confirmé (H/F) - 75 - PARIS 12 - 161ZRTJ | Pôle emploi,75 - PARIS 12,"ENTREPRISE
+SNEF Lab réunit les métiers de la sphère digitale qui comprend l'informatique industrielle, les objets connectés, la cybersécurité, l'audiovisuel, la maintenance prédictive et les technologies CLOUD. SNEF Lab vient enrichir la démarche globale du Groupe SNEF et révolutionne son métier pour répondre aux enjeux de demain.
+
+Rattachée à la BU SNEF LAB, Mangrove est une startup spécialisée dans la mise en place et le maintien opérationnel d'environnements de production pour le Machine Learning sur AWS.
+
+Dans le cadre de notre développement, nous recrutons un Data Engineer / MLOPS Cloud AWS.
+
+MISSION
+Vous intégrerez une petite équipe d'experts Data et Machine Learning spécialisée dans le cloud AWS.
+A ce titre, vous consacrerez une partie de votre temps à vous former et/ou à vous perfectionner sur les technologies et services AWS dans le but d'obtenir une certification AWS de Spécialité en ML.
+
+Par ailleurs, vous interviendrez sur les différentes composantes de nos projets de Data Science et ML sur AWS tel que :
+- Evaluation des besoins clients et proposition de solutions adaptées
+- Analyse de données et conception de pipelines et process
+- Implémentation de solutions personnalisées pour nos clients à base de service Data/ML
+- Documentation et spécification des éléments de services ou modèles développés
+- Veille active sur les services de data sur AWS et plus largement sur les solutions adéquates
+
+Au quotidien, vous pourrez être amené(e) à participer à/au
+- Choix d'architectures,
+- L'encadrement technique d'équipes projet
+- La mise en place d'outils de Devops au sein de l'équipe,
+- La création de templates projets (architecture type, automatisation des builds & deploy, CICD,  )
+- La mise en place de bonnes pratiques (code, normes, gouvernance des outils,  )
+- La création d'outillage MLOps (reproductibilité, standardisation et automatisation des packaging et déploiement, automatisation des réentrainements, triggers, process,  )
+
+PROFIL
+Vous êtes issu(e) d'une école d'ingénieur informatique avec de très bonnes connaissances logicielles.
+Vous justifiez également d'une expérience de 3 ans sur des sujets similaires.
+
+Environnement Technologique
+- Data Engineering (PySpark, Pandas, Pandas, Apache Spark, Apache Airlflow, Apache Hadoop, Apache Kafka)
+- Software Development (C++, Python, APIs, Bash scripts, Shell scripts)
+- Software Testing (Unit, integration and system tests)
+- Containers (Docker)
+- DevOps (GitHub actions, Jenkins)
+- Databases (NoSql, Sql)
+- Networking foundations
+- Version controls systems : Git, GitHub
+
+Compétences appréciées :
+- Cloud Computing (S3, DynamoDB, Lambda, CloudFormation, CloudWatch, EC2, VPC, IAM, SNS, SQS, StepFunctions, Athena, Glue)
+- AWS (S3, SageMaker, Glue, Lambda, DynamoDB, boto3, SAM,  )
+
+Vous êtes passionné de développement, d'architectures Cloud et de Machine Learning ? Vous voulez devenir un expert Data Science sur le cloud numéro #1 mondial ?
+Rejoignez-nous !
+
+Nous cherchons, une personne autonome et rigoureuse.
+
+Avantages du poste :
+- Poste en télétravail
+- Participation à des événements techniques (user group aws de Bordeaux)
+- Certifications AWS
+- Projets et technologies innovants","
+Contrat à durée indéterminée
+
+Contrat travail
+",35H Travail en journée,45000.0,55000.0,Snef,3 ans,Contrat à durée indéterminée,False
+161WFMC,https://candidat.pole-emploi.fr/offres/recherche/detail/161WFMC,2023-09-23,Offre d'emploi DATA ENGINEER en NLP (H/F) - 75 - PARIS 19 - 161WFMC | Pôle emploi,75 - PARIS 19,"Vos principales missions :
+-	Conception et développement des systèmes de collecte des données sur le web.
+-	Intégration des données en utilisant PostgreSQL.
+-	Preprocessing des datasets en utilisant Spacy et NLTK
+-	Utilisation des méthodes de calcul de similarité textuelle avancées.
+-	Utilisation des APIs pour l'annotation des données.
+-	Utilisation des ontologies spécialisées pour l'annotation comme ESCO et O*NET.
+-	Entraînement et évaluation du modèle Named entity recognition (NER) avec SPACY.
+-	Mise en œuvre des Rest API en utilisant GITLAB.
+-	Etablissement des tests unitaires et d'intégrations avec Pytest et Postman.
+-	Visualisation des résultats en utilisant la bibliothèque Dash.
+-	Maintenance des modèles entrainés et des API réalisés sur le serveur OVH.
+
+Profil
+-	Issu d'un Bac+5 en intelligence artificielle
+-	Expérience sur le domaine du traitement automatique du langage naturel - NLP en utilisant Spacy et NLTK (obligatoire)
+-	Expérience avec de 2 ans au minimum Sélénium et Beautifulsoup pour la collecte des données sur le web.
+-	Expérience sur l'établissement des pipelines du traitement des données textuelles en utilisant GITLAB CI/CD (obligatoire)
+-	Expérience de 2 ans au minimum dans l'intégration des API d'annotation des datasets textuelles 
+-	Fine tuning des modèles d'extraction d'informations textuelles avec BERT
+-	Connaissance obligatoire de la bibliothèque Dash pour la visualisation des données 
+-	Connaissance en méthodologie Scrum
+-	Pratique d'un anglais professionnel est obligatoire","
+Contrat à durée indéterminée
+
+Contrat travail
+",38H30 Travail en journée,30000.0,35000.0,Unspecified,3 ans,Contrat à durée indéterminée,False
