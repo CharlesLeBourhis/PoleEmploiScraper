@@ -1,15 +1,15 @@
-29 offer with unpecified salary out of 90
+1088 offer with unpecified salary out of 1331
  # Salaires moyen :
 
-- Salaire moyen : 48443.0 euros/ans soit 4037.0 par mois
-- Salaire min moyen : 42623.0 euros/ans soit 3552.0 par mois
-- Salaire max moyen : 54263.0 euros/ans soit 4522.0 par mois
+- Salaire moyen : 48993.0 euros/ans soit 4083.0 par mois
+- Salaire min moyen : 41996.0 euros/ans soit 3500.0 par mois
+- Salaire max moyen : 55990.0 euros/ans soit 4666.0 par mois
 
 # Salaires débutant :
 
-- Salaire moyen : 38383.0 euros/ans soit 3199.0 par mois
-- Salaire min moyen : 35221.0 euros/ans soit 2935.0 par mois
-- Salaire max moyen : 41544.0 euros/ans soit 3462.0 par mois
+- Salaire moyen : 40662.0 euros/ans soit 3388.0 par mois
+- Salaire min moyen : 36638.0 euros/ans soit 3053.0 par mois
+- Salaire max moyen : 44685.0 euros/ans soit 3724.0 par mois
 # 
 
  ![](./docs/salaryplot.png)
