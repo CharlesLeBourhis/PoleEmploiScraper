@@ -1,0 +1,1197 @@
+id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
+8774240,https://candidat.pole-emploi.fr/offres/recherche/detail/8774240,2023-12-28,Offre d'emploi Data scientist (H/F) - 83 - LA SEYNE SUR MER - 8774240 | Pôle emploi,83 - LA SEYNE SUR MER,"Nous poursuivons notre développement dans le Sud-Est et recrutons un(e) Ingénieur développement C++ Qt (middleware & IHM) confirmé pour l?un de nos clients situé vers Toulon (Var).
+
+Mission :
+
+Au sein d?une équipe de développement software travaillant sur des systèmes de Défense pour le domaine Naval, vos tâches seront les suivantes :
+
+  Participation aux specs techniques & à la conception
+  Développement C++ / Qt tant au niveau middleware qu?IHM
+  Test des modules logiciels produits
+  Rédaction de la documentation associée
+  Participation à l?amélioration continue des produits logiciels / R&D 
+
+Profil recherché :
+
+Idéalement ingénieur de formation, vous justifiez d?au moins 5 ans d?expérience en développement C++/Qt (environnement Windows) et êtes capable d?intervenir tant sur du middleware que des IHM complexes.
+
+Compétences requises :
+- Maitrise avérée en C++ moderne (11+)
+- Multithreading, mécanismes de communication inter-processus, architectures multiprocesseurs,
+- Outils de gestion de configuration (Git, SVN), de débogage et de qualité logicielle (type Jira et Redmine)
+- Maitrise Cycle en V, UML et méthodologie Scrum / Agile
+
+Compétences bonus (= pas obligatoires) :
+- Notions temps réel (dur ou mou)
+- Connaissance des principaux Design Patterns
+- Protocoles de communication (Socket IP, bus CAN, ModBus, Profinet, Ethercat, RSxxx, etc.), TCP/IP et protocoles réseaux IP associés
+- Systèmes embarqués et leurs principales contraintes (consommation, empreinte logicielle, boot sécurisé, performances, drivers, disponibilité, etc.),
+- Notions Linux
+
+Anglais écrit obligatoire (l?oral serait un +).
+
+Contexte Défense, habilitabilité CD requise. 
+
+Poste en présentiel uniquement, PAS DE DISTANCIEL","
+Profession libérale
+
+Emploi non salarié
+",unspecified,unspecified,unspecified,Celad,Expérience exigée de 5 An(s),Profession libérale,False
+8771879,https://candidat.pole-emploi.fr/offres/recherche/detail/8771879,2023-12-28,Offre d'emploi Data scientist (H/F) - 38 - ECHIROLLES - 8771879 | Pôle emploi,38 - ECHIROLLES,"Smarteo recherche pour l?un de ses clients, Un data scientist sur Echirolles  
+    
+  Nous recherchons un data scientist expérimenté pour créer des modèles d?IA pour nos différentes collaborations, contribuer au développement de notre composant de Machine Learning et nous aider à le rendre plus performant et scalable.  
+    
+  Mission :  
+    
+  Proactive Maintenance permet de réaliser des modèles d?IA à destination des supercalculateurs HPC. Dans ce contexte, les bibliothèques utilisées ainsi que notre produit doivent répondre à des contraintes fortes de performance. Notre produit permet de designer différents types de modèle d?IA ayant comme objectif la détection des pannes pouvant survenir sur les HPC.  
+  De manière itérative et agile, vous participez à l?architecture et au développement de notre moteur de prédiction dans l?objectif de le rendre scalable et de le faire évoluer en fonction de nos différents uses-cases. Les modèles les plus aboutis concernent actuellement de l?analyse comportementale sur des systèmes complexes et distribués. Dans l?optique Exascale, nous voulons optimiser ces modèles pour qu?ils soient capable de gérer l?intégralité d?un cluster HPC. Nous allons également travailler sur des modèles supervisés plus avancés pour faire du prédictif.  
+    
+  Profil  
+   BAC+5 en informatique, mathématiques appliquées, intelligence artificielle ou équivalent ;  
+   Solides compétences en Python ;  
+   Expérience significative avec les bibliothèques de traitement statistique de Python tels que NumPy, Pandas, SciPy, Scikit-Learn et une bibliothèque de DeepLearning (TensorFlow, PyTorch).  
+   A l?aise avec un environnement de travail virtualisé sous Linux ;  
+   Pratique des tests unitaires et de l?intégration continue ;  
+   Excellentes compétences de communication/documentation et désir de travailler en équipe dans un environnement dynamique (A l?aise avec la méthode Scrum/Agile) ;  
+   Vous êtes analytique, créatif et aimant résoudre des problèmes.  
+    
+  Si vous êtes intéressé, merci de me faire parvenir votre TJM ainsi que votre CV à jour au format Word","
+Profession libérale
+
+Emploi non salarié
+",unspecified,unspecified,unspecified,Smarteo,Expérience exigée de 5 An(s),Profession libérale,False
+8771590,https://candidat.pole-emploi.fr/offres/recherche/detail/8771590,2023-12-28,Offre d'emploi Data scientist (H/F) - 59 - LILLE - 8771590 | Pôle emploi,59 - LILLE,"Mission détaillée :
+ 
+  Accompagner les projets de Data Science / Data Ingénierie de l?équipe Big Data sur des projets d?entreprise existant ou à développer : NLP, Deep Learning...
+  Comprendre la problématique métier
+  Imaginer les solutions / algorithmes pour y répondre
+  Développer les algorithmes dans le respect des normes de développement de l?entreprise (GitHub)
+  Contribuer à l?industrialisation de ces algorithmes
+  Monitorer leur run
+  Documenter les algorithmes
+
+ 
+SON ACTIVITE :
+ 
+  Applique des techniques (statistiques, text mining, comportementale, géolocalisation, ) d?extraction et d?analyse d?informations, obtenues à partir de gisements de données (Big Data)
+  Obtient des données adéquates, trouve les sources de données pertinentes, fait des recommandations sur les bases de données à consolider, modifier, rapatrier,externaliser, internaliser, conçoit des datamarts, voire des entrepôts de données (data warehouses).
+  Évalue la qualité et la richesse des données, les analyse et en restitue les résultats pour ensuite les intégrer dans le système d?information cible du Métier.
+  Analyse les données pour traduire une problématique Métier en problème mathématiques/statistiques et réciproquement.
+ 
+Environnements techniques 
+ 
+Google Cloud Platform (GCS, BigQuery) 
+Github 
+Python 
+Machine Learning 
+ 
+Les livrables sont :
+Algorithmes ML
+Dashboards
+Explicabilités d?algorithmes","
+Profession libérale
+
+Emploi non salarié
+",unspecified,unspecified,unspecified,Geniem,Expérience exigée de 2 An(s),Profession libérale,False
+8769320,https://candidat.pole-emploi.fr/offres/recherche/detail/8769320,2023-12-28,"Offre d'emploi Ingénieur Data Scientist F/H - Système, réseaux, données (H/F) - 06 - VALBONNE - 8769320 | Pôle emploi",06 - VALBONNE,"Descriptif du poste:
+QUI SOMMES-NOUS ?
+
+Thales propose des systèmes d'information et de communication sécurisés et interopérables pour les forces armées, les forces de sécurité et les opérateurs d'importance vitale. Ces activités, qui regroupent radiocommunications, réseaux, systèmes de protection, systèmes d'information critiques et cybersécurité, répondent aux besoins de marchés où l'utilisation des nouvelles technologies numériques est déterminante. Thales intervient tout au long de la chaîne de valeur, des équipements aux systèmes en passant par le soutien logistique et les services associés.
+
+Nos équipes de l'activité Systèmes d'information critiques et cybersécurité fournissent des services et des solutions globales optimisant la performance, la résilience et la sécurité des systèmes d'information afin de faire face aux ruptures technologiques et aux cybermenaces.
+
+Le département Augmented Data recherche un Ingénieur Data Scientist Expérimenté (H/F), basé à Sophia-Antipolis (06).
+
+QUI ETES-VOUS ?
+
+* De formation Bac +5 minimum, vous maitrisez le fonctionnement des algorithmes de Machine Learning et possédez de bonnes connaissances en ingénierie logicielle ;
+* Vous avez de l'expérience sur une plateforme Cloud (Azure/AWS/GCP) ;
+* Vous êtes familier avec certains outils data tels que DataIku, MLFlow, DVC, Kibana, SageMaker ;
+* Vous maitrisez des langages de développement logiciel (Python, Spark, Scala, Java, C/C++ .) ;
+* Tensorflow, Keras, PyTorch, ScikitLearn ou Pandas, . n'ont pas de secrets pour vous ;
+* Vous maitrisez l'Anglais ;
+* Vous souhaitez mettre en application vos compétences pour la résolution de problèmes complexes dans des domaines métiers variés ;
+* Vous aimez transmettre vos savoirs faires et accompagner les utilisateurs dans la prise en main de vos solutions innovantes ;
+* Vous aimez travailler en équipe au quotidien et vous savez interagir en mode « Agile ». Pour vous le succès n'est que collectif ;
+* Vous avez plus de 4 ans d'expérience sur un poste équivalent.
+
+Vous vous reconnaissez ? Alors parlons missions .
+
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+
+Le département Augmented Data fédère et coordonne les savoir-faire Algorithmie, Big Data, Data Science et Data Viz au travers d'une structure permettant d'accélérer la transformation des enjeux Data de nos clients.
+
+ Nos savoirs faires : 
+
+* Data Science, Intelligence Artificielle, Algorithmie, Expertise Imagerie ;
+* Data Engineering, DevOps, MLOps.
+
+ Nos partenaires : 
+
+* Recherche : INRIA, CNRS, INSERM, 3IA. ;
+* Externes : NVIDIA, Elastic, MongoDB.
+
+Vos missions, en collaboration avec les membres de notre structure Augmented Data :
+
+
+* Assurer la veille technologique pour suivre les évolutions en Machine
+
+Profil recherché:
+Le département Augmented Data recherche un Ingénieur Data Scientist Expérimenté (H/F), basé à Sophia-Antipolis (06).
+
+QUI ETES-VOUS ?
+
+* De formation Bac +5 minimum, vous maitrisez le fonctionnement des algorithmes de Machine Learning et possédez de bonnes connaissances en ingénierie logicielle ; 
+* Vous avez de l'expérience sur une plateforme Cloud (Azure/AWS/GCP) ; 
+* Vous êtes familier avec certains outils data tels que DataIku, MLFlow, DVC, Kibana, SageMaker ; 
+* Vous maitrisez des langages de développement logiciel (Python, Spark, Scala, Java, C/C++ .) ; 
+* Tensorflow, Keras, PyTorch, ScikitLearn ou Pandas, . n'ont pas de secrets pour vous ; 
+* Vous maitrisez l'Anglais ; 
+* Vous souhaitez mettre en application vos compétences pour la résolution de problèmes complexes dans des domaines métiers variés ; 
+* Vous aimez transmettre vos savoirs faires et accompagner les utilisateurs dans la prise en main de vos solutions innovantes ; 
+* Vous aimez travailler en équipe au quotidien et vous savez interagir en mode « Agile ». Pour vous le succès n'est que collectif ; 
+* Vous avez plus de 4 ans d'expérience sur un poste équivalent. 
+
+Vous vous reconnaissez ? Alors parlons missions .
+
+CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :
+
+Le département Augmented Data fédère et coordonne les savoir-faire Algorithmie, Big Data, Data Science et Data Viz au travers d'une structure permettant d'accélérer la transformation des enjeux Data de nos clients.
+
+ Nos savoirs faires : 
+
+* Data Science, Intelligence Artificielle, Algorithmie, Expertise Imagerie ; 
+* Data Engineering, DevOps, MLOps. 
+
+ Nos partenaires : 
+
+* Recherche : INRIA, CNRS, INSERM, 3IA. ; 
+* Externes : NVIDIA, Elastic, MongoDB. 
+
+Vos missions, en collaboration avec les membres de notre structure Augmented Data :
+
+* Assurer la veille technologique pour suivre les évolutions en Machine Learning et IA. 
+* Accompagner nos clients dans leurs projets de valorisation de données en proposant des solutions techniques innovantes et pertinentes. 
+* Sélectionner, concevoir, implémenter et","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Thales,Expérience exigée de 1 An(s),Contrat à durée indéterminée,False
+8769339,https://candidat.pole-emploi.fr/offres/recherche/detail/8769339,2023-12-28,"Offre d'emploi Data Steward - Responsable gestion de données F/H - Système, réseaux, données (H/F) - 40 - HAUT MAUCO - 8769339 | Pôle emploi",40 - HAUT MAUCO,"Descriptif du poste:
+Dans le cadre de notre projet ""Master Data Management"", nous recherchons au sein du département Production Supply et Industry, pour accompagner les équipes métier un(e) :
+
+- Data Steward - Responsable Gestion de données (H/F)
+
+Au sein du service Supply, votre mission sera d'assurer la qualité, la fiabilité et la pérennité des données en vue de leur utilisation optimale par les équipes métier.
+
+Dans ce cadre :
+
+- vous définissez, centralisez et maintenez à jour le dictionnaire des données Produits et Articles,
+- vous définissez les règles d'usage des données et les règles de gouvernance associées et vous êtes le garant de leur respect auprès des utilisateurs métier,
+- vous mettez en place les indicateurs de qualité de la donnée et les plans d'amélioration nécessaires,
+- vous pilotez la gestion documentaire et la diffusion auprès des utilisateurs métier,
+- vous accompagnez le changement,
+- vous travaillez très étroitement avec l'équipe données techniques pour développer, animer et maintenir un processus efficace et sécurisé de gestion des données techniques opérationnelles,
+
+Profil recherché:
+De formation Bac+3/5, vous avez des connaissances techniques certaines en data modeling, programmation, data warehouse... et connaissez les processus de qualité et de correction des données.
+
+Vous êtes doté d'un bon relationnel avec tout type d'interlocuteurs et savez écouter. Vous avez de l'expérience en gestion de projets et savez concilier expression des besoins et contraintes techniques.
+
+Vous êtes curieux et organisé.
+
+Vous maîtrisez l'anglais et la suite Microsoft Ofiice.","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Mas seeds,Expérience exigée de 2 An(s),Contrat à durée indéterminée,False
+8756327,https://candidat.pole-emploi.fr/offres/recherche/detail/8756327,2023-12-27,Offre d'emploi Data Scientist Senior Banque - Assurance H/F - Ile-de-France - 8756327 | Pôle emploi,Ile-de-France,"POSTE : Data Scientist Senior Banque - Assurance H/F
+DESCRIPTION : Nous recherchons plusieurs consultants séniors pour venir renforcer les expertises Data du cabinet. Vous évoluerez sur des périmètres clients divers tels que :
+* Analytics et Data Intelligence
+* DataScience et Big Data
+* Business intelligence et Data Visualisation
+* Méthodes et modélisation statistiques
+* Evolutions réglementaires (BCBS 239, Risques climatiques)
+* Impacts métiers (Marketing automation, Uplift
+
+en vous appuyant sur les outils & technologies suivants :
+* Python / R / Spark / SAS
+* Solution data science type Dataiku
+
+Au sein de la communauté Data, vous serez amené à :
+* Participer avec nos autres experts aux réflexions & travaux du domaine d'excellence Data du groupe : veille, événements, création de contenus, soutien aux initiatives R&D, réalisation de cas d'usage data science etc.
+* Participer à des réponses à appel d'offres
+* Participer à de la veille
+* Participer à la vision et porter les convictions du cabinet sur les sujets Data
+PROFIL : Les principaux attendus pour ce poste sont les suivants :
+* Diplômé(e) d'un Bac +5 en mathématiques appliquées ou statistiques avec une spécialisation dans les techniques de Machine Learning, vous disposez d'une expérience pratique d'au moins 5 ans sur du développement dans les langages Python, R, SAS Toute candidature de jeune diplômé ne sera pas traitée.
+* Vous connaissez le monde de la banque / assurance et justifiez d'une expérience minimum de 4 ans dans ce secteur
+* Rigoureux(se) dans la réalisation de vos objectifs, vous disposez de bonnes capacités organisationnelles et de gestion du temps
+* Anglais obligatoire","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,60000.0,80000.0,Unspecified,Expérience exigée,Contrat à durée indéterminée,False
+8742643,https://candidat.pole-emploi.fr/offres/recherche/detail/8742643,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - ORLY - 8742643 | Pôle emploi,94 - ORLY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742642,https://candidat.pole-emploi.fr/offres/recherche/detail/8742642,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - CRETEIL - 8742642 | Pôle emploi,94 - CRETEIL,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742637,https://candidat.pole-emploi.fr/offres/recherche/detail/8742637,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - COLOMBES - 8742637 | Pôle emploi,92 - COLOMBES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742634,https://candidat.pole-emploi.fr/offres/recherche/detail/8742634,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - CLICHY - 8742634 | Pôle emploi,92 - CLICHY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742628,https://candidat.pole-emploi.fr/offres/recherche/detail/8742628,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 78 - VELIZY VILLACOUBLAY - 8742628 | Pôle emploi,78 - VELIZY VILLACOUBLAY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742624,https://candidat.pole-emploi.fr/offres/recherche/detail/8742624,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - NOGENT SUR MARNE - 8742624 | Pôle emploi,94 - NOGENT SUR MARNE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742622,https://candidat.pole-emploi.fr/offres/recherche/detail/8742622,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - CHEVILLY LARUE - 8742622 | Pôle emploi,94 - CHEVILLY LARUE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742621,https://candidat.pole-emploi.fr/offres/recherche/detail/8742621,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - MONTREUIL - 8742621 | Pôle emploi,93 - MONTREUIL,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742614,https://candidat.pole-emploi.fr/offres/recherche/detail/8742614,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - BONDY - 8742614 | Pôle emploi,93 - BONDY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742605,https://candidat.pole-emploi.fr/offres/recherche/detail/8742605,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - MAISONS ALFORT - 8742605 | Pôle emploi,94 - MAISONS ALFORT,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742596,https://candidat.pole-emploi.fr/offres/recherche/detail/8742596,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - LA COURNEUVE - 8742596 | Pôle emploi,93 - LA COURNEUVE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742594,https://candidat.pole-emploi.fr/offres/recherche/detail/8742594,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 91 - WISSOUS - 8742594 | Pôle emploi,91 - WISSOUS,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742591,https://candidat.pole-emploi.fr/offres/recherche/detail/8742591,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - DUGNY - 8742591 | Pôle emploi,93 - DUGNY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742574,https://candidat.pole-emploi.fr/offres/recherche/detail/8742574,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - ST MAUR DES FOSSES - 8742574 | Pôle emploi,94 - ST MAUR DES FOSSES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742573,https://candidat.pole-emploi.fr/offres/recherche/detail/8742573,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - L HAY LES ROSES - 8742573 | Pôle emploi,94 - L HAY LES ROSES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742569,https://candidat.pole-emploi.fr/offres/recherche/detail/8742569,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - VILLEJUIF - 8742569 | Pôle emploi,94 - VILLEJUIF,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742566,https://candidat.pole-emploi.fr/offres/recherche/detail/8742566,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - BOIS COLOMBES - 8742566 | Pôle emploi,92 - BOIS COLOMBES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742557,https://candidat.pole-emploi.fr/offres/recherche/detail/8742557,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - FONTENAY SOUS BOIS - 8742557 | Pôle emploi,94 - FONTENAY SOUS BOIS,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742553,https://candidat.pole-emploi.fr/offres/recherche/detail/8742553,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - ARCUEIL - 8742553 | Pôle emploi,94 - ARCUEIL,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742548,https://candidat.pole-emploi.fr/offres/recherche/detail/8742548,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - RUEIL MALMAISON - 8742548 | Pôle emploi,92 - RUEIL MALMAISON,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742543,https://candidat.pole-emploi.fr/offres/recherche/detail/8742543,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - NEUILLY SUR SEINE - 8742543 | Pôle emploi,92 - NEUILLY SUR SEINE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742524,https://candidat.pole-emploi.fr/offres/recherche/detail/8742524,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - ALFORTVILLE - 8742524 | Pôle emploi,94 - ALFORTVILLE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742504,https://candidat.pole-emploi.fr/offres/recherche/detail/8742504,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - SURESNES - 8742504 | Pôle emploi,92 - SURESNES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742500,https://candidat.pole-emploi.fr/offres/recherche/detail/8742500,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 95 - MONTMAGNY - 8742500 | Pôle emploi,95 - MONTMAGNY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742496,https://candidat.pole-emploi.fr/offres/recherche/detail/8742496,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - BOURG LA REINE - 8742496 | Pôle emploi,92 - BOURG LA REINE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742492,https://candidat.pole-emploi.fr/offres/recherche/detail/8742492,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - VILLETANEUSE - 8742492 | Pôle emploi,93 - VILLETANEUSE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742490,https://candidat.pole-emploi.fr/offres/recherche/detail/8742490,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - LE PRE ST GERVAIS - 8742490 | Pôle emploi,93 - LE PRE ST GERVAIS,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742489,https://candidat.pole-emploi.fr/offres/recherche/detail/8742489,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - FONTENAY AUX ROSES - 8742489 | Pôle emploi,92 - FONTENAY AUX ROSES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8742485,https://candidat.pole-emploi.fr/offres/recherche/detail/8742485,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 95 - GARGES LES GONESSE - 8742485 | Pôle emploi,95 - GARGES LES GONESSE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8735000,https://candidat.pole-emploi.fr/offres/recherche/detail/8735000,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - ST MAURICE - 8735000 | Pôle emploi,94 - ST MAURICE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734960,https://candidat.pole-emploi.fr/offres/recherche/detail/8734960,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - ST OUEN SUR SEINE - 8734960 | Pôle emploi,93 - ST OUEN SUR SEINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734958,https://candidat.pole-emploi.fr/offres/recherche/detail/8734958,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - VILLEMOMBLE - 8734958 | Pôle emploi,93 - VILLEMOMBLE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734949,https://candidat.pole-emploi.fr/offres/recherche/detail/8734949,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - BOULOGNE BILLANCOURT - 8734949 | Pôle emploi,92 - BOULOGNE BILLANCOURT,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734936,https://candidat.pole-emploi.fr/offres/recherche/detail/8734936,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - RUEIL MALMAISON - 8734936 | Pôle emploi,92 - RUEIL MALMAISON,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734848,https://candidat.pole-emploi.fr/offres/recherche/detail/8734848,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - GENTILLY - 8734848 | Pôle emploi,94 - GENTILLY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734800,https://candidat.pole-emploi.fr/offres/recherche/detail/8734800,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - VILLETANEUSE - 8734800 | Pôle emploi,93 - VILLETANEUSE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734786,https://candidat.pole-emploi.fr/offres/recherche/detail/8734786,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - NANTERRE - 8734786 | Pôle emploi,92 - NANTERRE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734780,https://candidat.pole-emploi.fr/offres/recherche/detail/8734780,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - LE KREMLIN BICETRE - 8734780 | Pôle emploi,94 - LE KREMLIN BICETRE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734744,https://candidat.pole-emploi.fr/offres/recherche/detail/8734744,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - IVRY SUR SEINE - 8734744 | Pôle emploi,94 - IVRY SUR SEINE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734739,https://candidat.pole-emploi.fr/offres/recherche/detail/8734739,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - LE RAINCY - 8734739 | Pôle emploi,93 - LE RAINCY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734716,https://candidat.pole-emploi.fr/offres/recherche/detail/8734716,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - CLICHY - 8734716 | Pôle emploi,92 - CLICHY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734695,https://candidat.pole-emploi.fr/offres/recherche/detail/8734695,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - LEVALLOIS PERRET - 8734695 | Pôle emploi,92 - LEVALLOIS PERRET,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734688,https://candidat.pole-emploi.fr/offres/recherche/detail/8734688,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - AUBERVILLIERS - 8734688 | Pôle emploi,93 - AUBERVILLIERS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734642,https://candidat.pole-emploi.fr/offres/recherche/detail/8734642,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - LES PAVILLONS SOUS BOIS - 8734642 | Pôle emploi,93 - LES PAVILLONS SOUS BOIS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734601,https://candidat.pole-emploi.fr/offres/recherche/detail/8734601,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - MONTREUIL - 8734601 | Pôle emploi,93 - MONTREUIL,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734594,https://candidat.pole-emploi.fr/offres/recherche/detail/8734594,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - ST DENIS - 8734594 | Pôle emploi,93 - ST DENIS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734573,https://candidat.pole-emploi.fr/offres/recherche/detail/8734573,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - NOGENT SUR MARNE - 8734573 | Pôle emploi,94 - NOGENT SUR MARNE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734537,https://candidat.pole-emploi.fr/offres/recherche/detail/8734537,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - VILLEJUIF - 8734537 | Pôle emploi,94 - VILLEJUIF,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734510,https://candidat.pole-emploi.fr/offres/recherche/detail/8734510,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - CLAMART - 8734510 | Pôle emploi,92 - CLAMART,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734508,https://candidat.pole-emploi.fr/offres/recherche/detail/8734508,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - BOURG LA REINE - 8734508 | Pôle emploi,92 - BOURG LA REINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734505,https://candidat.pole-emploi.fr/offres/recherche/detail/8734505,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - NEUILLY SUR SEINE - 8734505 | Pôle emploi,92 - NEUILLY SUR SEINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734504,https://candidat.pole-emploi.fr/offres/recherche/detail/8734504,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - DUGNY - 8734504 | Pôle emploi,93 - DUGNY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734465,https://candidat.pole-emploi.fr/offres/recherche/detail/8734465,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - ST MANDE - 8734465 | Pôle emploi,94 - ST MANDE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734462,https://candidat.pole-emploi.fr/offres/recherche/detail/8734462,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - IVRY SUR SEINE - 8734462 | Pôle emploi,94 - IVRY SUR SEINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734424,https://candidat.pole-emploi.fr/offres/recherche/detail/8734424,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - NOISY LE SEC - 8734424 | Pôle emploi,93 - NOISY LE SEC,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734419,https://candidat.pole-emploi.fr/offres/recherche/detail/8734419,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - MEUDON - 8734419 | Pôle emploi,92 - MEUDON,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734380,https://candidat.pole-emploi.fr/offres/recherche/detail/8734380,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - LE RAINCY - 8734380 | Pôle emploi,93 - LE RAINCY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734322,https://candidat.pole-emploi.fr/offres/recherche/detail/8734322,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - CACHAN - 8734322 | Pôle emploi,94 - CACHAN,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734315,https://candidat.pole-emploi.fr/offres/recherche/detail/8734315,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - ISSY LES MOULINEAUX - 8734315 | Pôle emploi,92 - ISSY LES MOULINEAUX,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734313,https://candidat.pole-emploi.fr/offres/recherche/detail/8734313,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - LES LILAS - 8734313 | Pôle emploi,93 - LES LILAS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734310,https://candidat.pole-emploi.fr/offres/recherche/detail/8734310,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - BOBIGNY - 8734310 | Pôle emploi,93 - BOBIGNY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734304,https://candidat.pole-emploi.fr/offres/recherche/detail/8734304,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - VILLENEUVE LA GARENNE - 8734304 | Pôle emploi,92 - VILLENEUVE LA GARENNE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734281,https://candidat.pole-emploi.fr/offres/recherche/detail/8734281,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - CHATENAY MALABRY - 8734281 | Pôle emploi,92 - CHATENAY MALABRY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734276,https://candidat.pole-emploi.fr/offres/recherche/detail/8734276,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - LE BLANC MESNIL - 8734276 | Pôle emploi,93 - LE BLANC MESNIL,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734194,https://candidat.pole-emploi.fr/offres/recherche/detail/8734194,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - LA GARENNE COLOMBES - 8734194 | Pôle emploi,92 - LA GARENNE COLOMBES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734163,https://candidat.pole-emploi.fr/offres/recherche/detail/8734163,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - VITRY SUR SEINE - 8734163 | Pôle emploi,94 - VITRY SUR SEINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734143,https://candidat.pole-emploi.fr/offres/recherche/detail/8734143,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - ANTONY - 8734143 | Pôle emploi,92 - ANTONY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734108,https://candidat.pole-emploi.fr/offres/recherche/detail/8734108,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - LE PLESSIS ROBINSON - 8734108 | Pôle emploi,92 - LE PLESSIS ROBINSON,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734087,https://candidat.pole-emploi.fr/offres/recherche/detail/8734087,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - NEUILLY PLAISANCE - 8734087 | Pôle emploi,93 - NEUILLY PLAISANCE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734070,https://candidat.pole-emploi.fr/offres/recherche/detail/8734070,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - CHARENTON LE PONT - 8734070 | Pôle emploi,94 - CHARENTON LE PONT,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734054,https://candidat.pole-emploi.fr/offres/recherche/detail/8734054,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - THIAIS - 8734054 | Pôle emploi,94 - THIAIS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734016,https://candidat.pole-emploi.fr/offres/recherche/detail/8734016,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - PUTEAUX - 8734016 | Pôle emploi,92 - PUTEAUX,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734010,https://candidat.pole-emploi.fr/offres/recherche/detail/8734010,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 94 - LE PERREUX SUR MARNE - 8734010 | Pôle emploi,94 - LE PERREUX SUR MARNE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8734000,https://candidat.pole-emploi.fr/offres/recherche/detail/8734000,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 69 - CHATILLON - 8734000 | Pôle emploi,69 - CHATILLON,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733957,https://candidat.pole-emploi.fr/offres/recherche/detail/8733957,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - FONTENAY SOUS BOIS - 8733957 | Pôle emploi,94 - FONTENAY SOUS BOIS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733944,https://candidat.pole-emploi.fr/offres/recherche/detail/8733944,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 91 - VERRIERES LE BUISSON - 8733944 | Pôle emploi,91 - VERRIERES LE BUISSON,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733930,https://candidat.pole-emploi.fr/offres/recherche/detail/8733930,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 94 - CHEVILLY LARUE - 8733930 | Pôle emploi,94 - CHEVILLY LARUE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733918,https://candidat.pole-emploi.fr/offres/recherche/detail/8733918,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - MONTROUGE - 8733918 | Pôle emploi,92 - MONTROUGE,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733890,https://candidat.pole-emploi.fr/offres/recherche/detail/8733890,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 95 - ENGHIEN LES BAINS - 8733890 | Pôle emploi,95 - ENGHIEN LES BAINS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733889,https://candidat.pole-emploi.fr/offres/recherche/detail/8733889,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - VILLE D AVRAY - 8733889 | Pôle emploi,92 - VILLE D AVRAY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733885,https://candidat.pole-emploi.fr/offres/recherche/detail/8733885,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 95 - BEZONS - 8733885 | Pôle emploi,95 - BEZONS,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733865,https://candidat.pole-emploi.fr/offres/recherche/detail/8733865,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - GARCHES - 8733865 | Pôle emploi,92 - GARCHES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733857,https://candidat.pole-emploi.fr/offres/recherche/detail/8733857,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - ROMAINVILLE - 8733857 | Pôle emploi,93 - ROMAINVILLE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733844,https://candidat.pole-emploi.fr/offres/recherche/detail/8733844,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - LA GARENNE COLOMBES - 8733844 | Pôle emploi,92 - LA GARENNE COLOMBES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733840,https://candidat.pole-emploi.fr/offres/recherche/detail/8733840,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - FONTENAY AUX ROSES - 8733840 | Pôle emploi,92 - FONTENAY AUX ROSES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733825,https://candidat.pole-emploi.fr/offres/recherche/detail/8733825,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - VANVES - 8733825 | Pôle emploi,92 - VANVES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733803,https://candidat.pole-emploi.fr/offres/recherche/detail/8733803,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 92 - SEVRES - 8733803 | Pôle emploi,92 - SEVRES,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733799,https://candidat.pole-emploi.fr/offres/recherche/detail/8733799,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - COURBEVOIE - 8733799 | Pôle emploi,92 - COURBEVOIE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733778,https://candidat.pole-emploi.fr/offres/recherche/detail/8733778,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - BOIS COLOMBES - 8733778 | Pôle emploi,92 - BOIS COLOMBES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733760,https://candidat.pole-emploi.fr/offres/recherche/detail/8733760,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 93 - EPINAY SUR SEINE - 8733760 | Pôle emploi,93 - EPINAY SUR SEINE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733756,https://candidat.pole-emploi.fr/offres/recherche/detail/8733756,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 95 - GARGES LES GONESSE - 8733756 | Pôle emploi,95 - GARGES LES GONESSE,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733745,https://candidat.pole-emploi.fr/offres/recherche/detail/8733745,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 93 - DRANCY - 8733745 | Pôle emploi,93 - DRANCY,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733728,https://candidat.pole-emploi.fr/offres/recherche/detail/8733728,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 92 - SURESNES - 8733728 | Pôle emploi,92 - SURESNES,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733682,https://candidat.pole-emploi.fr/offres/recherche/detail/8733682,2023-12-27,Offre d'emploi CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F) - 78 - VELIZY VILLACOUBLAY - 8733682 | Pôle emploi,78 - VELIZY VILLACOUBLAY,"Recherche: CDI - SENIOR DATA SCIENTIST (RETAIL) (H/F)
+Nous recrutons pour l'un de nos clients, un Sénior Data Scientist en CDI pour une startup dans le secteur du retail.  
+ Description de l'entreprise
+Notre client est un acteur incontournable du marketing et du digital dans le domaine du retail. Avec un ADN data fort, notre client a pour ambition de fournir aux marques et aux distributeurs des solutions de recrutement et de fidélisation clients ainsi que des outils et des plateformes pour adresser plus efficacement leurs problématiques business.
+Ayant crée la base de données la plus massive, complète et qualitative sur les consommations des Français, leurs intentions d'achat et leurs comportements à partir de plus de 33 millions de profils issus, entre autres, des enseignes du Groupe Casino (Cdiscount, Monoprix, Casino Supermarché, Géant, Franprix.).
+ Description du poste et des missions
+En tant que Data Scientist, tu auras accès aux données des clients internes et externes ...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
+8733665,https://candidat.pole-emploi.fr/offres/recherche/detail/8733665,2023-12-27,Offre d'emploi DATA SCIENTIST - INDUSTRIE (H/F) - 69 - CHATILLON - 8733665 | Pôle emploi,69 - CHATILLON,"Recherche: DATA SCIENTIST - INDUSTRIE (H/F)
+QUI SOMMES-NOUS ?
+Thales Digital Factory s'inscrit dans le programme de transformation de Thales qui a pour ambition de devenir un acteur incontournable et exemplaire du digital, et ce dans l'ensemble de ses marchés. Notre mission consiste à accélérer la transition numérique du Groupe Thales en s'aventurant dans de nouveaux modes de travail et de décision. Notre stratégie s'articule autour de 6 valeurs : Responsabilisation, Orientée sur la donnée, Centrée sur l'utilisateur, Collaboration, Amélioration continue et Culture de l'échec. Nos bureaux se répartissent de Paris à Singapour en passant par Montréal au cœur d'écosystèmes innovants. Thales Digital Factory se distingue également grâce à son incubateur qui accompagne des start-ups internes et externes, ses plateformes digitales, son centre d'excellence Cloud et le développement de MVP, porteurs d'innovation pour l'offre digitale du Groupe et de nos clients.
+Le Data Studio :
+L'équipe...","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,Contrat à durée indéterminée,True
