@@ -1,26 +1,4 @@
 id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
-180TKDP,https://candidat.pole-emploi.fr/offres/recherche/detail/180TKDP,2024-09-09,Offre d'emploi Data scientist (H/F) - 06 - BIOT - 180TKDP | France Travail,06 - BIOT,"Au sein de nos équipes de data science, nous recherchons notre futur data scientist pour nous accompagner dans différents projets mettant en oeuvre les techniques fondamentales de statistiques prédictives (Machine Learning).
-
-Vous aurez de nombreuses missions telles que : 
-- Analyse et synthèses des attentes fonctionnelles et techniques 
-- Analyse du patrimoine de données 
-- Définition d'une modélisation statistique qui permette de répondre aux attentes
-- Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse
-- Etude et comparaison des méthodes statistiques (ACP, régression logistique, random forest )
-- Mise en oeuvre et exploitation des méthodes et modèles (R, SAS, Python, SPSS )
-- Recherche d'optimisation des performances des algorithmes 
-- Analyse et synthèse des informations et des résultats
-- Veille technologique autour du Big Data, machine learning et de la statistique décisionnelle
-- Participer à la qualification de la solution 
-
---
-
-Vous êtes diplômé(e) d'une école d'ingénieur ou universitaire. 
-Alors venez vivre l'expérience au sein d'une société dynamique et innovante !","
-CDI
-
-Contrat travail
-",35H,25000.0,40000.0,Cleeven se,Débutant accepté,CDI,True
 3713848,https://candidat.pole-emploi.fr/offres/recherche/detail/3713848,2024-09-08,Offre d'emploi DATA SCIENTIST (H/F) - 92 - Hauts de Seine - 3713848 | France Travail,92 - Hauts de Seine,"Référence CSP: DEF_15-00042724 
  La direction du renseignement et de la sécurité de la défense (DRSD) est le service de renseignement dont dispose le ministre des armées pour assumer ses responsabilités en matière de sécurité du personnel, des informations, du matériel et des installations sensibles. Ses moyens sont répartis en métropole, en outre-mer et à l'étranger. Au sein de la sous-direction technique, la mission du centre informatique consiste à appuyer le directeur, les sous-directeurs et leurs entités subordonnées dans leurs responsabilités de contre-ingérence et de protection du secret, en leur garantissant en permanence des systèmes d'information et de communication adaptés à leurs besoins, performants, évolutifs et hautement sécurisés, servis par des professionnels aux spécialités complémentaires et imprégnés d'une culture opérationnelle avérée. Le bureau développement est chargé de mener la conception générale et la réalisation des SIC de la DRSD. Il reçoit les besoins exprimés par les utilisateurs et, après validation par le chef de centre, conçoit les solutions dans tous leurs aspects (sécurité, réseaux, système, applicatifs, formation, documentation, etc.). Le data scientist est en charge de développer des programmes permettant de s'appuyer sur la fouille de données, les statistiques, les méthodes de référencement, l'apprentissage automatique et la visualisation de données, dans le but d'aider à la prise de décision.
 Modéliser les chaînes de collecte, de stockage, de traitement et de restitution des données
