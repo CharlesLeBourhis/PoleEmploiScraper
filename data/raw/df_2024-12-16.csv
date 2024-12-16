@@ -1,4 +1,34 @@
 id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
+185MMFS,https://candidat.pole-emploi.fr/offres/recherche/detail/185MMFS,2024-12-16,Offre d'emploi Data scientist F/H (H/F) - 92 - Saint-Cloud - 185MMFS | France Travail,92 - Saint-Cloud,"La Direction Générale du Soutien Militaire (DGSM) de Dassault Aviation assure le soutien en service des 1000 aéronefs militaires en service en France et à l'Export.
+
+Au sein de cette Direction, la Direction de la Logistique Opérationnelle et de la Transformation Numérique, a pour missions, entre autre, d'assurer, en relation avec notre DSI, la coordination des actions de Transformation Numérique de DGSM, notamment le développement et la mise en œuvre de la plateforme Big Data.
+
+Vous rejoindrez au sein de cette direction, notre équipe Big Data basée à St cloud
+
+
+Vous participez aux travaux de Data Science pour répondre à des besoins métier (Maintenance, Logistique, Missions, analyses de fiabilité...) pour optimiser la disponibilité de nos avions militaires (Rafale, M2000, ATL).
+
+
+Au travers d'outils de Data Science (i.e. notebook, script python) et d'un Big Data Studio développé spécifiquement par DASSAULT SYSTEMES :
+
+
+- Vous formalisez les besoins métiers en échangeant sur leurs activités avec les spécialistes de domaines;
+
+
+- Vous développez en boucle Agile avec les métiers, les modèles et visualisation.
+
+Les principaux domaines utilisés sont :
+o Time series : détection d'anomalie, signaux faibles.
+o NLP : Analyse de sentiment, classification de texte, recherche en langage naturelle, IA generative
+
+
+- Vous êtes force de proposition dans l'évolution des outils et méthodes utilisées.
+
+Vous travaillez en mode projet avec les équipes métier de la DGSM et de la R&D. L'intégration des personnes de plusieurs directions permettant de combiner les aspects Métier du soutien, Data Science et Informatique.","
+CDI
+
+Contrat travail
+",35H Travail en journée,38000.0,70000.0,Dassault aviation,1 An(s),CDI,False
 9388119,https://candidat.pole-emploi.fr/offres/recherche/detail/9388119,2024-12-16,"Offre d'emploi Data Scientist F/H - Système, réseaux, données (H/F) - 92 - ISSY LES MOULINEAUX - 9388119 | France Travail",92 - ISSY LES MOULINEAUX,"Descriptif du poste:
 
 Dans le cadre du développement de notre plateforme cartographique «&nbsp;Geoptis Solution&nbsp;», nous recherchons un Data Scientist pour rejoindre notre équipe R&amp;D.
@@ -107,6 +137,28 @@ Contrat à durée déterminée - 30 Mois
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Unspecified,Expérience exigée de 5 An(s),Contrat à durée déterminée - 30 Mois,False
+185MLLY,https://candidat.pole-emploi.fr/offres/recherche/detail/185MLLY,2024-12-16,Offre d'emploi Expert DATAIKU (H/F) - 92 - NEUILLY SUR SEINE - 185MLLY | France Travail,92 - NEUILLY SUR SEINE,"Contexte :
+Nnous recherchons un Expert Dataiku avec une expertise confirmée en analyse de données et modélisation, ainsi qu'une connaissance approfondie de SAS pour renforcer l'équipe data de notre client
+
+Objectifs de la mission :
+
+Concevoir, développer et optimiser des flux de données dans Dataiku pour intégrer et transformer des données provenant de diverses sources.
+Utiliser SAS pour le traitement et l'analyse de données complexes, en assurant la qualité des modèles statistiques et des résultats obtenus.
+Collaborer avec les équipes métiers pour comprendre les besoins et proposer des solutions adaptées aux enjeux de data science.
+Mettre en place des processus d'automatisation et de validation des modèles au sein de la plateforme Dataiku, en intégrant les capacités de SAS.
+Assurer la documentation technique des processus et des modèles développés pour garantir une traçabilité et une bonne gestion des données.
+Former et accompagner les membres de l'équipe dans l'utilisation des outils Dataiku et SAS, et veiller à la montée en compétence des collaborateurs.
+Compétences requises :
+
+Expertise en Dataiku (création de workflows, gestion des datasets, intégration avec d'autres outils).
+Maîtrise de SAS pour les analyses statistiques et la modélisation.
+Expérience dans le traitement de grandes quantités de données et la gestion de bases de données complexes.
+Connaissances solides en data visualisation, ainsi qu'en analyse et interprétation des résultats.
+Bonne communication et aptitude à travailler en équipe dans un environnement agile.","
+CDI
+
+Contrat travail
+",35H Travail en journée,48000.0,55000.0,Datamed research,4 An(s),CDI,False
 9362830,https://candidat.pole-emploi.fr/offres/recherche/detail/9362830,2024-12-15,Offre d'emploi Data scientist (H/F) - 59 - LILLE - 9362830 | France Travail,59 - LILLE,"Nous recherchons un Data Engineer /Scientiste avec la capacité de mettre en place du dataViz (PowerBI/ loocker)
 Pour mettre en place des produits/Alghoritmes Data avec de l'IA /machine learning au sein du périmètre marketing client
 Automatiser des process et aider le business à prendre des décisions stratégiques en se basant sur la Data
@@ -3237,80 +3289,3 @@ Contrat à durée indéterminée
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Dassault aviation,Expérience exigée,Contrat à durée indéterminée,False
-9146923,https://candidat.pole-emploi.fr/offres/recherche/detail/9146923,2024-12-12,Offre d'emploi Responsable Data avec Xp Environnement Azure Iagen H/F - 47 - BOE - 9146923 | France Travail,47 - BOE,"POSTE : Responsable Data avec Xp Environnement Azure Iagen H/F
-DESCRIPTION : Véritable ambassadeur sur les sujets data et IA, nous cherchons un profil qui saura apporter sa vision stratégique, fédérer les équipes autour de la transformation numérique et garantir l'évolution des plateformes data et IA en adéquation avec les ambitions de l'entreprise. 
- 
-Rattaché au CTO vous aurez en charge de : 
-- Définir la stratégie et l'évolution des plateformes data et IA en lien avec la stratégie de l'entreprise, 
-- Diffuser la culture data et IA (dont IA gen) au sein du groupe. 
-- Garantir la disponibilité des plateformes Data et IA pour toutes les entités du groupe, 
-- Conduire et assurer la transformation des équipes en mode produit, 
-- Être l'ambassadeur lors d'événements internes et externes sur des thématiques data et IA, 
-- Organiser des événements internes pour la promotion de la data et de l'IA 
-- Manager une direction de 45 collaborateurs (dont prestataires locaux et offshore) répartis en 5 équipes avec des profils pluridisciplinaires (MLOPS, Data ingénieur, Data architecte, Data manager, Ml ingénieur), 
-- Assurer le recrutement des collaborateurs et leur évolution. 
-- Gestion des budgets, 
-- Gestion de crises, 
-- Participer aux comités internes et y représenter la data (Comité DSI, comité IA Gen, Copil B2B), 
-- Gérer les relations avec les principaux éditeurs et négocier les contrats de renouvellement (Snowflake et Microsoft), 
-- Travailler en étroite collaboration avec les directions produits B2C, B2B, Advertising et Datascience afin d'anticiper les besoins et de construire les roadmaps des plateformes data et IA.
-Modalités de télétravail : 2 jours par semaine, 3 jours sur site le lundi, mardi et jeudi.
-PROFIL : Pré-requis : 
-Expérience d'au moins 7 ans sur un poste similaire 
- 
-Stack technique : 
-Data 
-- Snowflake, DBT, Talend, Kafka 
-- Power BI, SSAS, SSRS, SQL server, postgresql 
-- Datahub (datacatalogue) 
- 
-Dataops 
-- Liquibase, Teraform, Docker, Kubernetes, Azure DEVOPS, $U, Zabbix 
- 
-IA et IAGen 
-- Azure Open AI / Azure AI studio 
-- MLflow, Jupyter Hub 
-- LLM open source (Llam 3.1, Mixtral) 
-Data OPS = + de 5 ans d'expérience 
-MML, IA Gen = + de 5 ans d'expérience 
-Culture data = + de 5 ans d'expérience","
-Contrat à durée indéterminée
-
-Contrat travail
-",unspecified,55000.0,55000.0,Ardemis partners,Expérience exigée,Contrat à durée indéterminée,False
-9139142,https://candidat.pole-emploi.fr/offres/recherche/detail/9139142,2024-12-14,Offre d'emploi Responsable Data Business Groupe H/F - 75 - PARIS 01 - 9139142 | France Travail,75 - PARIS 01,"POSTE : Responsable Data Business Groupe H/F
-DESCRIPTION : Au sein de la DSD (Direction de la stratégie et du développement Groupe) et rattaché au Directeur commercial Groupe, vous êtes responsable de la stratégie liée aux données commerciales, depuis la collecte jusqu'à l'utilisation des KPI de performance du Groupe.
-
-Vous interviendrez aussi bien sur la production de données qu'en mode projet pour la définition de la stratégie et, à ce titre, vous êtes le process owner des données commerciales du groupe.
-
-Vous intervenez au niveau du Groupe House of ABY et pour ses différentes entités en France et en Europe (52 implantations - 4400 collaborateurs).
-
-Vos responsabilités :
-
-* Piloter le développement de modèles prédictifs et de tableaux de bord stratégiques pour optimiser la prise de décision sur les KPI clés : CA, rentabilité, taux d'occupation, performance grands comptes, coûts et prix de vente.
-* Élaborer et déployer une stratégie de gestion des données business, en coordonnant étroitement avec la finance, la DSI et les parties prenantes de tous niveaux.
-* Garantir des synthèses mensuelles alignées sur les attentes du Comité de Direction et du Board House of HR, avec des données fiables et des reportings de qualité.
-* Centraliser, automatiser et standardiser les reportings du groupe et de ses filiales pour une efficacité maximale.
-* Superviser le déploiement des outils de reporting (Power BI) tout en renforçant la culture « data-driven » au sein de l'organisation.
-* Manager l'équipe Business Data Analyst en veillant à leur engagement sur les priorités stratégiques et à la mise en oeuvre rigoureuse des processus de données groupe.
-PROFIL : Qui êtes-vous ?
-
-De cursus Master en École de Commerce ou d'ingénieurs, en Business Intelligence ou gestion des affaires, vous avez au moins 5 ans d'expérience en tant que consultant business intelligence, business analyst confirmé ou en contrôle de gestion opérationnel/commercial.
-
-Vous justifiez d'une expérience significative en pilotage de projets data (fusion d'entités, déploiement de nouveaux outils, accompagnement au changement) et vous vous positionnez en tant que leader sur la qualité du delivery et des délais sur lesquels vous challengez toutes les parties prenantes.
-
-Une expérience au sein d'une société de conseil en ingénierie ou une ESN est un vrai atout.
-
-Rigoureux, organisé et réactif, vous avez une bonne capacité d'analyse et un excellent relationnel.
-
-Vous avez une maîtrise avancée d'Excel, de PowerPoint, de Power BI et une curiosité/culture avancée sur les outils du marché : CRM, ERP, IA, etc.
-
-En plus de votre bonne capacité de communication, vous parlez anglais et êtes capable d'évoluer dans des workshops, réunions internes et externes avec des interlocuteurs non francophones.
-
-Vous êtes prêt(e) à explorer le champ des possibles avec nous ? N'attendez plus : postulez !
-
-Dans le cadre de l'égalité des chances, toutes nos offres d'emploi sont ouvertes aux personnes en situation de handicap.","
-Contrat à durée indéterminée
-
-Contrat travail
-",unspecified,50000.0,50000.0,Abylsen,Expérience exigée,Contrat à durée indéterminée,False
