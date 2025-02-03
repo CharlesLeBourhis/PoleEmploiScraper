@@ -2983,6 +2983,207 @@ Contrat à durée déterminée - 36 Mois
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Unspecified,Expérience exigée de 2 An(s),Contrat à durée déterminée - 36 Mois,False
+1353408,https://candidat.pole-emploi.fr/offres/recherche/detail/1353408,2025-01-29,Offre d'emploi Expert Intelligence Artificielle H/F - 38 - GRENOBLE - 1353408 | France Travail,38 - GRENOBLE,"Kaizen est une société de conseil (une ESN) spécialisée dans les systèmes d'information complexes. Nos clients vont de la start-up aux grands groupes industriels, et nous concevons avec eux des solutions logicielles haut de gamme,
+Nous recherchons un profil d'Ingénieur Expert en Intelligence Artificielle H/F
+Votre rôle vous conduira à deux types de missions
+La première partie sera d'apporter votre expertise technique. Vous aurez la charge d'apporter vos compétences sur les sujets IA de nos clients sur les thématiques suivantes :
+Développement d'Algorithmes et de Modèles :
+- Concevoir, implémenter et optimiser des algorithmes de machine learning et deep learning.
+- Entraîner, évaluer et valider des modèles pour assurer leur performance.
+Gestion des Données :
+- Collecter, nettoyer, et préparer des données pour l'entraînement des modèles.
+- Réaliser des analyses exploratoires des données pour en extraire des insights.
+Développement de Solutions d'IA :
+- Prototyper des concepts d'IA et intégrer des modèles dans des applications existantes.
+- Assurer la maintenance et la mise à jour des modèles déployés.
+Collaboration et Communication :
+- Travailler en équipe avec d'autres ingénieurs et parties prenantes.
+- Documenter les processus de développement et présenter les résultats aux décideurs et clients.
+Dans un second temps, vous serez acteur majeur de la structuration de l'approche IA au sein de l'écosystème Kaizen Solutions. En effet, nous mettons la technique au centre de nos sujets et nous cherchons la personne capable d'accompagner la communauté KZS :
+- Organiser le développement des compétences de l'équipe élargie sur les points et les technologies liés à l'IA en organisant des formations.
+- Effectuer une veille technologique et participer à des conférences.
+- Explorer de nouvelles techniques et méthodologies pour améliorer les modèles.
+- Pôle de compétence : Animation du Pôle et organisation d'événements internes types lunchs, conférences, Kaizen Talk
+L'univers technique attendu...
+Langages et Environnements de Développement :
+- Python / R / C++
+- Jupyter Notebook
+Frameworks d'Apprentissage Automatique et de Deep Learning :
+- TensorFlow / PyTorch (Torch) / Keras
+Bibliothèques d'Analyse de Données et de Calcul Numérique :
+- Pandas / NumPy
+Bibliothèques de Visualisation :
+- Matplotlib / Plotly
+Outils de Traitement de Données et de Traitement du Langage Naturel :
+- Spacy / OpenCV / Hugging Face
+Frameworks de Traitement Distribué :
+- PySpark (Spark)
+Bases de Données et Outils de Recherche :
+- SQL / ElasticSearch / OpenSearch / Base de Données Vectorielles
+Outils de Déploiement :
+- Docker / Kubernetes
+Plateformes MLOPS :
+- MLFlow / KubeFlow
+Plateformes de Machine Learning et de Développement :
+- AzureML / SageMaker / DataIku
+Vous aurez aussi l'opportunité de travailler conjointement avec les membres de notre Coordination Technique et de travailler.
+La mise en place de la coordination technique a plusieurs objectifs chez Kaizen Solutions :
+- Définitions des solutions clients en support de l'équipe Delivery
+- Capitalisation des besoins et définitions des offres commerciales
+- Présentation de notre expertise
+- Définition de la stratégie de formation des collaborateurs
+- Proposition de contenu pour les événements techniques
+- Animation des Pôles de Compétences et possibilité d'en prendre la responsabilité
+L'aventure vous tente alors ?!
+De formation école d'ingénieur ou Bac +5 en informatique, vous avez une expérience sur un poste similaire de 5 ans exclusivement dans le milieu de l'IA
+Vous êtes technophile et vous aimez apprendre. Vous êtes passionnés par l'IA et l'IA générative.
+Vous avez d'excellentes capacités de communication pour vous adapter et expliquer ces innovations techniques à différents types d'auditoires.
+Vous avez déjà démontré à maintes reprises votre capacité à traiter des projets de bout en bout en lien fort avec vos référents métier.
+La maîtrise de l'anglais est obligatoire
+Cette description vous ressemble? Envoyez nous votre candidature !","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,45000.0,65000.0,Kaizen solutions,Expérience exigée,Contrat à durée indéterminée,False
+187DYQL,https://candidat.pole-emploi.fr/offres/recherche/detail/187DYQL,2025-01-27,Offre d'emploi Data Scientist (H/F) - 13 - MARSEILLE 08 - 187DYQL | France Travail,13 - MARSEILLE 08,"Offre d'emploi : Data Scientist LLM - Marseille (Sur site, Disponibilité immédiate)
+Lieu : Marseille (obligatoirement sur site)
+Disponibilité : Immédiate
+Salaire : 45 000 - 60 000 € brut par mois selon expérience
+
+Description du poste
+Nous recherchons un(e) Data Scientist spécialisé(e) en Large Language Models (LLM) pour rejoindre notre équipe à Marseille.
+Ce poste est 100% sur site et nécessite une prise de poste immédiate.
+
+Vous participerez à la conception, l'entraînement, l'optimisation et le déploiement de modèles de langage avancés, notamment sur des infrastructures GPU haute performance.
+
+Missions principales
+
+Développement et fine-tuning de modèles LLM (LLaMA, GPT, Mistral, etc.)
+Préparation et traitement des datasets pour l'entraînement de modèles
+Optimisation des performances des modèles pour accélérer l'inférence et la consommation GPU
+Mise en place de pipelines NLP pour des applications spécifiques (chatbots, callbots, génération de texte, etc.)
+Travail sur des techniques avancées : LoRA, QLoRA, distillation de modèles, quantization
+Déploiement et scalabilité des modèles sur des serveurs dédiés
+
+Profil recherché
+Expérience solide en Data Science / Machine Learning, avec un focus sur le NLP et les LLM
+Bonne maîtrise de Python, ainsi que des frameworks IA (PyTorch, TensorFlow, Hugging Face Transformers)
+Expérience en fine-tuning de modèles de langage sur des datasets spécifiques
+Connaissances en optimisation GPU (CUDA, TensorRT, DeepSpeed)
+Expérience en mise en production et déploiement (API, FastAPI, Docker, Kubernetes)
+Capacité à travailler sur site à Marseille, avec une disponibilité immédiate
+
+Pourquoi nous rejoindre ?
+Salaire attractif (45K-60K brut/an selon expérience)
+Des projets innovants dans l'IA générative et les LLM
+Un environnement technique de pointe avec accès à des clusters GPU
+Une équipe passionnée et experte dans le domaine","
+CDI
+
+Contrat travail
+",39H Autre,45000.0,60000.0,Unspecified,1 An(s),CDI,False
+1341457,https://candidat.pole-emploi.fr/offres/recherche/detail/1341457,2025-01-26,Offre d'emploi DATA SCIENTIST/Datavisualisation TABLEAU-CDD12mois (H/F) - 92 - ISSY LES MOULINEAUX - 1341457 | France Travail,92 - ISSY LES MOULINEAUX,"CNP Assurances est l'acteur de référence de l'assurance de personnes en France, en Europe et au Brésil grâce à un modèle partenarial unique et innovant. Travailler chez CNP Assurances, c'est rejoindre un environnement dynamique et international au sein d'un groupe leader de l'assurance en France. C'est aussi développer un parcours professionnel dans un cadre stimulant, quel que soit votre métier. Sa mission : assurer un monde plus ouvert, sans exclusive et humainement. Une vision alternative et inclusive de l'assurance, qui place l'individu, client comme collaborateur, au coeur des préoccupations de l'entreprise. Une entreprise à taille humaine : une grande variété de métiers mais un processus de développement et d'accès à la hiérarchie rapide.
+Un groupe financier international : nous comptons plus de 5 300 collaborateurs dans le monde.
+Un assureur différent par son modèle économique multi-partenarial.
+Un groupe durable : notre solidarité financière nous permet d'investir dans des projets responsables et engagés.
+Une entreprise pilier du pôle financier public piloté par la Caisse des Dépôts et dont elle partage les mêmes valeurs : développement économique, écologique, numérique et « mieux vivre ensemble ». 
+
+        Missions :
+ - Concevoir, faire évoluer et réaliser à partir de l'outil Tableau des suivis et études d'activité commerciales et marketing pour la BU LBP et les partenaires distributeurs
+
+- Participer à l'analyse et à la structuration des données pour répondre aux besoins spécifiques des dashboards dans Tableau
+
+- Proposer des solutions adaptées, notamment en matière de design des dashboards
+
+- S'assurer de la pertinence, justesse, fiabilité et cohérence des dashboards Tableau avec les autres suivis diffusés en interne et/ou par notre partenaire
+
+- Documenter l'ensemble des suivis et études réalisés
+
+- Assurer la restitution des résultats
+
+  
+ Profils
+1/ Formation BAC+5 en statistiques ou data science ou BAC+3 avec expérience professionnelle de 2 ans minimum
+2/ Maîtrise de l'outil Tableau
+3/ Connaissance des systèmes de gestion de bases de données (Knime, SAS, Python, SQL...)
+4/ La connaissance de l'environnement assurance et bancaire serait un plus
+5/ Rigueur, précision, organisation, autonomie, esprit d'initiative, réactivité
+6/ Capacité à travailler en équipe","
+Contrat à durée déterminée - 12 Mois
+
+Contrat travail
+",unspecified,unspecified,unspecified,Cnp assurances,Expérience exigée de 2 An(s),Contrat à durée déterminée - 12 Mois,False
+1339801,https://candidat.pole-emploi.fr/offres/recherche/detail/1339801,2025-01-28,Offre d'emploi DATA SCIENTIST (H/F) - 75 - Paris (Dept.) - 1339801 | France Travail,75 - Paris (Dept.),"Référence CSP: DEF_24-00037200 
+ Au sein du secrétariat général pour l'administration (SGA) du ministère des armées, la délégation à la transformation et à la performance ministérielles (DTPM) créée au 1er janvier 2020 est une direction d'administration centrale ministérielle dédiée à l'accompagnement et à l'accélération de la transformation numérique, organisationnelle et managériale de l'action publique. 
+Le centre d'expertise DATA/ IA est chargé de veiller et d'expérimenter les technologies et les pratiques d'analyse de la donnée à des fins décisionnelles. Il est un des acteurs clé du domaine de la DATA au sein du ministère.
+Le data scientist intègrera une équipe chargée de définir et de piloter la mise en œuvre des outils d'analyse, de traitement et de croisement des données massives. Il apporte une expertise scientifique en matière de modélisation et d'IA et identifie les cas d'usage utiles à la valorisation de la donnée d'intérêt militaire et administrative. Elle répond aux enjeux opérationnels des armées, directions et services en développant des algorithmes et des applications en liaison étroite avec les traitants, en utilisant les méthodes agiles.
+Aider les opérationnels à exprimer leur besoin fonctionnel et leur proposer des axes de collaboration
+Proposer des sources, traitements, et croisements de données innovants et utiles aux opérateurs
+Identifier, redresser et intégrer les données pertinentes dans l'infrastructure Big Data du ministère
+Concevoir, implémenter, optimiser et documenter des algorithmes tirant partie de ces données et développer des applications et des connecteurs à livrer aux opérationnels
+Alimenter les programmes et les projets au profit des armées, directions et services
+Proposer et mettre en œuvre des solutions techniques visant à structurer, capitaliser, et partager les données au sein des armées, directions et services.","
+Contrat à durée déterminée - 36 Mois
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Expérience exigée de 2 An(s),Contrat à durée déterminée - 36 Mois,False
+1286072,https://candidat.pole-emploi.fr/offres/recherche/detail/1286072,2025-01-25,Offre d'emploi Data scientist (H/F) - 13 - MARSEILLE 01 - 1286072 | France Travail,13 - MARSEILLE 01,"Notre client dans le secteur Transport et logistique recherche un/une Senior Data Scientist H/F
+Description de la mission:
+Votre rôle sera d?accompagner le cadrage des projets et l?élaborations de premiers algorithmes et pilotes en lien avec les IT locaux et les chefs de projets.
+Vous ferez partie de l'équipe IA pour la mise en place de prototype à destination principalement des médias :
+? Conception de Prototypes et Pilotes : Élaborer et développer des prototypes et des projets pilotes pour démontrer la faisabilité et la valeur des solutions IA.
+? Framing des Projets IA : Définir et structurer les projets d'intelligence artificielle en collaboration avec les parties prenantes, en identifiant les objectifs, les ressources nécessaires et les étapes clés.
+? Conseil et Accompagnement : Fournir des conseils stratégiques et techniques aux clients pour les aider à intégrer les solutions IA dans leurs processus métier.
+Compétences requises:
+? Expérience : Minimum de 5 ans d'expérience en tant que Data Scientist, de préférence dans le secteur des médias ou des environnements similaires.
+? Formation : BAC +5 en Data Science, Informatique, Mathématiques, ou Statistiques.
+? Langues : Maîtrise du français et de l'anglais.
+? Une expérience en conseil data ou AI ou en startup est un plus.
+L?environnement technologique :
+? Python, scikit-learn, Tensorflow, pyTorch, langchain, vLLM,
+? GCP : Vertex AI, Gemini, fast API
+? Docker
+? Streamlit, flask, voir React
+Compétences / Qualités indispensables :
+Datascientist
+Compétences / Qualités qui seraient un + :
+Une expérience en conseil data ou AI ou en startup est un plus. ? Python, scikit-learn, Tensorflow, pyTorch, langchain, vLLM, ? GCP : Vertex AI, Gemini, fast API ? Docker ? Streamlit, flask, voir React","
+Profession libérale
+
+Emploi non salarié
+",unspecified,unspecified,unspecified,Lehibou,Expérience exigée de 5 An(s),Profession libérale,False
+1285793,https://candidat.pole-emploi.fr/offres/recherche/detail/1285793,2025-01-25,Offre d'emploi Data scientist (H/F) - 69 - LYON 01 - 1285793 | France Travail,69 - LYON 01,"Nous recherchons un Data Scientist expérimenté afin de réaliser une mission chez l'un de nos clients. 
+Vos missions principales
+En tant que tel, vous serez amené(e) à :
+Collaborer avec des experts métiers pour comprendre leurs besoins et analyser les données disponibles.
+Concevoir et développer des processus de traitement de données adaptés aux exigences du projet.
+Réaliser des analyses statistiques et produire des études approfondies.
+Restituer vos résultats sous forme de rapports d?analyse ou de tableaux de bord interactifs.
+Documenter les workflows de traitement afin de faciliter leur automatisation et leur déploiement.
+Assurer la mise en production des solutions développées, ainsi que leur suivi et leur maintenance.
+Environnement technique : 
+Langages et outils : Python, PySpark (atout), PostgreSQL.
+Écosystème big data : Hadoop.
+Outils collaboratifs et CI/CD : Git, Gitlab CI, Jira, Confluence, Bitbucket.","
+Contrat à durée indéterminée
+
+Contrat travail
+",unspecified,44000.0,54000.0,Msi experts,Expérience exigée de 5 An(s),Contrat à durée indéterminée,False
+1282079,https://candidat.pole-emploi.fr/offres/recherche/detail/1282079,2025-01-25,Offre d'emploi DATA SCIENTIST (H/F) - 75 - Paris (Dept.) - 1282079 | France Travail,75 - Paris (Dept.),"Référence CSP: 2025-1812722 
+ Au sein de la sous-direction Observation de la santé et de l'assurance-maladie, dans le Lab innovation et évaluation en santé, le/la data scientist participe à différents projets du Lab mobilisant des données de santé, notamment sur l'Infra Big-Data de la Drees qui héberge des projets innovants de data-science et des appariements de la Drees comme l'EDP-Santé, et contribue à l'appui transversal que peut apporter l'équipe aux autres bureaux thématiques de la sous-direction ou à d'autres directions du ministère.
+Les missions peuvent donc être variées et aller de l'exploitation de données massives (en particulier des données du système national des données de santé - SNDS - base médico-administrative extrêmement riche), au développement de modèles statistiques, économétriques, et/ou de deep learning, d'interprétation et restitution d'analyses à partir de ces données (études publiées dans les collections de la Drees) et de data visualisation, à des actions de diffusion de bonnes pratiques ou d'outils innovants ou dont les usages se développent parmi les statisticiens de la Drees ou de ses partenaires.
+Les sujets abordés sont divers : évaluation d'expérimentations publiques (notamment économétrie), suivi d'indicateurs, études innovantes portant sur les inégalités en santé... Ils pourront faire l'objet de publications de la Drees.
+Les projets pourront dépendre de l'actualité et des besoins de la Drees confiés au Lab mais, à titre d'illustration, les projets en cours ou récents auxquels participent les datascientists du Lab sont par exemple les suivants :
+- Utilisation de méthodes de deep learning issues du traitement du langage naturel pour représenter les séquences de soin du SNDS dans une perspective prédictive (partenariat de recherche avec l'Inria)
+- Comparaison de sources administratives multiples, dont le SNDS, pour évaluer et améliorer la qualité de l'information statistique
+- Animation de webinaires ou ateliers pour diffuser des méthodes ou outils innovants pour les agents de la Drees ou ses partenaires, comme les ARS 
+- Appui à un bureau thématique de la sous-direction pour l'exploitation d'une enquête ou d'une source administrative en lien avec les statisticiens du bureau
+- Évolution de l'infrastructure Bigdata et mise à disposition de données du SNDS dans un format optimisé pour la requête et l'étude des parcours de soin
+Le/la data scientist aura une part active et devra être force de proposition sur les différents projets mobilisant l'équipe. Il/elle devra également faire preuve d'autonomie et d'une bonne capacité d'adaptation pour mener à bien des projets de nature différente.","
+Contrat à durée déterminée - 36 Mois
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Expérience exigée de 2 An(s),Contrat à durée déterminée - 36 Mois,False
 1278925,https://candidat.pole-emploi.fr/offres/recherche/detail/1278925,2025-01-25,Offre d'emploi Data Scientist Expérimenté H/F - 75 - 1278925 | France Travail,75,"Au sein de Technology Consulting, Data & Analytics renforce ses équipes. Ses domaines d'interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l'analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l'encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d'être rapidement formées aux nouvelles méthodes et outils.
  
 En outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l'innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.
