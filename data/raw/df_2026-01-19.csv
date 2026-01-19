@@ -1,4 +1,69 @@
 id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
+202TXBL,https://candidat.pole-emploi.fr/offres/recherche/detail/202TXBL,2026-01-19,Offre d'emploi Data scientist (H/F) - 44 - ST HERBLAIN - 202TXBL | France Travail,44 - ST HERBLAIN,"Qui sommes-nous ?
+
+Nous sommes passionnés par les nouvelles technologies, et vous ? 
+
+Rejoindre Amiltone, c'est intégrer des équipes dynamiques et soudées dans le cadre de projets novateurs et ambitieux. Nous relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale.
+
+Pourquoi choisir Amiltone ? 
+
+ Amiltone, plus qu'une entreprise, un état d'esprit !
+
+Notre objectif ? Votre épanouissement professionnel !
+
+Nous avons à cœur de :
+
+Vous accompagner au mieux au travers d'un suivi personnalisé
+Vous faire monter en compétences en vous proposant des formations tout au long de votre carrière
+Comprendre vos besoins et respecter nos engagements
+Vous proposer des missions de qualité avec des technologies innovantes
+Cultiver votre potentiel grâce à notre programme de développement personnel Addvise
+
+
+Votre bien-être passe aussi par des activités extraprofessionnelles, c'est pourquoi nous vous proposons des séances sportives animées par nos coachs, soirées pour se retrouver et animations (à l'agence ou en visio), Gaming nights...
+
+
+Vos missions ? 
+
+En tant que Data Scientist (H/F), vous serez en charge des missions suivantes :
+
+ -  Collecter et préparer des données
+ -  Nettoyer, transformer et structurer les données pour les rendre exploitables
+ -  Gérer la qualité des données 
+ -   Construire des modèles prédictifs et des algorythmes de machine learning
+-  Veiller à l'amélioration continue des performances des modèles
+-  Suivre les avancées en data science, machine learning et intelligence artificielle
+
+
+Stack technique:
+-Machine Learning
+-Python 
+-SQL
+-Pandas / Numpy
+-Flask
+-Tableau/ Power BI
+
+
+
+Alors ? Prêt à devenir Amiltonien ?
+
+N'hésitez pas à postuler si vous vous reconnaissez :
+
+- Diplômé d'un bac+5 (école d'ingénieur ou master), vous avez 3 ans d'expérience en tant que Data scienctist.
+
+- Vous aimez découvrir de nouveaux contextes fonctionnels et comprendre les objectifs des applications que vous développez.
+
+- A l'aise dans une organisation agile, vous faites preuve de rigueur et appliquez les standards de qualité Amiltone durant toute la durée des développements.
+
+
+Outre vos compétences techniques, nous nous intéressons également à votre potentiel et votre motivation.
+
+Nos postes sont ouverts aux personnes en situation de handicap.","
+CDI
+
+Contrat travail
+","35H/semaine
+Travail en journée",unspecified,unspecified,Amiltone,2 An(s),CDI,False
 8026458,https://candidat.pole-emploi.fr/offres/recherche/detail/8026458,2026-01-19,"Offre d'emploi Data Scientist F/H - Système, réseaux, données (H/F) - 76 - Fécamp - 8026458 | France Travail",76 - Fécamp,"Descriptif du poste:
 
 En tant que Data Scientist, vos principales missions sont les suivantes : 
@@ -3820,35 +3885,3 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Takoma,1 An(s),CDI,False
-7581684,https://candidat.pole-emploi.fr/offres/recherche/detail/7581684,2026-01-08,"Offre d'emploi Data Scientist (ML/LLM) F/H - Système, réseaux, données (H/F) - 75 - Paris 17e Arrondissement - 7581684 | France Travail",75 - Paris 17e Arrondissement,"Descriptif du poste:
-
-Contexte :
-Vous utilisez le ML et les LLM comme des leviers concrets pour automatiser, optimiser et fiabiliser la prise de décision à grande échelle. 
-Vous intervenez au cœur du moteur de recherche sur des problématiques d'Information Retrieval, NLP, ranking et compréhension sémantique. 
-Un poste orienté Search Engine est aussi ouvert dans l'équipe : il peut se combiner à celui-ci si vous avez les compétences.
-
-Missions principales :
-* Piloter des projets data de bout en bout, de l'exploration à la mise en production et au monitoring
-* Concevoir, entraîner et déployer des modèles ML/LLM ayant un impact direct sur le produit (ranking, requêtes, documents, embeddings)
-* Automatiser des capacités internes via des solutions intelligentes (contrôle qualité, annotation et évaluation assistées par LLM)
-* Collaborer étroitement avec les équipes ML Engineering, Software et Infra pour l'industrialisation et la scalabilité
-* Contribuer à la stratégie produit grâce à une approche data-driven et un fort business sense
-
-Profil recherché:
-
-Issu(e) d'une école d'ingénieurs ou équivalent, vous avez une expertise en Data Science, avec des modèles ML déployés en production.
-
-Compétences requises : 
-* Expérience sur des problématiques de search, IR, NLP ou domaines proches (reco, ads)
-* Maîtrise de Python, SQL, des librairies ML et deep learning (scikit-learn, PyTorch, Transformers)
-* Être à l'aise avec les environnements MLOps (MLflow, Kubeflow, Vertex AI)
-* Avoir une approche pragmatique, orientée impact, avec d'excellentes capacités de communication
-
-Compétences appréciées : 
-* Expérience avec des systèmes distribués et contraints en latence
-* Connaissance de Vespa AI, Kubernetes, Kafka, Clickhouse, Argo ou PySpark
-* Développement d'outils de visualisation ou d'applications data","
-CDI
-
-Contrat travail
-",unspecified,unspecified,unspecified,Caraz,5 An(s),CDI,False
