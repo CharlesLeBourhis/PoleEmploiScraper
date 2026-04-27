@@ -1,32 +1,4 @@
 id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
-207MPYB,https://candidat.pole-emploi.fr/offres/recherche/detail/207MPYB,2026-04-27,Offre d'emploi Data Scientist Junior (H/F) - 33 - Bordeaux - 207MPYB | France Travail,33 - Bordeaux,"Mission globale :
-
-Contribuer à l'analyse, la qualité et l'utilisation des données clients pour alimenter les produits et les modèles prédictifs.
-
-Rôle principal :
-
-- Analyser les données pour repérer anomalies, patterns et pistes d'amélioration.
-- Participer à la préparation et au nettoyage des données pour les analyses et modèles.
-- Aider à créer des indicateurs simples et supports d'analyse (vues, rapports, dashboards).
-- Remonter aux équipes data et produits les problèmes de qualité ou de cohérence des données.
-- Travailler en lien avec les équipes produit, métier et data engineering.
-
-Compétences clés :
-
-- Bonne maîtrise de Python.
-- Bonne maîtrise de SQL.
-- Premiers pas ou compréhension des ETL et de la modélisation de données.
-- Bonus : connaissance de dbt.
-
-Profil recherché :
-
-- Curieux, rigoureux, à l'aise avec les données structurées.
-- Sens du détail et capacité à travailler dans un environnement réglementaire (santé).","
-CDI
-
-Contrat travail
-","35H/semaine
-Travail en journée",unspecified,unspecified,Serv'it,Débutant accepté,CDI,True
 1961776,https://candidat.pole-emploi.fr/offres/recherche/detail/1961776,2026-04-27,"Offre d'emploi Data Scientist F/H - Système, réseaux, données (H/F) - 92 - Levallois-Perret - 1961776 | France Travail",92 - Levallois-Perret,"Descriptif du poste:
 
 En tant que Data Scientist, vous concevrez et développerez des modèles d'IA et de Machine Learning innovants pour transformer les données en valeur et répondre aux besoins métier.
@@ -3686,6 +3658,25 @@ Nous pouvons vous accompagner dans la réalisation d'un Master 1 et 2 Data Scien
 * Esprit d'équipe
 Motivé(e) et doté(e) d'un bon esprit d'équipe, vous appréciez le travail technique et accordez une grande importance à la sécurité.
 Les métiers de l'exploitation et de la maintenance énergétique vous attirent N'hésitez plus, postulez et rejoignez-nous !","
+CDI
+
+Contrat travail
+",unspecified,unspecified,unspecified,Unspecified,Débutant accepté,CDI,True
+1720427,https://candidat.pole-emploi.fr/offres/recherche/detail/1720427,2026-04-21,Offre d'emploi Data scientist (H/F) - 78 - Chatou - 1720427 | France Travail,78 - Chatou,"Description du poste :
+En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.
+L'entreprise EDF recherche actuellement des profils Le stagiaire est accueilli au sein d'un groupe du département PRISME d'EDF R&D à Chatou (78). Une des missions de ce groupe est de développer des méthodes et outils pour la surveillance des parcs de production d'EDF, allant de la détection de défaillances, à leur pronostic, en passant par le diagnostic. Le stagiaire sera également accueilli ponctuellement au sein de l'équipe en charge de la gestion et du déploiement des modèles de surveillance des matériels et systèmes à l'échelle nationale.
+La maintenance du parc nucléaire joue un rôle déterminant à la fois dans la disponibilité des tranches et dans le coût final de production de l'électricité. Pour optimiser simultanément la sûreté des installations et les coûts d'exploitation, des stratégies de maintenance préventive ont progressivement été mises en place. Celles-ci s'appuient d'abord sur des modèles de surveillance fondés sur la physique, puis, plus récemment, sur des approches statistiques et des modèles d'intelligence artificielle.
+En tant qu'exploitant responsable, EDF réévalue en continu la pertinence et l'efficacité de ses stratégies de maintenance. Après plusieurs années d'exploitation de modèles de surveillance basés sur l'IA, EDF UNIE souhaite désormais mener une analyse rétroactive des alarmes émises par ces modèles, en les comparant aux actions de maintenance préventives ou correctives effectivement réalisées sur les matériels et systèmes des tranches. L'objectif est double :
+1. déterminer si la fréquence de maintenance de certains équipements pourrait être optimisée
+2. évaluer la pertinence et la performance des modèles de surveillance associés.
+Le stage proposé consistera à définir une méthodologie de traitement et de croisement des données de surveillance et de maintenance, puis à appliquer cette méthodologie à un matériel spécifiquement choisi. Les méthodes d'analyses proposées par le stagiaire pourront faire appel à des algorithmes d'IA si nécessaire.
+Le stagiaire devra réaliser les tâches suivantes Réaliser une étude bibliographique sur les méthodes d'évaluation des modèles de surveillance, ainsi que sur les approches utilisées pour qualifier leur performance et leur utilité opérationnelle.
+· Dresser un état des lieux des méthodes de surveillance actuellement déployées sur le matériel ou le système retenu pour l'étude.
+· Proposer et développer une méthodologie permettant d'évaluer la pertinence réelle d'un modèle de surveillance, en établissant des liens concrets et exploitables entre les alarmes émises et les actions de maintenance corrective effectivement réalisées. L'analyse des données de maintenance pourra faire appel à de l'IA toute utile (LLM par exemple Concevoir et mettre en œuvre une chaîne d'analyse (pipeline) permettant d'évaluer le niveau d'optimisation des fréquences de maintenance préventive, et d'identifier les équipements pour lesquels un ajustement de la fréquence pourrait être envisagé Analyser, discuter et synthétiser les résultats
+Etudiants d'écoles d'ingénieurs 3ème année, Master spécialisé en datascience.
+Spécialités : Data Science, développement informatique (Python indispensable).
+Qualités requises : Autonomie, force de proposition, inventivité, esprit d'analyse/synthèse, curiosité, rigueur, maitrise de l'anglais.
+Environnement informatique Logiciels bureautiques de base (Word, Excel Python indispensable","
 CDI
 
 Contrat travail
