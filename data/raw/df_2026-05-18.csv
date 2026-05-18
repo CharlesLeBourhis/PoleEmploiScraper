@@ -298,56 +298,6 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Unspecified,3 An(s),CDI,False
-208HJHD,https://candidat.pole-emploi.fr/offres/recherche/detail/208HJHD,2026-05-15,"Offre d'emploi Docteur (PhD), Data Scientist au sein du Data Lab de Kernix (H/F) - 75 - PARIS - 208HJHD | France Travail",75 - PARIS,"Contexte
-Kernix est une agence spécialisée dans le développement d'applications web qui s'appuie, depuis 2008, sur un centre de recherche en data science agréé par l'État : le Data Lab.
-
-Les activités du Data Lab s'articulent autour de deux axes complémentaires :
-- Recherche appliquée : développement de modèles algorithmiques répondant à des problématiques métiers concrètes (moteurs de recommandation e-commerce B2B, criblage pharmaceutique à haut débit, modèles de scoring assurantiel, optimisation d'hyperparamètres en finance, etc.).
-- Recherche fondamentale : travaux continus de R&D, avec un focus particulier sur l'analyse et le traitement des données textuelles.
-
-L'articulation entre recherche fondamentale et appliquée est au cœur de notre démarche. Face à l'hétérogénéité des données et à la complexité croissante des modèles, cette approche scientifique nous permet d'anticiper les évolutions du machine learning et de garantir la robustesse des solutions déployées chez nos clients.
-
-Poste ouvert
-Dans ce contexte, le Data Lab recrute un(e) docteur(e) en data science, statistiques ou mathématiques appliquées, avec une forte spécialisation en traitement automatique du langage naturel (TAL/NLP).
-
-La personne recrutée interviendra directement sur nos travaux liés aux données textuelles et jouera un rôle clé dans la conception, l'expérimentation et l'industrialisation de solutions innovantes.
-
-Missions
-1) Recherche et développement
-- Développer des méthodes avancées en data science, notamment autour des grands modèles de langage (LLM) et de l'apprentissage non supervisé.
-- Concevoir et expérimenter des approches algorithmiques de clustering et de classification croisée semi-supervisée appliquées à des données textuelles complexes issues de contextes métiers variés (e-commerce, recherche documentaire, etc.).
-- Contribuer à l'état de l'art et aux productions scientifiques du Data Lab (articles, conférences, veille).
-
-2) Industrialisation et mise en production
-- Transformer des prototypes de recherche en solutions robustes et opérationnelles.
-- Concevoir des pipelines de traitement de données fiables et optimiser les performances des modèles.
-- Participer au déploiement sur des infrastructures cloud (AWS, Azure) et assurer le suivi en production (robustesse, monitoring, amélioration continue).
-
-3) Projets collaboratifs et transfert
-- Assurer l'interface entre le Data Lab, les équipes d'ingénierie et les clients.
-- Traduire des problématiques métiers en protocoles de recherche rigoureux.
-- Contribuer à la structuration, à la documentation et à la valorisation des projets d'innovation.
-
-4) Encadrement et diffusion scientifique
-- Encadrer des data scientists juniors, alternants et stagiaires.
-- Participer à des actions de formation et à la diffusion des connaissances en interne.
-
-Profil recherché
-- Doctorat en science des données/IA
-- Bonne maîtrise des grands modèles de langage (LLM) et des approches d'apprentissage non supervisé (modèles de mélange, modèles à blocs latents) et semi-supervisé.
-- Expertise solide en traitement automatique du langage naturel (NLP/TAL).
-- Compétences avancées en Python et R, ainsi qu'en frameworks de data science (PyTorch, TensorFlow, scikit-learn, etc.).
-- Expérience en conception et évaluation expérimentale de modèles (protocoles rigoureux, reproductibilité, benchmarks).
-- Capacité à passer de la recherche à l'industrialisation (optimisation, mise en production, pipelines de données).
-- Expérience de publication dans des conférences internationales de premier plan (type ACL, SIGIR, ICML, ICLR, EMNLP, etc.) fortement appréciée.
-- Esprit analytique, rigueur scientifique et capacité à travailler sur des problématiques complexes.
-- Bonnes compétences en communication pour interagir avec des équipes techniques et des interlocuteurs métiers.
-- Connaissance des environnements cloud (AWS, Azure) appréciée.","
-CDI
-
-Contrat travail
-","39H/semaine
-Travail en journée",unspecified,unspecified,Kernix software,2 An(s),CDI,False
 2690728,https://candidat.pole-emploi.fr/offres/recherche/detail/2690728,2026-05-15,"Offre d'emploi Data Scientist F/H - Système, réseaux, données (H/F) - 79 - Niort - 2690728 | France Travail",79 - Niort,"Descriptif du poste:
 Rejoignez le Data Office du Groupe Macif !
 La Data constitue un actif stratégique et représente aujourd'hui un enjeu majeur de
@@ -3898,3 +3848,70 @@ CDI
 Contrat travail
 ","35H/semaine
 Travail en journée",50000.0,60000.0,Valoway,5 An(s),CDI,False
+2294508,https://candidat.pole-emploi.fr/offres/recherche/detail/2294508,2026-05-05,Offre d'emploi Consultant.e Data Engineer Microsoft Fabric F/H - Valoway - 75 - Paris - 2294508 | France Travail,75 - Paris,"Nous recherchons exclusivement des profils expérimentés sur la plateforme Microsoft Azure et Fabric, avec un minimum de 5 ans d'expériences en tant que Data Engineer. Vous rejoignez notre communauté de Data Engineers et Data Architects au coeur de notre pôle Data Platform pour valoriser la donnée et optimiser les processus analytiques de nos clients sur Microsoft Fabric.
+ 
+ 
+ 
+- Assurer le développement et le déploiement des pipelines de données, qu’ils soient sécurisés et performants tant d’un point de vue opérationnel qu’en termes FinOps afin de servir la mise à l’échelle de nos cas d’usages DATA et IA. 
+- Designer, auditer et industrialiser les solutions les plus adaptées et performantes en embarquant les technologies Fabric afin de répondre aux différents enjeux de performance et de transformation de nos clients. 
+- Animer et accompagner des communautés Data et métiers, externes ou internes à Valoway, à l'adoption des bonnes pratiques et assurer leur montée en compétences sur les technologies Fabric. 
+- Valoriser notre partenariat Microsoft en intégrant les dernières innovations technologiques Azure et Fabric dans nos solutions et en représentant Valoway lors d’évènements, webinaires et communications. 
+- Réaliser une veille continue sur l’état de l’art des technologies Data et Cloud, et être garant de son partage auprès des différents pôles et communautés, au sein de Valoway et chez vos clients. 
+- Être partie prenante des projets transverses de Valoway : Communication et conférences, Recrutement, pôles d’excellence, missions d’avant-vente, de conseil et de cadrage, REX, webinaires ... 
+ 
+ 
+ 
+Nos principaux environnements techniques :
+ 
+- Data Platforms : Fabric, Azure 
+- Data Integration : Python, Data fusion, Big Query, Data factory, Spark,Talend, Informatica, … 
+- Databases : SQL/NoSQL 
+- Visualization : Power BI, Tableau Software, Google Data Studio, Looker … 
+ 
+Vous souhaitez en savoir plus sur le poste de Data Engineer chez Valoway ? C’est notre équipe qui en parle le mieux : Interview de Romain, data engineer chez Valoway
+ 
+ 
+ 
+Ce que nous proposons : 
+ 
+- Un salaire indicatif entre 60 K€ et 70 K€ brut annuel (selon expérience et profil). 
+- RTT et carte restaurant SWILE. 
+- Un environnement agile, avec un mode de travail hybride en fonction des sujets à mener (bureaux Valoway, chez le client, télétravail). 
+- Un management de proximité et des perspectives de montée en compétences avec un accompagnement individualisé. 
+- Une entreprise à taille humaine et une approche basée sur la proximité, avec nos clients et nos collaborateurs.Votre expertise technique : 
+ 
+- Minimum 5 ans d’expérience en Data Engineering 
+- Expérience confirmée sur l'environnement Microsoft et au moins un projet sur Microsoft Fabric. 
+- Vous êtes certifié.e Microsoft Fabric Data Engineer Associate (DP-700). 
+- Maîtrise des outils et méthodes dans l'intégration, la modélisation de données (ETL/ELT, data warehouse / lakehouse) et de DevOps. 
+- Sensibilité aux enjeux de performance, industrialisation et coûts (FinOps) 
+ 
+ 
+ 
+Votre posture de consultant.e :
+ 
+- À l’aise pour échanger avec des interlocuteurs métiers (ateliers, formation, animation de réunion). 
+- Capacité à vulgariser des sujets techniques. 
+- Autonomie en contexte client (prise en charge des sujets, compréhension des besoins, adapation selon l'environnement client). 
+- Intérêt pour la veille technologique et volonté de partager activement ses connaissances avec les équipes ou chez le client. 
+- Mobilité pour accompagner nos clients sur le terrain, selon les besoins des projets 
+ 
+ 
+ 
+Ce poste vous correspond ? Vous souhaitez en savoir plus ? Adressez-nous votre candidature ! 
+
+
+ 
+Notre processus de recrutement pour ce poste :
+ 
+- Un premier échange avec Emma, notre RH, pour comprendre votre projet. 
+- Un cas d’étude technique sur la plateforme Microsoft Fabric 
+- Un second échange technique et culturel avec nos consultant.e.s pour découvrir notre quotidien et vous embarquer dans notre vision ! 
+- Une dernière rencontre avec Louis-Vincent (fondateur) et Gwénolé (directeur) pour vous partager les enjeux de Valoway. 
+ 
+La durée moyenne du process est d'un mois et peut s’adapter en fonction de vos obligations, nous sommes flexibles !","
+CDI
+
+Contrat travail
+","35H/semaine
+Travail en journée",60000.0,70000.0,Valoway,5 An(s),CDI,False
