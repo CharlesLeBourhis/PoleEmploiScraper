@@ -1,69 +1,4 @@
 id,url,date,title,location,description,info,horaires,salairemin,salairemax,entreprise,experience,contrat,debutant
-213MXST,https://candidat.pole-emploi.fr/offres/recherche/detail/213MXST,2026-09-07,Offre d'emploi DATA SCIENTIST IA H/F/NB (H/F) - 75 - PARIS - 213MXST | France Travail,75 - PARIS,"Rejoignez towerCast, acteur incontournable de la diffusion audiovisuelle en France.
-
-Spécialisé dans la diffusion FM, TNT et DAB+, towerCast est le 2e opérateur du marché français. Expert des technologies hertziennes, towerCast propose une offre complète de services aux entreprises audiovisuelles et opérateurs de télécommunication sur tout le territoire.
-L'innovation est au cœur de nos engagements : passion et technologies, c'est notre signature.
-
-TowerCast est une filiale du Groupe NRJ, l'un des principaux groupes de médias privés en France. Fort de ses 1600 collaborateurs et d'un chiffre d'affaires de 396 millions d'euros, le groupe NRJ exerce les métiers d'éditeur, de producteur et de diffuseur, tout en commercialisant ses propres espaces média.
-
-Avec ses marques fortes - NRJ, CHÉRIE FM, NOSTALGIE et RIRE & CHANSONS pour la radio, NRJ HITS pour la télévision - le groupe s'impose comme un acteur majeur du paysage audiovisuel. Son écosystème digital en pleine croissance (plus de 220 radios digitales, applis, MCN.) en fait aussi le 1er groupe privé de radios digitales en France.
-
-TowerCast a à coeur de favoriser l'épanouissement et l'évolution de ses collaborateurs tout en garantissant l'égalité des chances, la diversité et la non-discrimination en veillant à l'inclusion des personnes en situation de handicap.
-
-Type de contrat : Apprentissage
-Durée du contrat : 12 à 24 mois
-Date de démarrage souhaitée : 01/09/2026
-Lieu : Paris 16ème
-
-Le Pôle Expert, dédié au Système d'Information de l'entreprise, recherche un Ingénieur Data et IA pour introduire cette technologie dans le SI de towerCast et suivre les évolutions, maintenir les solutions mises en place, sensibiliser les équipes internes à ces nouveaux usages.
-
-
-Les missions que nous te proposons :
-
-Data engineering
-
-Réalisation de pipeline de traitement de donnée pour automatiser certaine tâche répétitive dans différent service
-Remplacement des outils déprécié pour permettre la continuité des opérations
-Aiguillage des décisions data / possibilité d'ajout d'une plateforme data à ajouter à l'outil interne (towerDesk) pour les documents
-Maintenance des pipelines actuelles
-LLM et chatbot
-
-Déploiement des modèles, fine tunning, comparaison et changement des modèles pour faire évoluer la solution
-Gestion de l'ingestion des données pour alimenter le RAG
-Mise en place d'atelier de sensibilisation et contact pour démocratiser et enrichir la solution
-Analyse de donnée
-
-Réalisation de nouveaux Dashboard avec les données des outils de GMAO et de supervision
-Réalisation de Dashboard avec de nouvelles sources de données
-Maintenance et évolution des Dashboard actuels
-Data science
-
-Création d'un modèle pour prévoir les couts en infrastructure à partir d'une surface et une hauteur (vu avec Fabrice Serre)
-Création de modèle de maintenance préventive
-Création d'un modèle pour corréler les alarmes en supervision
-
-Vous interviendrez également en soutien sur deux solutions clés du SI : IXI Pilot, outil de gestion de projet, et CARL Source, solution de GMAO et de ticketing, afin d'assurer une continuité de service et un support transverse au sein de l'équipe.
-
-Et si c'était toi ?
-
-Vous êtes issu(e) d'une formation Bac+2 à Bac+5 en informatique ou systèmes d'information, avec idéalement une première expérience en support applicatif, administration d'outils métiers ou assistance utilisateurs. Vous évoluez aisément dans des environnements techniques variés et savez accompagner les utilisateurs dans la prise en main de solutions innovantes.
-
-Maîtrise des technologies IA et compréhension des usages associés
-
-Techniques de Data Scientist et analyse de données
-
-Architecture SI et compréhension des flux inter-applications
-
-Sens de l'écoute, orientation utilisateur et capacité à vulgariser
-
-Rigueur et organisation, gestion de sujets multiples
-
-Autonomie et proactivité dans la résolution de problèmes","
-CDI
-
-Contrat travail
-","35H/semaine
-Travail en journée",unspecified,unspecified,Nrj group,2 An(s),CDI,False
 6687219,https://candidat.pole-emploi.fr/offres/recherche/detail/6687219,2026-09-07,Offre d'emploi Statisticien-ne / Data Scientist en CDI F/H - 95 - Cergy - 6687219 | France Travail,95 - Cergy,"Descriptif du poste:\n\nAu sein de la Direction en charge de la santé, vous transformez les données en leviers d'actions pour contribuer activement à la lutte contre les fraudes, améliorer l'accès aux soins et accompagner les professionnel-les de santé du territoire.\nIl s'agit d'un poste à fort impact, offrant une vision unique des enjeux de santé, d'un territoire, et des politiques publiques.\nDans le cadre de vos missions, vous serez amené-e à réaliser :\n* Le profilage et la détection de comportements frauduleux,\n* La production d'analyses territoriales relatives à l'offre de soins, à la démographie des professionnel-les de santé et aux besoins de la population.\n* Le suivi des pratiques des professionnels de santé afin d'accompagner et d'améliorer leurs modes d'exercice.\nRattaché.e au Responsable de service et au sein d'une équipe de 4 personnes, vous participez activement à la production et à l'analyse de données statistiques afin d'éclairer la prise de décision et d'améliorer en continu les activités.\nVos principales missions seront :\n* Développer des modèles statistiques et des algorithmes pour la détection de fraude et d'anomalies.\n* Analyser des comportements atypiques ou suspects à partir des données.\n* Réaliser des études statistiques et créer des datavisualisation sous forme de rapports, graphiques et tableaux pour communiquer les résultats de manière compréhensible auprès de tous publics\n* Apporter un appui et une expertise statistique aux services internes.\n* Participer à des groupes de travail et à des projets transverses à l'échelle départementale ou régionale.\nFORMATION \nPour une intégration réussie, vous bénéficierez à votre arrivée d'un accompagnement sur site où l'esprit d'équipe, la coopération et l'entraide contribueront à votre montée en compétences.\nCONDITIONS PARTICULIERES\n* Date de prise de poste : dès que possible\n* Localisation du poste : Cergy-Pontoise (proche RER A Cergy-préfecture)\n* Rémunération : 36 k€ annuel sur 14 mois (soit 2625 € brut mensuel - niveau 6 de la classification) + prime d'intéressement\n* Avantages : mutuelle d'entreprise + carte restaurant + remboursement à 75 % du pass navigo + horaires variables + RTT en fonction de la durée du temps de travail\n* Contrat : CDI - 36h ou 39h hebdomadaire.\n\nProfil recherché:\n\nCOMPETENCES \nVous saurez nous convaincre si vous :\n* Maîtrisez impérativement les outils statistiques et de reporting, ainsi que le langage de programmation SQL.\nLa connaissance d'autres langages de programmation tels que VBA, Python ou R, ainsi que des outils de cartographie comme QGIS, constituera un atout apprécié, sans être toutefois indispensable.\n* Savez transformer des données complexes en informations claires et exploitables ;\n* Êtes capable de concevoir des tableaux de bord et des indicateurs pertinents ;\n* Aimez analyser, comprendre et valoriser les données pour en faire de véritables leviers d'action ;\n* Faites preuve d'un bon esprit d'analyse, de synthèse et d'interprétation ;\n* Appréciez le travail en équipe et possédez des qualités relationnelles et un sens du conseil ;\n* Êtes rigoureux(se), autonome, organisé(e) ;\n* Prenez des initiatives et vous êtes force de proposition.\n* Êtes diplômé(e) dans le domaine des statistiques, data ou de l'informatique décisionnelle, et vous justifiez d'une première expérience réussie dans un poste similaire.","
 CDI
 
@@ -391,6 +326,168 @@ CDI
 
 Contrat travail
 ",unspecified,40000.0,45000.0,Craftman data,5 An(s),CDI,False
+6676749,https://candidat.pole-emploi.fr/offres/recherche/detail/6676749,2026-09-06,Offre d'emploi Data scientist (H/F) - 93 - Montreuil - 6676749 | France Travail,93 - Montreuil,"Contexte de la missionDans le cadre du renforcement d?une équipe Data Science / Intelligence Artificielle au sein d?un grand acteur du secteur bancaire ? Banque d?Investissement, nous recherchons un Data Scientist / AI Engineer Senior.
+
+L?équipe intervient sur la conception et l?intégration de solutions d?IA innovantes au sein d?applications métiers, notamment autour de l?exploitation de données issues de documents financiers, de documents de crédit et de différents systèmes internes.
+
+La mission s?inscrit dans une forte dynamique autour de l?IA générative, des LLM et des architectures agentiques, avec un objectif d?industrialisation et de mise en production de cas d?usage à forte valeur métier.
+
+Localisation : Est parisien ? proche banlieue
+
+Missions et responsabilitésLe consultant interviendra sur l?ensemble du cycle de vie des projets IA :
+
+Concevoir et contribuer à la mise en ?uvre de solutions et architectures agentiques permettant de simplifier et d?accélérer des processus métiers complexes.
+
+
+Concevoir des pipelines IA agentiques capables d?extraire, structurer et exploiter des données provenant de documents et de systèmes internes.
+
+
+Travailler avec les équipes métiers afin de comprendre leurs problématiques et de maximiser l'impact, la pertinence et l'adoption des solutions IA.
+
+
+Concevoir et intégrer des solutions reposant sur des LLM et modèles d?IA générative.
+
+
+Déployer et exécuter des LLM / modèles sur GPU au sein des environnements de développement.
+
+
+Mettre en place des dispositifs d?évaluation, de monitoring et d?observabilité des pipelines agentiques.
+
+
+Définir des métriques permettant d?évaluer la qualité et la fiabilité des réponses et extractions produites par les modèles.
+
+
+Améliorer de manière continue les performances des modèles et des pipelines selon une approche itérative et incrémentale.
+
+
+Définir et mettre en ?uvre des stratégies de tests automatisés afin de garantir la qualité des solutions.
+
+
+Industrialiser les développements Data Science en respectant les standards IT de l?entreprise.
+
+
+Collaborer étroitement avec les architectes, développeurs et équipes de production / DevOps.
+
+
+Assurer la responsabilité technique de certains use cases métiers, jusqu?à leur mise en production.
+
+
+Participer au support technique et au transfert de compétences auprès des équipes.
+
+
+
+Environnement techniqueIA / Agentic AI
+
+LLM / Generative AI
+
+
+Google ADK
+
+
+LangGraph
+
+
+DSPy
+
+
+Phoenix / Arize
+
+
+Architectures agentiques et multi-agents
+
+
+vLLM
+
+
+
+Développement
+
+Python
+
+
+FastAPI
+
+
+Pytest
+
+
+APIs REST
+
+
+
+Industrialisation / Infrastructure
+
+Kubernetes
+
+
+Jenkins
+
+
+GPU / déploiement de modèles
+
+
+CI/CD
+
+
+
+Profil recherchéNous recherchons un profil Senior, capable d?aller au-delà de l?expérimentation Data Science et de participer réellement à l?industrialisation de solutions IA.
+
+Une expérience significative est attendue sur :
+
+IA générative et LLM.
+
+
+Développement Python.
+
+
+Conception de pipelines et/ou systèmes agentiques.
+
+
+Intégration de solutions IA dans des applications métiers.
+
+
+Évaluation et observabilité de modèles ou de systèmes LLM.
+
+
+APIs et architectures applicatives.
+
+
+Kubernetes et environnements CI/CD.
+
+
+Mise en production de solutions Data Science / Machine Learning.
+
+
+
+Une expérience dans le secteur bancaire, financier ou sur des problématiques documentaires complexes constitue un plus.
+
+Qualités attenduesAutonomie et capacité de prise en charge d?un sujet de bout en bout.
+
+
+Très bonnes capacités d?analyse et de résolution de problèmes.
+
+
+Capacité à interagir avec des interlocuteurs métiers et techniques.
+
+
+Curiosité forte autour des évolutions de l?IA générative.
+
+
+Capacité à challenger les solutions et être force de proposition.
+
+
+Culture de la qualité et de l?industrialisation.
+
+
+Communication et capacité de transmission.
+
+
+
+","
+CDI
+
+Contrat travail
+",unspecified,unspecified,unspecified,Taimpel,5 An(s),CDI,False
 6655886,https://candidat.pole-emploi.fr/offres/recherche/detail/6655886,2026-09-05,Offre d'emploi Ingénieur IA Ingénieur en Intelligence Artificielle H/F - 75 - Paris 3e Arrondissement - 6655886 | France Travail,75 - Paris 3e Arrondissement,"POSTE : Ingénieur IA Ingénieur en Intelligence Artificielle H/F
 DESCRIPTION : 
 Nous recherchons un-e AI Engineer Senior pour rejoindre notre équipe d'experts en Data & IA. Tu conçois, architectures et fais monter en puissance des systèmes robustes autour des LLMs, de la phase d'expérimentation jusqu'au déploiement en environnement réel, au service des enjeux métier de nos clients, et avec la responsabilité des choix structurants.
@@ -522,6 +619,11 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Michael page,Expérience exigée,CDI,False
+6599301,https://candidat.pole-emploi.fr/offres/recherche/detail/6599301,2026-09-04,Offre d'emploi Data Scientist - ML / IA Générative / MLOps F/H - 75 - Paris 1er Arrondissement - 6599301 | France Travail,75 - Paris 1er Arrondissement,"Descriptif du poste:\n\nDans le cadre de plusieurs projets stratégiques autour de la Data et de l'Intelligence Artificielle, le client recherche un Data Scientist confirmé capable de reprendre rapidement des sujets existants et de les faire évoluer.\n- Reprendre et comprendre rapidement les projets et modèles existants.\n- Développer et optimiser des solutions Machine Learning.\n- Intervenir ponctuellement sur des sujets LLM / IA générative / RAG.\n- Faire évoluer les solutions existantes pour les intégrer à la nouvelle stack.\n- Participer à l'industrialisation et au déploiement des modèles.\n- Contribuer à la mise en place des pratiques MLOps / LLMOps.\n- Documenter les solutions et assurer leur maintenabilité.\nUne nouvelle stack est en cours de construction autour de MLflow, Airflow et Kubernetes.\n\nProfil recherché:\n\nEn tant que Data Scientist spécialisé en Machine Learning et IA Générative, vous apporterez votre expertise technique pour concevoir et optimiser des modèles innovants. Vous contribuerez au déploiement et à la maintenance des solutions MLOps pour assurer leur efficacité et leur évolutivité.\nVos connaissances pointues en statistiques et en développement logiciel vous permettront de transformer des données brutes en insights pertinents, tout en travaillant étroitement avec les équipes de développement pour intégrer ces modèles dans notre infrastructure technologique.\nDoté d'une formation en informatique, mathématiques ou ingénierie, vous démontrez une maîtrise des langages de programmation tels que Python ou R, ainsi qu'une expérience confirmée avec des frameworks de Machine Learning comme TensorFlow ou PyTorch. Vos compétences en gestion de projet et votre esprit collaboratif vous aideront à répondre aux défis techniques complexes tout en garantissant la robustesse et l'innovation de nos produits.\nVotre capacité à vulgariser les concepts techniques pour les parties prenantes sera un atout majeur pour le succès des projets. En rejoignant notre équipe, vous contribuerez activement à créer des solutions basées sur l'IA qui transforment notre secteur et apportent une réelle différence.","
+CDD - 3 Mois
+
+Contrat travail
+",unspecified,unspecified,unspecified,Rhselect,5 An(s),CDD - 3 Mois,False
 6597579,https://candidat.pole-emploi.fr/offres/recherche/detail/6597579,2026-09-07,Offre d'emploi DATA SCIENTIST (H/F) - 78 - Magny-les-Hameaux - 6597579 | France Travail,78 - Magny-les-Hameaux,"Notre client, basé à MAGNY LES HAMEAUX, offre des opportunités professionnelles stimulantes pour les personnes qualifiées dans le domaine de la réparation et l'installation de machines et d'équipements.
 Pourquoi rejoindre cette entreprise ?
 Rejoignez une entreprise socialement engagée et à forte valeur humaine, leader dans son secteur et soucieuse de l'environnement, pour donner un nouvel élan à votre carrière.Prêt(e) à transformer les données en décisions stratégiques comme Data scientist (F/H) ?
@@ -731,31 +833,6 @@ CDI
 Contrat travail
 ","37H30/semaine
 Travail en journée",40000.0,42000.0,Jcdecaux france,1 An(s),CDI,False
-6541977,https://candidat.pole-emploi.fr/offres/recherche/detail/6541977,2026-09-03,Offre d'emploi Data scientist (H/F) - 59 - Lille - 6541977 | France Travail,59 - Lille,"1. Data Science & Machine Learning 
-
-Concevoir, entraîner et évaluer des modèles de Machine Learning appliqués au paiement et à l'identité (scoring, détection d'anomalies et de dérives, prédiction d'échec?).
-
-Modéliser l?acte d?achat sous forme de graphe afin de mieux cartographier la dynamique des parcours d'achat, d'identifier les comportements atypiques et d'améliorer la performance..
-
-Optimiser l'intelligence de notre produit : créer des algorithmes d'arbitrage (ex: routage intelligent) pour maximiser le taux d'acceptation et réduire les coûts
-
-Travailler en étroite collaboration avec les équipes DevOps pour intégrer et industrialiser ces modèles (MLOps) au c?ur de l'infrastructure.
-
-2. Analytics Engineering & Business Insights 
-
-Veiller à la qualité, la fiabilité et la gouvernance de la donnée.
-
-Déployer des solutions de BI en self-service enrichies par l'IA, afin d'autonomiser les équipes métiers dans leur pilotage stratégique.
-
-Concevoir et analyser les KPIs clés, identifier les tendances, anomalies et opportunités d'optimisation.
-
-Répondre aux questions structurantes avec un niveau de rigueur analytique
-
-","
-CDI
-
-Contrat travail
-",unspecified,40000.0,45000.0,Andema,2 An(s),CDI,False
 6541956,https://candidat.pole-emploi.fr/offres/recherche/detail/6541956,2026-09-03,Offre d'emploi Data scientist (H/F) - 75 - Paris 1er Arrondissement - 6541956 | France Travail,75 - Paris 1er Arrondissement,"Contexte :Dans le cadre de plusieurs projets stratégiques autour de la Data et de l?Intelligence Artificielle, notre client recherche un Data Scientist confirmé pour reprendre, faire évoluer et industrialiser des projets et modèles existants. Dans un environnement en pleine transformation, le consultant contribuera également à la construction d?une nouvelle stack technique basée notamment sur MLflow, Airflow et Kubernetes.
 
 Missions principales :Reprendre rapidement la compréhension des projets, modèles et codes existants.
@@ -852,16 +929,17 @@ Profession libérale
 
 Emploi non salarié
 ",unspecified,unspecified,unspecified,Celad,2 An(s),Profession libérale,False
-6541498,https://candidat.pole-emploi.fr/offres/recherche/detail/6541498,2026-09-03,Offre d'emploi Data Scientist - Ingénieur IA Agentic F/H - 38 - Grenoble - 6541498 | France Travail,38 - Grenoble,"Descriptif du poste:\n\nNous recrutons un Data Scientist / Ingénieur IA pour concevoir et industrialiser des modèles avancés au cœur de problématiques industrielles complexes (IA, données 3D, documents techniques, optimisation).\nVous interviendrez sur des sujets où les approches standards atteignent leurs limites, avec un enjeu clé : transformer des modèles avancés en solutions robustes, performantes et utilisées en conditions réelles.\nConcrètement, vous serez amené(e) à :\n* Concevoir des modèles d'IA adaptés à des environnements contraints (machine learning, deep learning, LLM)\n* Explorer et structurer des données complexes (3D, documents techniques, données industrielles)\n* Développer des pipelines de traitement, d'entraînement et d'évaluation\n* Industrialiser les modèles (API, intégration backend, performance, passage à l'échelle)\n* Participer au déploiement de solutions utilisées par plusieurs centaines d'utilisateurs\n* Travailler en étroite collaboration avec les équipes software et les experts métier\nVous interviendrez sur l'ensemble du cycle de vie des modèles, avec un niveau d'autonomie élevé sur les choix méthodologiques et techniques.\n\nProfil recherché:\n\nNous recherchons un profil capable de concevoir, développer et faire évoluer des modèles d'IA de manière autonome, avec une appétence pour les sujets complexes et appliqués.\n* Formation d'ingénieur ou équivalent avec une base scientifique solide (mathématiques, IA, data)\n* Très bonne maîtrise de Python (SQL est un plus)\n* Solides bases en machine learning / deep learning (PyTorch ou équivalent)\n* Expérience ou forte appétence pour des problématiques avancées (LLM, optimisation, données complexes)\n* Bonne compréhension des enjeux de robustesse, performance et passage à l'échelle\n* Capacité à s'approprier rapidement des sujets complexes et à proposer des solutions pragmatiques\nVous êtes à l'aise pour structurer une approche data, faire des choix méthodologiques et faire avancer un projet avec un bon niveau d'autonomie.\nSeront particulièrement appréciés\n* Expérience sur des données non structurées ou techniques (3D, documents industriels, etc.)\n* Expérience en mise en production de modèles (API, MLOps, intégration backend)\n* Sensibilité aux problématiques d'industrialisation (tests, performance, reproductibilité)\n* Capacité à interfacer des modèles avec des applications logicielles\n* Expérience de collaboration avec des profils variés (engineering, métier, produit)\nLe poste est conçu pour évoluer vers un rôle de référent IA / Lead Data Scientist, avec :\n* Une implication croissante dans les choix stratégiques IA\n* Un rôle de structuration des bonnes pratiques data / MLOps\n* Un accompagnement technique des profils plus juniors\n* Une contribution active aux orientations IA de la plateforme\nConditions & environnement\n* Poste basé à Grenoble (télétravail partiel possible, 2 jours/semaine)\n* Contrat : CDI - Temps plein\n* Rémunération : attractive, selon expérience (fixe + primes)\n* Avantages : mutuelle, tickets restaurants, remboursement transport, team events, etc.","
+6541764,https://candidat.pole-emploi.fr/offres/recherche/detail/6541764,2026-09-03,Offre d'emploi Data scientist (H/F) - 75 - Paris 1er Arrondissement - 6541764 | France Travail,75 - Paris 1er Arrondissement,"Renfort en tant que Data Scientist expérimenté. Domaines d'expertise requis : IA générative, NLP, Cloud, Machine Learning, LLM (Gemini, Mistral). Compétences techniques : Python, IA Ops (MLOps / LLMOps).
+
+Renfort en tant que Data Scientist expérimenté. Domaines d'expertise requis : IA générative, NLP, Cloud, Machine Learning, LLM (Gemini, Mistral). Compétences techniques : Python, IA Ops (MLOps / LLMOps).
+
+Renfort en tant que Data Scientist expérimenté. Domaines d'expertise requis : IA générative, NLP, Cloud, Machine Learning, LLM (Gemini, Mistral). Compétences techniques : Python, IA Ops (MLOps / LLMOps).
+
+","
 CDI
 
 Contrat travail
-",unspecified,unspecified,unspecified,D3s,Débutant accepté,CDI,True
-6541461,https://candidat.pole-emploi.fr/offres/recherche/detail/6541461,2026-09-03,Offre d'emploi DataScientist/engineer Talend Kibana Rennes F/H - 35 - Rennes - 6541461 | France Travail,35 - Rennes,"Descriptif du poste:\n\nProject context \n \nTalend - Expert - Impératif\nPower BI - Expert - Impératif\nMariaDB/MongoDB - Confirmé - Impératif\nKibana - Confirmé - Important\n \nDescription détaillée :\n \nNous recherchons un/une Data Scientist pour consolider, analyser et restituer les données du marché. Son rôle est de gérer les indicateurs du contrat client (engagement de service et facturation), de la production et des systèmes pour établir des tableaux de bord et des rapports. Le/la Data scientist devra reprendre l'existant, le faire évoluer et l'améliorer. Il faudra aussi concevoir entièrement un nouveau système prévisionnel (volumes/gestion de production) et un système prédictif (analyses/stats conjuguées à des données contextuelles et environnementales).\n \nAinsi, les compétences techniques attendues sont :\n \n- Expertise des données SQL et NoSQL parmi :\n* MariaDB\n* SQLserver\n* MongoDB\n* Logs (ELK, OpenSearch)\n \n- Expertise des outils de reporting :\n* ETL Talend\n* Power BI\n* ...\n \nCompétences techniques appréciées\n* Python\n* Machine Learning, Deep Learning\n \nCompétences fonctionnelles/rédactionnelles\n* Spécifications techniques\n* Spécification fonctionnelles\n* Procédure d'exploitation/mco\n \nQualités humaines\n* adaptabilité, flexibilité\n* autonome, créatif (développement de nouveaux système)\n* curieux (veille technique, recherche/tests d'outils, bonnes pratiques)\n* bonne communication et esprit d'équipe (rôle transverse entre les équipes métier de production et les équipes techniques de développement)\n \nGoals and deliverables \n \nLe Data Scientist est un expert de la gestion et de l'analyse pointue de données massives (""big data""). Il détermine à partir de sources de données multiples et dispersées, des indicateurs permettant la mise en place d'une stratégie répondant à une problématique. Il est donc spécialisé en statistique, informatique et connait parfaitement le secteur ou la fonction d'application des données analysées.\n- Identifier les besoins et la problématique des directions métiers\n- Définir une modélisation statistique qui permette de répondre à la problématique\n- Construire des outils d'analyse pour collecter les données de l'entreprise.\n- Sourcer et rassembler l'ensemble des sources de données structurées ou non structurées nécessaires à l'analyse et pertinentes\n- Organiser, étudier et synthétiser ces sources de données source forme de résultats exploitables\n- Modéliser les comportements et en extraire de nouveaux usages utilisateurs\n \nExpected skills \nTALEND\nMongoDB\nKibana\nMARIADB\nPower BI\n \n \n \n\nProfil recherché:\n\nProfil de formation Bacc+4/5 ou équivalent\nCompétences indispensables\nTALEND\nMongoDB\nKibana\nMARIADB\nPower BI\nMission à Rennes","
-CDI
-
-Contrat travail
-",unspecified,unspecified,unspecified,Altrion,5 An(s),CDI,False
+",unspecified,40000.0,45000.0,Craftman data,5 An(s),CDI,False
 6540704,https://candidat.pole-emploi.fr/offres/recherche/detail/6540704,2026-09-03,Offre d'emploi Architecte IA / Senior Datascientist - IA générative - F/H - 75 - Paris 16e Arrondissement - 6540704 | France Travail,75 - Paris 16e Arrondissement,"Descriptif du poste:\n\nVotre futur collectif :  \n* \nRejoignez notre Hub Data & IA composé de 350 passionnés qui interviennent au quotidien chez nos clients et sur nos initiatives en interne sur toute la chaîne de valeur de la Data : Data Strategy, Data Management, Data Protection, Data Analytics, Data Platform, Data Science, IA Générative et bien d'autres...\n* \nDes missions variées dans tous secteurs confondus\n* \nDes bureaux inspirants au Trocadéro, avec vue sur la Tour Eiffel\n* \nUne vraie vie de communauté : Conférences, REX, Revolution Summit, Datapéros.\nVos nouveaux challenges pour ce poste :  \nPour accompagner notre croissance au sein du collectif d'expertise en data, nous recrutons un consultant en architecture IA\nVous intervenez entre autres sur les missions suivantes : \n* \nDéveloppement de cas d'usage interne et de démonstrateurs clients\n* \nPilotage de réponses à projets et cadrage et pilotage de la réalisation de projets gagnés en IA\n* \nTravailler sur des projets d'envergure : mise en place d'une IA factory, classification et résumés d'interactions clients, développement d'un moteur de recommandation, développement d'un outil de traduction d'images pour les malvoyants, prédiction de ventes et systèmes d'alertes, développement d'un photobooth génératif..\n* \nSuivi de l'exécution de la feuille de route IA de Onepoint et contribution à la gouvernance IA, à la formation des collaborateurs et des clients.\n \n\nProfil recherché:\n\nVotre profil et les expertises que vous souhaitez développer :  \n* \nVous êtes diplômé d'une école d'ingénieurs ou d'une université et vous bénéficiez d'une première expérience en data science et en IA \n* \nVous êtes familier des pipelines d'IA générative et des services des grands cloudeurs et vous disposez de certifications dans ces domaines.\n* \nVous avez développé et industrialisé de nombreux projets en data et en machine learning\n* \nVous maîtrisez le français et l'anglais\n* \nAutonome et proactif, vous êtes force de proposition. Vous disposez d'un véritable sens de la relation client et vous êtes habitué à travailler dans un environnement agile.","
 CDI
 
@@ -887,84 +965,6 @@ CDI
 Contrat travail
 ",unspecified,unspecified,unspecified,Unspecified,1 An(s),CDI,False
 6588861,https://candidat.pole-emploi.fr/offres/recherche/detail/6588861,2026-09-03,Offre d'emploi Consultant.e AI Engineer F/H - Valoway - 79 - Niort - 6588861 | France Travail,79 - Niort,"Nous recherchons des profils expérimentés en IA, MLOps et Data Platform, avec un minimum de 5 ans d'expérience dans la conception et l'industrialisation de solutions IA.
- 
- 
- 
-Vos missions :
- 
-- Concevoir, développer et industrialiser des solutions d'IA générative, Machine Learning et LLM. 
-- Développer des architectures IA modernes : RAG, IA conversationnelle, bases vectorielles, APIs et microservices. 
-- Garantir la performance, la sécurité, l'observabilité et la maîtrise des coûts des plateformes IA. 
-- Accompagner les équipes et les clients dans dans la définition et la mise en œuvre de leurs cas d'usage IA (ateliers, formation). 
-- Assurer une veille active sur l'état de l'art IA et partager vos découvertes en interne et auprès des clients. 
-- Participer aux phases d'avant-vente, de cadrage et de conseil sur les projets. 
-- Contribuer au développement de Valoway : recrutement, communicatio, REX, évènements, webinaires, partenariat Microsoft. 
- 
- 
- 
-Nos principaux environnements techniques :
- 
-- IA & ML : PyTorch, TensorFlow, Scikit-learn, frameworks LLM, libraries RAG. 
-- MLOps : CI/CD, monitoring, observabilité, conteneurisation, orchestration. 
-- Data Platform : architectures lakehouse, ingestion, transformation, orchestration, Spark. 
-- Bases de données : SQL, NoSQL, vector DB. 
-- Visualisation : outils BI modernes. 
- 
- 
- 
-Vous souhaitez en savoir plus sur le pôle IA chez Valoway ? C'est notre équipe qui en parle le mieux : Interview de Pierre, Data Scientist chez Valoway
- 
- 
- 
-Ce que nous proposons : 
- 
-- Un salaire indicatif entre 50 K€ et 60 K€ brut annuel (selon expérience et profil). 
-- RTT et carte restaurant SWILE. 
-- Un environnement agile, avec un mode de travail hybride en fonction des sujets à mener (bureaux Valoway, chez le client, télétravail). 
-- Un management de proximité et des perspectives de montée en compétences avec un accompagnement individualisé. 
-- Une entreprise à taille humaine et une approche basée sur la proximité, avec nos clients et nos collaborateurs.Votre expertise technique :
- 
-- Minimum 5 ans d'expérience en IA / ML / MLOps. 
-- Expérience confirmée sur un cloud majeur, idéalement Microsoft Azure/Fabric. 
-- Maîtrise des pipelines ML, de la modélisation et des architectures IA. 
-- Sensibilité aux enjeux performance, industrialisation, sécurité et FinOps. 
- 
-En tant que Microsoft Solutions Partner Data & IA, nous valorisons particulièrement les profils ayant : 
- 
-- Une expérience sur la stack IA Azure Machine Learning, Azure OpenAI, Azure Cognitive Services, Azure AI Foundry. 
-- 
-Une capacité à exploiter les innovations Azure dans des projets concrets.
- 
-- Des certifications de niveau Associate. 
- 
- 
- 
-Votre posture de consultant.e : 
- 
-- À l'aise pour échanger avec des interlocuteurs métiers (ateliers, formation, animation de réunion). 
-- Capacité à vulgariser des sujets techniques. 
-- Autonomie en contexte client (prise en charge des sujets, compréhension des besoins, adapation selon l'environnement client). 
-- Intérêt pour la veille technologique et volonté de partager activement ses connaissances avec les équipes ou chez le client. 
-- Mobilité pour accompagner nos clients sur le terrain, selon les besoins des projets. 
- 
- 
- 
-Ce poste vous correspond ? Vous souhaitez en savoir plus ? Adressez-nous votre candidature ! 
-
-
- 
-Notre processus de recrutement pour ce poste :
- 
-- Un premier échange avec Emma, notre RH, pour comprendre votre projet. 
-- Un second échange technique et culturel avec nos consultant.e.s pour découvrir notre quotidien et vous embarquer dans notre vision ! 
-- Une dernière rencontre avec Louis-Vincent (fondateur) et Gwénolé (directeur) pour vous partager les enjeux de Valoway. 
- 
-La durée moyenne du process est d'un mois et peut s'adapter en fonction de vos obligations, nous sommes flexibles !","
-CDI
-
-Contrat travail
-",35H/semaine,50000.0,60000.0,Valoway,5 An(s),CDI,False
-6588859,https://candidat.pole-emploi.fr/offres/recherche/detail/6588859,2026-09-03,Offre d'emploi Consultant.e AI Engineer F/H - Valoway - 44 - Nantes - 6588859 | France Travail,44 - Nantes,"Nous recherchons des profils expérimentés en IA, MLOps et Data Platform, avec un minimum de 5 ans d'expérience dans la conception et l'industrialisation de solutions IA.
  
  
  
@@ -1493,6 +1493,56 @@ CDI
 
 Contrat travail
 ",Travail en journée,unspecified,unspecified,Celad-lyon,Expérience exigée,CDI,False
+6526094,https://candidat.pole-emploi.fr/offres/recherche/detail/6526094,2026-09-02,Offre d'emploi Data Scientist Talend / Power BI H/F - 35 - Rennes - 6526094 | France Travail,35 - Rennes,"Envie d'un nouveau challenge... CELAD vous attend !
+
+Nous poursuivons notre développement et recherchons actuellement un(e)Data Scientist Talend / Power BI H/F pour intervenir chez un de nos clients.
+
+Contexte :
+
+Vous rejoindrez un environnement Data transverse, avec pour objectif de consolider, analyser et valoriser les données afin de construire et faire évoluer des outils de pilotage, de reporting et d'aide à la décision.
+Vous interviendrez sur des solutions existantes à maintenir et améliorer, mais également sur la conception de nouveaux systèmes d'analyse, de prévision et de prédiction.
+Au cœur des échanges entre les équipes métiers, de production et les équipes techniques, vous contribuerez à transformer des données issues de sources multiples en indicateurs et analyses exploitables.
+
+Votre mission : 
+
+Au sein d'une équipe projet, vous serez en charge de : 
+
+- Reprendre, maintenir et faire évoluer les solutions et outils Data existants
+- Collecter, consolider et analyser des données issues de sources SQL et NoSQL
+- Concevoir et développer des flux d'intégration et de transformation de données avec Talend
+- Créer et faire évoluer des tableaux de bord et rapports sous Power BI
+- Construire de nouveaux outils de prévision et d'analyse prédictive à partir de données métier, techniques et contextuelles
+- Définir et suivre les indicateurs nécessaires au pilotage de l'activité et à l'analyse des performances
+- Participer à l'amélioration continue des solutions Data et identifier de nouvelles pistes d'exploitation des données
+- Rédiger la documentation technique et fonctionnelle ainsi que les procédures d'exploitation et de maintenance
+- Collaborer avec les équipes métiers et techniques dans le cadre d'un rôle transverse
+
+Votre Profil & l'Environnement technique dans lequel vous évoluerez :
+
+- Expertise indispensable sur Talend et Power BI
+- Solide maîtrise des bases de données SQL et NoSQL, notamment MariaDB, SQL Server et MongoDB
+- Bonne connaissance des environnements de logs et d'analyse de données tels que ELK, OpenSearch ou Kibana
+- Des compétences en Python seraient appréciées
+- Une connaissance des approches Machine Learning et Deep Learning serait un plus
+- Capacité à concevoir et faire évoluer des modèles d'analyse, de prévision ou de prédiction
+- Compétences en rédaction de spécifications techniques et fonctionnelles ainsi que de procédures d'exploitation
+- Autonomie, curiosité, créativité et goût pour l'amélioration continue
+- Bon esprit d'analyse, capacité de synthèse et aisance dans les échanges avec des interlocuteurs métiers et techniques
+
+ Quelques infos importantes à retenir :
+
+- Expérience de 5 ans minimum sur un poste similaire 
+- 2 jours de télétravail par semaine 
+- Date de démarrage : Dès que possible 
+- Type de contrat : CDI, Freelance, Portage salarial
+
+Situation géographique : Rennes (35000)
+
+","
+CDI
+
+Contrat travail
+",Travail en journée,unspecified,unspecified,Celad-rennes,Expérience exigée,CDI,False
 6522808,https://candidat.pole-emploi.fr/offres/recherche/detail/6522808,2026-09-02,Offre d'emploi Senior Consultant.e - Data Scientist (H/F) - 92 - Nanterre - 6522808 | France Travail,92 - Nanterre,"En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Wavestone recherche actuellement des profils : Description de l'entrepriseRejoignez un cabinet de conseil international qui accompagne les grandes transformations stratégiques.Nous sommes Wavestone : des expert-es passionné-es et orienté-es solutions, qui placent l'humain au cœur de la performance et de la croissance. Ambitieux-ses et en pleine expansion, nous développons sans cesse notre portefeuille de clients et de projets, avec une portée internationale et une réelle volonté de générer un impact positif.Êtes-vous un vrai team player, porté par des valeurs fortes ? Êtes-vous curieux-se et déterminé-e, avec l'envie d'apprendre chaque jour ? Êtes-vous du genre à relever les défis sans hésiter ? Alors vous êtes au bon endroit. Rejoignez Wavestone et exprimez votre potentiel dans un environnement stimulant et collaboratif, où l'on transforme les défis d'aujourd'hui en opportunités de demain.Description du posteVotre équipeVous rejoignez la Business Unit AI, une communauté d'environ 200 consultants IA & Data, qui accompagnent les organisations de bout en bout :Stratégie IA et feuille de routeIdentification et priorisation de cas d'usage IAGouvernance Data & IAOperating Models Data & IAAI Governance et Responsible AIAdoption et conduite du changementVotre rôle 
 
 En tant que Consultant.e Senior en data science, vous serez amené.e à jouer un rôle clé dans la conception, l'industrialisation et l'orchestration de solutions IA avancées. Votre rôle ne se limitera pasdévelopper des POCsstrong>vous serez projeté.e au cœur de l'industrialisation de l'IA dans les organisations. Voici quelques terrains d'expertises sur lesquels nous recherchons des expert.e.s :Concevoir et faire évoluer les socles Data & AI de nos clients :Définir et mettre en œuvre les architectures data modernes (data lake / lakehouse, entrepôt, data mesh, data products) supportant les cas d'usage analytiques, ML et GenAI.Structurer des pipelines de données robustes (batch, micro-batch, streaming), de l'ingestion à l'exposition (BI, APIs, features ML, RAG).Industrialiser les cas d'usage IA & GenAI & BI :Travailler en binôme avec les Data Scientists / AI Engineers pour passer du PoC à la production : packaging des modèles, automatisation des workflows, mise en place des bonnes pratiques de MLOps / LLMOps.Concevoir et opérer les composants techniques des solutions GenAI (pipelines RAG, vector DB, outils d'observabilité des LLM, gestion des prompts, sécurisation des appels aux modèles).Contribuer à la mise en place de plateformes data & IA :Collaborer étroitement avec les équipes Data & AI Platform des clients (Data Platform Engineers, DevOps, Architectes, Sécurité) pour définir les patterns d'architecture, l'outillage (Databricks, Snowflake, Dataiku, Azure/AWS/GCP, etc.) et les standards de développement.Tenir un rôle de Tech Lead Data Engineering au sein des squads IA / AI Factory : cadrage technique, arbitrages d'architecture, relecture de code, accompagnement des développeurs.Structurer la qualité, la gouvernance et l'observabilité des données :Mettre en œuvre les bonnes pratiques de data quality (tests, monitoring, gestion des schémas, data contracts) et de data observability au niveau des pipelines.Contribuer aux travaux de gouvernance Data & AI (catalogues, lineage, sécurité d'accès, conformitnotamment dans un contexte AI Act).Déployer des solutions agentiques (AI Agents) :Designer l'architecture data et technique supportant des chaînes d'agents (orchestrateurs, agents spécialisés, intégration avec systèmes métier, APIs et outils métiers).Travailler avec les équipes métier pour transformer des processus complexes en workflows agentiques industrialisables (service client, IT support, processus back-office, etc.).
@@ -1548,6 +1598,29 @@ CDI
 
 Contrat travail
 ",unspecified,48000.0,58000.0,Storm group,5 An(s),CDI,False
+6512542,https://candidat.pole-emploi.fr/offres/recherche/detail/6512542,2026-09-02,Offre d'emploi Data scientist (H/F) - Île-de-France - 6512542 | France Travail,Île-de-France,"Dans le cadre d'un projet stratégique autour de la Data Science et de l'Intelligence Artificielle, notre client recherche un Data Scientist confirmé capable d'intervenir de manière autonome sur des problématiques de machine learning appliquées à des enjeux métier.
+
+Le consultant intégrera un environnement technique exigeant, en collaboration étroite avec les équipes métiers. Il interviendra notamment sur :
+
+?  La conception et le développement de pipelines de machine learning / deep learning répondant aux cas d'usage métier (scoring, prédiction, classification, détection d'anomalies)
+
+?  L'exploration et la préparation des données, le feature engineering
+
+?  La comparaison de différentes architectures et approches afin d'identifier les modèles les plus adaptés
+
+?  La conception de métriques d'évaluation adaptées aux cas d'usage, l'analyse des performances et la caractérisation des erreurs
+
+?  La mise en place de mécanismes de score de confiance et de gestion de l'incertitude
+
+?  L'industrialisation des modèles en environnement conteneurisé et le suivi des expérimentations (MLOps)
+
+?  La restitution des travaux auprès d'interlocuteurs techniques et métiers
+
+","
+CDI
+
+Contrat travail
+",unspecified,40000.0,45000.0,Storm group,5 An(s),CDI,False
 6512503,https://candidat.pole-emploi.fr/offres/recherche/detail/6512503,2026-09-02,Offre d'emploi Data scientist (H/F) - 37 - Tours - 6512503 | France Travail,37 - Tours,"Dans le cadre du renforcement d?une équipe Data & Intelligence Artificielle, nous recherchons un Data Scientist expérimenté pour intervenir sur un projet stratégique d?IA Générative à forte valeur métier.
 
 Tu reprendras des travaux déjà engagés autour d?une solution capable de générer automatiquement des pré-réponses à des sollicitations clients, avec un fort enjeu de pertinence, de performance et d?industrialisation.
@@ -1608,29 +1681,6 @@ CDI
 
 Contrat travail
 ",unspecified,40000.0,45000.0,Cat-amania,5 An(s),CDI,False
-6512384,https://candidat.pole-emploi.fr/offres/recherche/detail/6512384,2026-09-02,Offre d'emploi Data scientist (H/F) - Île-de-France - 6512384 | France Travail,Île-de-France,"Au sein de la direction conformité ou sécurité financière d'un acteur bancaire, nous recherchons un Data Scientist spécialisé dans la détection de la fraude et la lutte contre le blanchiment (LCB-FT) pour renforcer les dispositifs de surveillance des transactions.
-
-Le consultant interviendra notamment sur :
-
-?  La conception et le développement de modèles de détection de fraude sur les transactions et les parcours clients
-
-?  Le développement de modèles de détection des comportements suspects au titre de la LCB-FT (AML) et l'optimisation des scénarios de surveillance existants
-
-?  La réduction du taux de faux positifs des dispositifs de filtrage et de surveillance, enjeu majeur de productivité pour les équipes d'analystes
-
-?  L'analyse des typologies de fraude et de blanchiment, et leur traduction en variables et règles exploitables par les modèles
-
-?  L'évaluation rigoureuse des modèles et la documentation nécessaire à leur validation indépendante et à leur présentation au régulateur
-
-?  L'explicabilité des modèles : capacité à justifier chaque alerte auprès des analystes et des autorités
-
-?  L'industrialisation des modèles et leur suivi en production (dérive, réentraînement)
-
-","
-CDI
-
-Contrat travail
-",unspecified,48000.0,58000.0,Storm group,5 An(s),CDI,False
 6512203,https://candidat.pole-emploi.fr/offres/recherche/detail/6512203,2026-09-06,Offre d'emploi Data scientist (H/F) - 75 - Paris 1er Arrondissement - 6512203 | France Travail,75 - Paris 1er Arrondissement,"Nous recherchons un(e) Data Scientist / Expert IA disposant d?un doctorat (PhD) en Machine Learning / NLP ou domaine proche, pour rejoindre nos équipes à Paris au sein de projets à forte valeur ajoutée en intelligence artificielle appliquée.
 
 Profil PHD EXPERIMENTE ayant plusieurs expériences profesionnelles concrètes
@@ -1892,11 +1942,6 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Collective,5 An(s),CDI,False
-6477169,https://candidat.pole-emploi.fr/offres/recherche/detail/6477169,2026-09-01,Offre d'emploi Consultant(e) Senior - Data Management F/H - 92 - Neuilly-sur-Seine - 6477169 | France Travail,92 - Neuilly-sur-Seine,"Descriptif du poste:\n\nEn tant que Consultant(e) au sein du Domaine d'excellence (DOMEX) Data & AI de Square Management, vous intervenez sur des enjeux de transformation, chez nos clients grands comptes des secteurs Banque & Assurance :\n* \nStratégie et Cadre de Gouvernance\n- Définition de la Data Strategy : Aligner les objectifs data avec les enjeux business de l'entreprise.\n- Mise en place de l'organisation : Définir les rôles et responsabilités (Data Owners, Data Stewards, Data Custodians).\n- Rédaction des politiques : Établir les standards de nommage, les règles d'accès et les cycles de vie des données (archivage, suppression).\n- Acculturation (Data Literacy) : Sensibiliser les directions métiers à l'importance de la saisie de qualité et au partage de l'information.\n\n* \nQualité et fiabilité des données (Data Quality)\n- Audit et Profilage : Analyser les bases de données existantes pour identifier les doublons, les valeurs manquantes ou les incohérences.\n- Remédiation : Mettre en place des processus de nettoyage (Data Cleansing) et des contrôles automatiques à l'entrée des systèmes.\n- Mise en place de KPI : Créer des tableaux de bord de suivi de la santé des données (taux de complétude, exactitude, fraîcheur).\n\n* \nArchitecture et Master Data Management (MDM)\n- Gestion des données de référence : Créer un ""Golden Record"" (référentiel unique) pour les entités critiques comme les Clients ou les Produits.\n- Modélisation de données : Concevoir des dictionnaires de données et des glossaires métiers pour que tout le monde utilise le même langage.\n- Lignage de données (Data Lineage) : Cartographier le parcours de la donnée, de sa source d'origine jusqu'au rapport final, pour garantir la traçabilité.\n\n* \nConformité et Sécurité (Data Protection)\n- Conformité RGPD : S'assurer que les données personnelles sont traitées selon la réglementation (registre des traitements, gestion du consentement).\n- Gestion des accès : Définir qui a le droit de voir quoi, en fonction de la sensibilité des informations (classification des données).\n- Éthique des données : Veiller à ce que l'usage des données, notamment dans les algorithmes, respecte les principes éthiques de l'entreprise.\n \nParticiper au développement du cabinet\n* \nExpertise & Contenus : Partager votre expertise et vos connaissances dans le cadre du Domaine d'Excellence Data & AI, participer au rayonnement du... Retrouvez l'intégralité de l'offre sur le site de l'entreprise.\n\nProfil recherché:\n\n* \nVous êtes diplômé(e) d'un Bac+5 (École de commerce, d'ingénieur ou Université) avec une spécialisation en Data Management.\n* \nVous avez une expérience réussie de minimum 3 ans en cabinet de conseil ou en entreprise, idéalement sur des projets de transformation au sein de directions finance, marketing, risques.\n* \nVous êtes rigoureux(se) et organisé(e), vous avez le sens de l'engagement et appréciez le travail en équipe. Vous savez évoluer dans des environnements exigeants avec autonomie et agilité.\n* \nVous maitrisez un anglais courant.\n\n\n\nNous rejoindre\n\n\nDéveloppement & Expertise\n* \nLe Square Institute : Développez vos compétences grâce à notre programme de formation personnalisé et certifiant.\n* \nLe Square Research Center : La possibilité de solliciter nos experts sur vos problématiques complexes et de collaborer  sur des missions innovantes.\n* \nManagement de proximité : Un suivi de carrière avec votre Business Manager et un accompagnement avec notre système Référent / Référé.\n* \nL'accès à nos Domaines d'Excellence : Une communauté pour enrichir votre expertise et participer pleinement à la vie interne du cabinet.\n \nVotre package et vos avantages\n* \nRémunération : Un système de variable attractif valorisant votre engagement, prime de cooptation, participation (PEE/PERECO, compte épargne temps (CET).\n* \nQuotidien :  Télétravail (selon mission), titres-restaurant, des locaux modernes situés au cœur de Neuilly sur Seine.\n* \nAbonnements sportifs : Wellpass.\n* \nAvantages CSE : Bien-être, art et culture.\n* \nL'esprit Square Management : une ambiance de travail stimulante et conviviale, portée par une vie d'équipe riche (des soirées DOMEX,  des événements sportifs, une Summer Party).\nNos postes sont ouverts aux personnes bénéficiant d'une reconnaissance de travailleur handicapé. Square Management encourage la diversité et l'égalité sur le lieu de travail. Tous les candidats qualifiés H/F sont pris en considération pour un emploi sur un pied d'égalité.\nNOTRE PROCESSUS DE RECRUTEMENT\n* \nEntretien 1 de découverte avec un(e) Talent Recruiter (30mn)\n* \nEntretien 2 avec un(e) Manager (45min)\n* \nEntretien 3 avec un(e) Consultant(e) expérimenté(e) (45min)\n* \nEchange avec un(e) Partner et proposition d'embauche","
-CDI
-
-Contrat travail
-",unspecified,unspecified,unspecified,Square management,4 An(s),CDI,False
 6485955,https://candidat.pole-emploi.fr/offres/recherche/detail/6485955,2026-09-01,Offre d'emploi Ingénieur Référentiels Ieg H/F - 69 - Lyon 7e Arrondissement - 6485955 | France Travail,69 - Lyon 7e Arrondissement,"POSTE : Ingénieur Référentiels Ieg H/F
 DESCRIPTION : Edvance, filiale d'EDF et Framatome, réalise les projets d'un nouveau nucléaire sûr et performant à travers le monde pour construire un avenir neutre en CO2.  
    
@@ -2083,52 +2128,54 @@ CDI
 
 Contrat travail
 ",Travail en journée,38000.0,50000.0,Atheia,Expérience exigée,CDI,False
-6463402,https://candidat.pole-emploi.fr/offres/recherche/detail/6463402,2026-08-31,Offre d'emploi DATA SCIENTIST CONFIRMÉ H/F - Île-de-France - 6463402 | France Travail,Île-de-France,"Contexte du poste
-
-Nous recherchons un Data Scientist Confirmé pour rejoindre une équipe Data & IA intervenant sur des projets à forte valeur métier.
-Vous travaillerez sur plusieurs cas d'usage successifs autour de la Data Science, de l'IA et de l'optimisation, avec des problématiques concrètes : prédiction, simulation, optimisation des opérations, maintenance prédictive ou encore amélioration de processus métiers.
-
-Missions principales
-
-- Identifier et qualifier des cas d'usage Data Science à forte valeur métier
-- Collecter, préparer, fiabiliser et analyser les données
-- Concevoir, entraîner et évaluer des modèles de Machine Learning / IA
-- Développer des notebooks, pipelines et codes prêts à être industrialisés
-- Participer au déploiement des modèles en production et accompagner leur passage du build au run
-- Collaborer avec les équipes métiers et techniques pour comprendre les problématiques opérationnelles
-- Participer aux différentes cérémonies et instances projet
-- Documenter les modèles, analyses et développements réalisés
-- Présenter et valoriser les résultats auprès des différentes parties prenantes
-
-- Formation Bac+5 en Data Science, Mathématiques, Statistiques, IA ou équivalent
-- 2 à 7 ans d'expérience en Data Science
-- Très bonne maîtrise de Python, SQL et Git
-- Solides compétences en Machine Learning, statistiques et mathématiques
-- Expérience dans le développement et le déploiement de modèles en environnement de production
-- Capacité à travailler sur des problématiques métiers et des jeux de données variés
-- Une connaissance de Databricks / PySpark est appréciée
-- Des compétences en Recherche Opérationnelle / optimisation constituent un vrai plus
-- Une expérience dans un grand groupe ou un environnement industriel est recherchée
-- Autonomie, curiosité, capacité d'analyse et bon relationnel
-
-- Démarrage prévisionnel : 5 octobre 2026
-- Projets Data & IA à forte dimension opérationnelle
-- Environnement grand groupe
-- Mission longue durée
-- Télétravail jusqu'à 2 jours par semaine
-- Carte Swile
-- Excellente mutuelle
-- Excellente prévoyance
-- Accès privilégié aux formations et certifications de votre choix","
-CDI
-
-Contrat travail
-",Travail en journée,45000.0,60000.0,Savane consulting,Expérience exigée,CDI,False
 6443810,https://candidat.pole-emploi.fr/offres/recherche/detail/6443810,2026-08-31,Offre d'emploi Data Scientist F/H - 75 - Paris 2e Arrondissement - 6443810 | France Travail,75 - Paris 2e Arrondissement,"Descriptif du poste:\n\n \nNEXTON recrute un Data Scientist Senior H/F, en CDI, à Paris !\nTon futur environnement de travail : \nNous avons besoin d'un profil Data Scientist Senior qui sera amené à intervenir sur la conception des modèles ML pour les cas d'usage identifiés en lien avec PO/BA des squads concernées ainsi que l'équipe de Dev, ceci dans un cadre agile. Il est attendu du Data Scientist de fortes compétences techniques mais aussi de solides connaissances dans la maitrise d'ouvrage de projet (suivi des taches, animation, présentation des avancées, cadrage, .) pour porter toute la chaine de fabrication du projet \nTes missions : \nTravailler les cas d'usage métier avec la squad : déclinaison opérationnelle, socle technologique et algorithmes adaptés, recherche des données pertinentes, approche méthodologique.  \nMener les phases d'exploration et de prototypage : analyse des données, test de différents algorithmes, évaluation des performances. \nPorter les développements des cas d'usage : optimisation du modèle, construction du pipeline, déploiement en production, mise en place du monitoring. \nConstruction d'algorithmes permettant d'améliorer les résultats de recherches et de ciblage, ou de modèles de prédictions afin d'anticiper les évolutions des données et des tendances \nIndustrialiser le déploiement des produits ML ou IA dans les différents environnements et en assurer le RUN \nVulgariser les résultats/livrables à un public non technique \n\nProfil recherché:\n\nTu justifies de minimum 7 ans ans d'expérience sur :\n* \nprogrammation (Python, Scala, Bash), CI/CD, versioning Git, tests unitaires, AWS\n* \nTechniques statistiques et machine learning (adapter un algorithme à une problématique précise) \nLibrairies statistiques & Machine Learning : Skleam, Caret, pandas/data.table, numpy, PySpark, etc. \n* \nConnaissance d'au moins un environnement (langage + package) permettant l'expérimentation et le prototypage des applications \nEt tu as :\n* \nDe solides compétences en analyse quantitative et en optimisation numérique\n* \nUne capacité à proposer des solutions simples à des problématiques complexes\n* \nUne vraie aisance dans la vulgarisation des résultats auprès de publics non techniques\n* \nUn excellent relationnel et une écoute active des besoins métier\n* \nUn anglais courant, à l'oral comme à l'écrit","
 CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Nexton,7 An(s),CDI,False
+6430420,https://candidat.pole-emploi.fr/offres/recherche/detail/6430420,2026-09-07,Offre d'emploi Annonce générique - - Data Scientist (H/F) - 78 - Versailles - 6430420 | France Travail,78 - Versailles,"Imaginez demain .
+
+Au sein de Dassault Systèmes, nos équipes R&D proposent des sujets d'apprentissage au sein de leurs équipes. Chaque équipe peut être dédiée à un produit (CATIA, SIMULIA, ENOVIA, etc) ou un laboratoire de Recherche.
+
+ 
+
+Vos futurs défis .
+
+En tant que futur.e stagiair.e, voici le type de sujets sur lesquels vous seriez amené.e à travailler :
+
+ 
+
+« Machine Learning - Optimisation d'un parc de serveurs »
+
+« Data Scientist - Méthodes probabilistes non supervisées pour l'extraction de bases de connaissances à partir de langage naturel »
+
+« Ingénieur-e Machine Learning - Interfaçage d'une IA dans la plateforme 3DEXPERIENCE »
+
+« Développeur (F-H) -Co-pilote de contrôle d'accès basé sur l'IA »
+
+« Data Scientist (F-H) - Predictive Cloud Supervision »
+
+ 
+
+Tâches quotidiennes
+
+
+ Etat de l'art de la littérature spécialisée,
+ Proposition et élaboration d'un cahier des charges (spécifications),
+ Implémentation de l'application développée,
+ Validation, optimisation du prototype.
+ Présentation des travaux en réunion R&D.
+
+
+ 
+
+Environnement de travail
+
+Chaque tâche, effectuée en mode projet, est encadrée par un maitre d'apprentissage expérimenté sur le sujet ; en collaboration avec des ingénieurs des différentes équipes Recherche & Développement de Dassault Systèmes, spécialisées pour chaque problématique.","
+Intérim - 3 Mois
+
+Contrat travail
+",unspecified,unspecified,unspecified,Forums talents handicap,Débutant accepté,Intérim - 3 Mois,True
 6430376,https://candidat.pole-emploi.fr/offres/recherche/detail/6430376,2026-09-07,Offre d'emploi Ingénieur(e) Data Scientist confirmé(e) - Industrie - Le Plessis Robinson (H/F) - 92 - Nanterre - 6430376 | France Travail,92 - Nanterre,"Description de l'entrepriseCS, filiale du groupe Sopra Steria, est un acteur technologique de référence dans la conception, l'intégration et l'exploitation de systèmes critiques. Présents dans 7 pays avec plus de 2600 collaborateurs passionnés, nous intervenons au cœur des enjeux de souveraineté, de sécurité et de performance, dans des secteurs stratégiques tels que la défense, le spatial, l'énergie, l'industrie, le transport, l'aéronautique et la cybersécurité.Notre différence ? Une expertise unique en systèmes temps réel, des solutions souveraines et durables, et une culture d'innovation forte, portée par 15 % de notre chiffre d'affaires investi en R&D. Nous accompagnons nos clients dans la réussite de leurs programmes les plus complexes, du contrôle aérien à la lutte anti-drones, en passant par les systèmes nucléaires et les centres de contrôle satellites.En rejoignant CS, vous intégrez une entreprise humaine et innovante.Nous livrons bien plus que des systèmes, nous bâtissons la confiance.Nous allons au-delà des besoins exprimés, nous préparons les défis de demain.Plus que de simples experts, nous façonnons l'innovation.Engagés à vos côtés, au service de vos enjeux critiques.Accélérer la transformation industrielle, en toute sécurité.Notre Business Unit Industrie accompagne les leaders des secteurs de l'aéronautique, de l'énergie et du transport dans la conception, la sécurisation et l'optimisation de leurs systèmes critiques.Avec plus de 700 collaborateurs en France et en Amérique du Nord, elle mobilise une expertise reconnue permettant la réalisation de projets innovants dans les domaines des systèmes embarqués, de la simulation numérique, de la cybersécurité, de la data intelligence et de la digitalisation des processus industriels.Rejoindre cette Business Unit, c'est transformer l'industrie avec des solutions à fort impact.Description du posteNous recrutons un.e Ingénieur.e Data Scientist confirmé.e pour rejoindre notre BU INDUSTRIE au sein de l'agence Data & Process Intelligence, spécialisée dans l'accompagnement de nos clients dans leurs problématiques associées à la transformation digitale. Nos offres se déclinent autour de la data intelligence & de la maintenance prédictive, de la digitalisation des processus industriels et du SI Métiers.Votre tâche :Contribuer aux activités de conseil en Intelligence Artificielle :Compréhension du besoinProposition de solutions techniques - architecturesRéalisation de tâches d'auditAccompagnement dans la mise en place des décisions stratégiques du client
  Participer à la réalisation de maquettes et d'industrialisation de projet d'IAMachine LearningDeep LearningIA GénérativeLLM, RAGComputer visionEnvironnement technique :PythonSQLCloud : AWS, Azure ou GCPGitQualificationsQui êtes vous?De formation ingénieur ou équivalent universitaire (Bac+5), vous justifiez de 2 ans d'expérience minimum sur un poste similaire, et particulièrement en Machine Learning, Deep Learning et IA Generative.Vous maîtrisez le langage Python, compétence indispensable pour ce poste. 
 Vous interviendrez dans le secteur des Energies, même si les compétences dans ce domaine ne sont pas nécessaires.Vous appréciez de travailler en équipe ? Vous possédez des qualités en communication et êtes rigoureux.se ? Alors vous êtes la pépite que nous recherchons !Informations supplémentairesRejoignez une entreprise où l'humain, l'innovation et l'impact se rencontrent.Chez CS, nous offrons :Une expérience collaborateur enrichissante, portée par un environnement de travail conçu pour favoriser la flexibilité, l'autonomie et le bien-être au quotidien.Un parcours d'intégration complet pensé pour embarquer chaque talent dès le premier jour et une Academy pour développer vos compétences, enrichir votre expertise et construire les parcours professionnels qui vous ressemblent.Un engagement sociétal fort : plus de 3000 associations soutenues, une politique handicap active, une culture inclusive, une démarche de numérique responsable, et des partenariats comme Elles bougent pour inspirer les talents féminins de demain..et bien d'autres avantages à découvrir en nous rejoignant !Notre singularité ? L'alliance unique entre expertise technologique, projets critiques et engagement humain. Entreprise innovante et responsable, nous construisons un environnement éthique, inclusif et tourné vers l'avenir. Ouverts à tous les talents, nous croyons que la diversité est une richesse.LA SUITE DES EVENEMENTS :Si votre profil correspond, vous serez invité.e à un entretien technique avec l'un de nos Responsables opérationnels, pour échanger sur vos compétences et votre vision du métier.
@@ -3342,6 +3389,11 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Davidson consulting,1 An(s),CDI,False
+6359997,https://candidat.pole-emploi.fr/offres/recherche/detail/6359997,2026-09-01,Offre d'emploi Data Scientist F/H - 974 - Saint-Denis - 6359997 | France Travail,974 - Saint-Denis,"Descriptif du poste:\n\nRattaché(e) au Directeur du Développement, vous avez pour mission de valoriser les données issues des différents systèmes de l'entreprise afin d'en faire un levier de performance et d'aide à la décision.\nÀ ce titre, vos responsabilités s'articulent autour des axes suivants :\n* Analyse et exploitation des données :\nCollecter, structurer et analyser les données issues des différents systèmes internes. Garantir leur fiabilité et leur cohérence, et produire des indicateurs ainsi que des tableaux de bord permettant d'orienter les décisions stratégiques et d'optimiser l'exploitation.\n \n* Développement de modèles et outils data :\nConcevoir et déployer des modèles prédictifs (prévision de la demande, maintenance prédictive.). Mettre en place des outils d'aide à la décision basés sur des approches de machine learning.\n \n* Valorisation et aide à la décision :\nTransformer les données en insights opérationnels afin d'améliorer la qualité de service, anticiper les besoins futurs et piloter la performance globale.\n \n* Veille et innovation :\nAssurer une veille technologique en data science et intelligence artificielle, et identifier des opportunités d'innovation au service de l'activité.\n \n* Collaboration transverse :\nInteragir avec les différents services internes (exploitation, marketing, bureau d'études.) ainsi qu'avec des partenaires externes (clients, collectivités).\n\nProfil recherché:\n\nDe formation Bac+5 en data science, statistiques, informatique ou équivalent, vous disposez d'une expérience significative en analyse de données et en modélisation.\nVous maîtrisez les langages Python, R et SQL, ainsi que les outils de data visualisation (notamment Power BI). Une expérience dans la manipulation de données massives et l'utilisation de frameworks d'intelligence artificielle est attendue.\nVous possédez de solides compétences en analyse, en gestion de projet et en modélisation statistique. Une connaissance du secteur des mobilités ou des systèmes de transport (billettique, SAEIV, HASTUS.) constitue un atout.\nDoté(e) d'un esprit analytique, rigoureux(se) et organisé(e), vous êtes également capable de vulgariser des sujets techniques et de collaborer efficacement avec des interlocuteurs variés. Vous faites preuve de curiosité, d'innovation et d'un sens aigu de la confidentialité.\nPoste en CDI, basé à Saint-Denis (Ile de La Réunion) et à pourvoir dès que possible.\n ","
+CDI
+
+Contrat travail
+",unspecified,unspecified,unspecified,Adecco reunion,5 An(s),CDI,False
 6381797,https://candidat.pole-emploi.fr/offres/recherche/detail/6381797,2026-08-28,Offre d'emploi Consultant MOE MSBI socle Data ETL (H/F) - 92 - Nanterre - 6381797 | France Travail,92 - Nanterre,"PROPULSE IT accompagne ses clients grands comptes et PME dans la mise en œuvre des projets It et digitaux. 
 
 PROPULSE IT est un réseau de consultants à forte valeurs ajoutées, complètement associé à notre démarche qualité de suivi des besoins et projets de nos clients.
@@ -3501,45 +3553,6 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Orano,Débutant accepté,CDI,True
-6354745,https://candidat.pole-emploi.fr/offres/recherche/detail/6354745,2026-08-27,Offre d'emploi Data Scientist Confirmé(e) SaaS - E-commerce & Big Data H/F - 44 - Nantes - 6354745 | France Travail,44 - Nantes,"L'ENTREPRISE ACCOMPAGNÉE ET LES MISSIONS
-Externatic accompagne un éditeur de logiciels SaaS en forte croissance, référent dans l'engagement et la fidélisation client pour le e-commerce. Forte d'une récente levée de fonds, cette entreprise s'appuie sur une plateforme gérant les données de plusieurs dizaines de millions d'utilisateurs finaux.
-Afin de franchir un nouveau cap technologique et de structurer sa démarche Data Science, la société crée son tout premier poste de Data Scientist (H/F) au sein de l'équipe Tech basée à Nantes.
-En binôme étroit avec le Data Engineer et sous la responsabilité du CTO, vous piloterez des projets stratégiques intégrés directement au produi
-Vos missions au quotidien
-Au-delà des premiers projets, vous ferez évoluer la pratique de la Data Science au rythme des opportunités produit :
-- Exploration de données massives : analyser les flux de données pour identifier de nouveaux leviers de valeur.
-- Modélisation pragmatique : traduire des problématiques complexes ou partiellement cadrées en solutions statistiques ou de Machine Learning simples et efficaces.
-- Industrialisation collaborative : travailler en synergie avec le Data Engineer pour garantir la mise en production et le suivi des modèles.
-- Vision produit & veille : collaborer avec l'équipe Product pour répondre aux besoins usagers et explorer les technologies émergentes (LLM, IA générative).
-- Précision : Ce poste n'est ni de la BI/reporting, ni de la recherche académique, ni du MLOps isolé. L'objectif est de déployer des modèles concrets, directement utiles aux utilisateurs.
-
-
-PROFIL
-- Expérience : Vous justifiez d'au moins 3 à 5 ans d'expérience en Data Science ou Machine Learning, idéalement acquise dans l'univers SaaS, e-commerce ou CRM.
-- Compétences techniques :
-- Maîtrise avancée de Python et de SQL.
-- Solides fondamentaux en statistiques, analyse exploratoire et feature engineering.
-- Savoir-faire éprouvé en visualisation de données pour restituer vos analyses de façon claire et actionnable.
-- Utilisation fluide des outils modernes d'assistance au développement par IA.
-- Atouts complémentaires : Connaissance des environnements Cloud, des architectures Data à grande échelle ou des bases de données très volumineuses.
-- Soft skills : Proactif(ve) et curieux(se), vous savez structurer un sujet flou, faites preuve d'un véritable ""product mindset"" et privilégiez la simplicité opérationnelle à la complexité algorithmique.
-Processus de recrutement (Modèle 100 % Client Final - 0% ESN)
-- Échange qualifiant : Premier entretien avec un consultant Externatic pour faire le point sur vos compétences et vos aspirations.
-- Entretien technique & managérial : Échange approfondi avec le CTO et le Data Engineer du client.
-- Rencontre équipe : Échange avec les équipes Produit et RH pour valider le fit culturel.
-
-
-AVANTAGES
-- Rémunération : 50 000 € à 60 000 € brut annuel (selon profil).
-- Contrat & Statut : CDI, Forfait jours.
-- Télétravail : organisation hybride avec 2 jours de remote par semaine.
-- Localisation : Locaux situés à Nantes (centre-ville)
-- Environnement : Un rôle fondateur dans une équipe passionnée, au sein d'une organisation où la donnée est déjà disponible, structurée et prête à l'emploi.
-","
-CDI
-
-Contrat travail
-",unspecified,50000.0,60000.0,Externatic,3 An(s),CDI,False
 6341937,https://candidat.pole-emploi.fr/offres/recherche/detail/6341937,2026-08-27,Offre d'emploi Alternance Data Scientist/ IA Engineer - Paris (H/F) - 75 - Paris 2e Arrondissement - 6341937 | France Travail,75 - Paris 2e Arrondissement,"L'ISCOD, spécialiste de la formation en Digital Learning, recherche pour son entreprise partenaire, 2? opérateur français, un(e) Data Scientist/ IA Engineer en contrat d'apprentissage, pour préparer l'une de nos formations diplômantes reconnues par l'Etat de niveau 5 à niveau 7 (Bac+2, Bachelor/Bac+3 ou Mastère/Bac+5).
 Choisissez l'alternance nouvelle génération avec l'ISCOD !
 
@@ -3569,6 +3582,11 @@ CDI
 
 Contrat travail
 ",unspecified,unspecified,unspecified,Unspecified,Expérience exigée,CDI,False
+6325454,https://candidat.pole-emploi.fr/offres/recherche/detail/6325454,2026-08-27,Offre d'emploi Data Scientist - dataTV - Paris - F/H - 75 - Paris 8e Arrondissement - 6325454 | France Travail,75 - Paris 8e Arrondissement,"Descriptif du poste:\n\nTu travailleras en étroite collaboration avec les autres membres des équipes Data du groupe (Data Engineers, Data Scientists, Business Analysts) et en relation avec les diverses entités métier et produit de la filiale TRAX.\n\nMissions principales :\n\nAccompagné(e) par les autres membres de l'équipe et de la fonction Data du groupe Iliad :\n\n \n* Tu prends en charge des projets de bout en bout (E2E), depuis l'extraction, la transformation et le chargement des données (ETL) jusqu'à la mise en production de modèles de Machine Learning robustes et scalables ;\n \n* Tu collabores étroitement avec les Data Engineers et les équipes métiers pour définir, concevoir et déployer des solutions analytiques répondant à des enjeux stratégiques ;\n \n* Tu développes et industrialises des modèles de Machine Learning, en assurant leur monitoring, leur mise à jour et leur amélioration continue en production ;\n \n* Tu contribues activement au partage de connaissances et au développement de la communauté Data du groupe.\n\n\nParmi les principaux sujets abordés par l'équipe sur la partie Data Science figurent :\n\n \n* La recommandation personnalisée de contenus, chaînes, applications pour l'ensemble du parc des utilisateurs ;\n \n* La mise en place d'un système d'AB Testing pour évaluer les performances de nos modèles en production ;\n \n* La création d'un outil d'aide à l'acquisition de nouveaux contenus.\n\n\nBac+5 ou ou équivalent dans le domaine de la data (école d'ingénieur, écoles spécialisées, formation universitaire avec une spécialisation sciences des données).\n\nHard-skills :\n\n \n* minimum 2 ans d'expérience en Data Science, dont une expérience significative sur les systèmes de recommandation (avec passage en production) ;\n \n* Capacité à produire du code robuste et à implémenter des solutions dans un environnement de production (Python, SQL, Git) ;\n \n* I heard you speak English? This will be a real strength in an international context !\n\n\nSoft-skills :\n\n \n* Axé sur les résultats, pragmatique et agile ;\n \n* Capacité à comprendre et traduire des enjeux business complexes en solution technique ;\n \n* Esprit d'équipe et communication efficace\n\n\nProfil recherché:\n\nRattaché(e) au Lead Data TV, tes projets seront à destination de Iliad, maison mère et plus particulièrement de sa filiale TRAX, dédiée à la diffusion de contenu multimédia via l'application Free TV, disponible sur box, tv connectées, smartphones & tablettes.\n\nTu seras amené(e) à accompagner les équipes business et produit dans leurs besoins d'analyse de données par la réalisation de cas d'usage en Machine Learning.\n\nTu travailleras en étroite collaboration avec les autres membres des équipes Data du groupe (Data Engineers, Data Scientists, Business Analysts) et en relation avec les diverses entités métier et produit de la filiale TRAX.\n\nMissions principales :\n\nAccompagné(e) par les autres membres de l'équipe et de la fonction Data du groupe Iliad :\n\n \n* Tu prends en charge des projets de bout en bout (E2E), depuis l'extraction, la transformation et le chargement des données (ETL) jusqu'à la mise en production de modèles de Machine Learning robustes et scalables ;\n \n* Tu collabores étroitement avec les Data Engineers et les équipes métiers pour définir, concevoir et déployer des solutions analytiques répondant à des enjeux stratégiques ;\n \n* Tu développes et industrialises des modèles de Machine Learning, en assurant leur monitoring, leur mise à jour et leur amélioration continue en production ;\n \n* Tu contribues activement au partage de connaissances et au développement de la communauté Data du groupe.\n\n\nParmi les principaux sujets abordés par l'équipe sur la partie Data Science figurent :\n\n \n* La recommandation personnalisée de contenus, chaînes, applications pour l'ensemble du parc des utilisateurs ;\n \n* La mise en place d'un système d'AB Testing pour évaluer les performances de nos modèles en production ;\n \n* La création d'un outil d'aide à l'acquisition de nouveaux contenus.\n","
+CDI
+
+Contrat travail
+",unspecified,unspecified,unspecified,Iliad - free,4 An(s),CDI,False
 6325090,https://candidat.pole-emploi.fr/offres/recherche/detail/6325090,2026-08-27,Offre d'emploi Data Scientist IA Générative & LLM - ADAS F/H - 78 - Guyancourt - 6325090 | France Travail,78 - Guyancourt,"Descriptif du poste:\n\nDans le cadre d'un programme stratégique autour des systèmes avancés d'aide à la conduite (ADAS) et du véhicule autonome, vous rejoignez une équipe spécialisée dans la simulation et l'analyse de données afin de développer des solutions d'Intelligence Artificielle appliquées à des environnements d'ingénierie complexes.\nVous contribuerez au développement d'une plateforme d'automatisation intelligente reposant sur les technologies d'IA générative et participerez à l'industrialisation de solutions destinées à optimiser l'exploitation des données issues de simulations ADAS.\nVous interviendrez au sein d'une équipe Data Science en interaction avec les équipes Simulation, Développement et Ingénierie, dans un environnement international.\nVos missions porteront notamment sur :\n* Développer des solutions d'IA générative basées sur des LLM.\n* Concevoir et développer des agents IA (LLM Agents).\n* Développer des traitements d'analyse de données en Python.\n* Concevoir et automatiser des pipelines Data sous Databricks.\n* Développer des workflows intelligents et robustes (gestion des erreurs, monitoring, reprise automatique).\n* Intégrer des API d'IA générative.\n* Participer à l'analyse des données issues des simulations ADAS.\n* Générer automatiquement des rapports d'analyse et des indicateurs de performance (KPI).\n* Participer à l'industrialisation des solutions sur Google Cloud Platform (GCP).\n* Collaborer avec les équipes Data Science, Simulation et Ingénierie dans un contexte international.\n \nLes points forts de la mission\n* Projet innovant autour de l'IA Générative et des LLM.\n* Développement d'agents IA appliqués aux systèmes ADAS.\n* Environnement technique de haut niveau.\n* Projets liés au véhicule autonome et aux systèmes d'aide à la conduite.\n* Technologies récentes : LLM, Databricks, GCP, PySpark.\n* Collaboration avec des équipes internationales.\n* Mission longue avec forte visibilité et possibilité de prolongation.\n\nProfil recherché:\n\nEt si c'était vous ? \nDe formation Bac+5 (École d'Ingénieur ou Université), vous justifiez d'au moins 2 ans d'expérience en Data Science, Data Engineering ou Intelligence Artificielle au sein d'un environnement industriel ou d'ingénierie.\nVous disposez impérativement d'une expérience concrète dans le développement de solutions d'IA générative et d'agents LLM.\nUne expérience dans les secteurs de l'automobile, de l'aéronautique, de la défense ou plus largement de l'industrie constitue un véritable atout.\nVous êtes reconnu pour votre capacité à :\n* Analyser des problématiques techniques complexes.\n* Développer des solutions innovantes.\n* Travailler en équipe dans un environnement international.\n* Être autonome et force de proposition.\n* Communiquer avec différents interlocuteurs techniques\nVous justifiez de solides compétences en :\n* Python\n* Data Science\n* Data Engineering\n* IA Générative\n* LLM (Large Language Models)\n* Développement d'agents IA (LangChain, LangGraph, CrewAI, AutoGen ou équivalent)\n* Prompt Engineering\n* PySpark\n* Databricks\n* Intégration d'API IA\n* Git\n* Google Cloud Platform (GCP)\nUn bon niveau d'anglais est indispensable pour évoluer dans un environnement international.\nPourquoi rejoindre TRISKELL :\n* Engagement durable : Triskell, société résolument responsable, est fière de son label Platine Ecovadis, attestant de notre engagement envers l'éco-responsabilité et l'éthique.\n* Performance environnementale : Notre évaluation HelloCarbo révèle une empreinte carbone inférieure à la moyenne de notre secteur.\n* Épanouissement au travail : Labellisés Happy at Work avec une évaluation Platine (485,5/500) et un taux de recommandation de + de 93 % et 100% de taux de réponse, nous privilégions le bien-être et l'épanouissement de nos collaborateurs.\n* Diversité et inclusion : En signant la Charte Diversité, nous dépassons les standards légaux pour favoriser un environnement inclusif.\n* Package salarial attractif.\n*  \n* Rejoignez-nous pour participer à des projets innovants au sein d'une entreprise éthique. Notre équipe dynamique attend votre candidature avec impatience !\n* L'entreprise est engagée en faveur de l'inclusion et accueille les candidatures de personnes en situation de handicap.\n ","
 CDI
 
