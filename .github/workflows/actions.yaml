@@ -2,9 +2,9 @@ name: run scrap.py
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 10 * * *'
-    - cron: '0 10 * * 1'
+  # schedule:
+    # - cron: '0 10 * * *'
+    # - cron: '0 10 * * 1'
 
 jobs:
   build:
